@@ -1,0 +1,938 @@
+"Season","Sector","Category","Crop","QueryType","QueryText","KCCAns","StateName","DistrictName","BlockName","CreatedOn"
+"KHARIF","HORTICULTURE","Fruits","Apple","Weather","weather forecast ?","Sunshine
+Max UV Index: 6 (High)
+Thunderstorms: 1%
+Precipitation: 0 mm
+Rain: 0 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","PULWAMA","KELLER                                            ","2014-11-01 10:17:40.100"
+"KHARIF","HORTICULTURE","Fruits","Apple","Weather","control of aphids ?","methyl demeton (0.025%)","JAMMU AND KASHMIR","PULWAMA","KELLER                                            ","2014-11-01 11:24:08.553"
+"KHARIF","HORTICULTURE","Fruits","Apple","Weather","FARMER WANTS INFORMATION REGARDING TIME FOR PRUNNING ?","WHEN 50 TO 60 % LEAF FALLS GO FOR PRUNNING","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-01 13:04:01.167"
+"KHARIF","HORTICULTURE","Fruits","Apple","Weather","WEATHER FORECAS ?","Sunshine
+Max UV Index: 6 (High)
+Thunderstorms: 1%
+Precipitation: 0 mm
+Rain: 0 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-01 13:04:59.033"
+"RABI","AGRICULTURE","Others","Others","Weather","WEATHER REPORT","Sunshine
+Max UV Index: 6 (High)
+Thunderstorms: 0%
+Precipitation: 0 mm
+Rain: 0 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-01 14:57:23.010"
+"RABI","HORTICULTURE","Fruits","Apple","Weather","TODAYS WEATHER FORECAST ?","Mainly clear
+
+Max UV Index: N/A 
+Thunderstorms: 0% 
+Precipitation: 0 mm 
+Rain: 0 mm 
+Snow: 0 CM 
+Ice: 0 mm 
+Hours of Precipitation: 0 hrs 
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","PULWAMA","TRAL                                              ","2014-11-01 15:25:50.027"
+"KHARIF","HORTICULTURE","Vegetables","Knol-Khol","	Plant Protection	","SOWING  TIME  OF  VEGETABLES  IN","SOW SPANICH,   FENIQRIK,  KNOL KHOL,   CARROT,  RDAISH.","JAMMU AND KASHMIR","PULWAMA","TRAL                                              ","2014-11-02 08:19:36.007"
+"RABI","HORTICULTURE","Fruits","Apple","Weather","TODAYS WEATHER FORECAST ?","Cloudy
+Max UV Index: N/A
+Thunderstorms: 24%
+Precipitation: 0 in
+Rain: 0 in
+Snow: 0 in
+Ice: 0 in
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","PULWAMA","TRAL                                              ","2014-11-02 15:38:15.610"
+"RABI","AGRICULTURE","Others","Others","Weather","WEATHER REPORT","Sun and areas of high clouds this morning, then turning cloudy
+Max UV Index: 4 (Moderate)
+Thunderstorms: 24%
+Precipitation: 0 mm
+Rain: 0 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-03 11:52:56.253"
+"RABI","AGRICULTURE","Others","Others","Weather","WEATHER REPORT","Sun and areas of high clouds this morning, then turning cloudy
+Max UV Index: 4 (Moderate)
+Thunderstorms: 24%
+Precipitation: 0 mm
+Rain: 0 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","PULWAMA","TRAL                                              ","2014-11-03 12:02:20.687"
+"RABI","AGRICULTURE","Others","Others","Weather","weather forecast?","Sun and areas of high clouds this morning, then turning cloudy
+Max UV Index: 4 (Moderate)
+Thunderstorms: 24%
+Precipitation: 0 in
+Rain: 0 in
+Snow: 0 in
+Ice: 0 in
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-03 12:39:46.280"
+"RABI","HORTICULTURE","Fruits","Apple","	Plant Protection	","information regarding control of sanjoscale in apple tree","spray chloropyriphos 20ec @ 2ml /litre of water","JAMMU AND KASHMIR","PULWAMA","","2014-11-03 15:18:27.887"
+"KHARIF","HORTICULTURE","Fruits","Apple","	Plant Protection	","CONTROL OF  ROOT  ROT  IN  APPLE","DRENCH  CARBNEADZIM  OR RADOMIL   @  2.5 ML PER  LITRE OF  WATER NEAR THE  ROOT ZONE AREA.","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-04 08:28:09.960"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather  forecast  ?","Cooler; periods of snow and rain this morning followed by a shower in spots this afternoon
+ Max UV Index: 3 (Moderate)
+Thunderstorms: 29%
+Precipitation: 4 mm
+Rain: 4 mm
+Snow: 0.3 CM
+Ice: 0 mm
+Hours of Precipitation: 3 hrs
+Hours of Rain: 2.5 hrs","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-04 08:58:07.890"
+"RABI","AGRICULTURE","Others","Others","Weather","WEATHER FORECAST","Times of clouds and sun with a couple of showers and a thunderstorm, mainly later
+
+Max UV Index: 5 (Moderate) 
+Thunderstorms: 41% 
+Precipitation: 5 mm 
+Rain: 5 mm 
+Snow: 0 CM 
+Ice: 0 mm 
+Hours of Precipitation: 2.5 hrs 
+Hours of Rain: 2.5 hrs","JAMMU AND KASHMIR","PULWAMA","PAMPORE                                           ","2014-11-04 10:01:41.937"
+"RABI","HORTICULTURE","Flowers","Gerbera","	Plant Protection	","CONTROL OF WILTING IN GERBERA ?","SPRAY CARBENDAZIM 50WP @ 2GM OR KARATHANE @ 2GM IN 1 LITRE OF WATER .","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-04 11:33:21.337"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather  forecast   ?","Cooler; periods of snow and rain this morning followed by a shower in spots this afternoon
+ Max UV Index: 3 (Moderate)
+Thunderstorms: 29%
+Precipitation: 4 mm
+Rain: 4 mm
+Snow: 0.3 CM
+Ice: 0 mm
+Hours of Precipitation: 3 hrs
+Hours of Rain: 2.5 hrs","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-04 12:51:52.790"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER   FORECAST  ?","Mostly sunny
+ Max UV Index: 5 (Moderate)
+Thunderstorms: 24%
+Precipitation: 0 in
+Rain: 0 in
+Snow: 0 in
+Ice: 0 in
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-05 07:55:34.300"
+"RABI","AGRICULTURE","Others","Others","Weather","Mostly sunny and warmer; a shower or thunderstorm in spots this afternoon
+
+Max UV Index: 5 (Moderate) 
+Thunderstorms: 40% 
+Precipitation: 1 mm 
+Rain: 1 mm 
+Snow: 0 CM 
+Ice: 0 mm 
+Hours of Precipitation: 0.5 hrs 
+Hours of Rain: 0.5 hrs","Mostly sunny and warmer; a shower or thunderstorm in spots this afternoon
+
+Max UV Index: 5 (Moderate) 
+Thunderstorms: 40% 
+Precipitation: 1 mm 
+Rain: 1 mm 
+Snow: 0 CM 
+Ice: 0 mm 
+Hours of Precipitation: 0.5 hrs 
+Hours of Rain: 0.5 hrs","JAMMU AND KASHMIR","PULWAMA","KAKAPORA                                          ","2014-11-05 08:56:13.840"
+"RABI","AGRICULTURE","Others","Others","Weather","weather forecast?","Mostly sunny and warmer; a shower or thunderstorm in spots this afternoon
+Max UV Index: 5 (Moderate)
+Thunderstorms: 40%
+Precipitation: 0.04 in
+Rain: 0.04 in
+Snow: 0 in
+Ice: 0 in
+Hours of Precipitation: 0.5 hrs
+Hours of Rain: 0.5 hrs","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-05 10:36:21.067"
+"RABI","AGRICULTURE","Others","Others","Weather","WEATHER FORECAST","Milder with variable cloudiness; a shower or thunderstorm in spots this afternoon
+
+Max UV Index: 5 (Moderate) 
+Thunderstorms: 40% 
+Precipitation: 1 mm 
+Rain: 1 mm 
+Snow: 0 CM 
+Ice: 0 mm 
+Hours of Precipitation: 0.5 hrs 
+Hours of Rain: 0.5 hrs","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-05 10:37:45.803"
+"RABI","HORTICULTURE","Fruits","Apple","	Plant Protection	","information regarding time of fertilizer in apple tree","time of fertilizer in apple tree is marc-apri and june july","JAMMU AND KASHMIR","PULWAMA","KELLER                                            ","2014-11-05 12:56:50.267"
+"RABI","HORTICULTURE","Vegetables","Pea (Vegetable)","	Plant Protection	","seed rate of pea","seed rate of pea is 5kg/ kanal","JAMMU AND KASHMIR","PULWAMA","KAKAPORA                                          ","2014-11-05 14:48:11.960"
+"RABI","HORTICULTURE","Fruits","Apple","	Plant Protection	","PREPRATION OF BORDEAUX PAINT ?","MIX COPPER SULPHATE +LIME DUST+LINSEED OIL .","JAMMU AND KASHMIR","PULWAMA","KAKAPORA                                          ","2014-11-05 17:43:59.017"
+"RABI","AGRICULTURE","Oilseeds","Mustard","	Field Preparation	","HOW TO CONTROL APHID IN MUSTARD ?","SPRAY WITH IMIDACLOPRIDE @ 2ML/LITER OF WATER","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-05 20:01:27.740"
+"RABI","HORTICULTURE","Fruits","Apple","	Plant Protection	","HOW TO CONTROL ROOT ROT IN APPLE ?","DRENCH THE ROOT WITH CARBENDAZIM @ 2ML/LITER OF WATER","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-05 20:42:40.660"
+"RABI","AGRICULTURE","Others","Others","Weather","WEATHER FORECAST ?","Times of sun and clouds with a thundershower in spots this afternoon
+Max UV Index: 5 (Moderate)
+Thunderstorms: 31%
+Precipitation: 0.02 in
+Rain: 0.02 in
+Snow: 0 in
+Ice: 0 in
+Hours of Precipitation: 0.5 hrs
+Hours of Rain: 0.5 hrs","JAMMU AND KASHMIR","PULWAMA","KELLER                                            ","2014-11-06 07:27:08.730"
+"RABI","HORTICULTURE","Fruits","Apple","	Plant Protection	","INFORMATION REGARDING SOIL TESTING IN APPLE ?","IN THIS REGARD VISIT NEAREST HORTICULTURE OFFICE OR KVK.","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-06 10:43:33.950"
+"KHARIF","HORTICULTURE","Fruits","Apple","	Plant Protection	","HOW TO CONTROL COLLAR ROT IN APPLE ?","apply Chaubatia paint or Bordex paint after
+scarification of the affected areas.","JAMMU AND KASHMIR","PULWAMA","KELLER                                            ","2014-11-06 11:11:17.910"
+"RABI","HORTICULTURE","Vegetables","Onion","	Plant Protection	","information regarding fertilizer dose in onion","apply urea -11kg, dap-7kg, mop-5kg/kanal","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-06 12:09:31.823"
+"KHARIF","HORTICULTURE","Fruits","Apple","	Plant Protection	","HOW TO CONTROL ROOT ROT IN APPLE ?","drenching
+the root zone of tree with Carbendazim 50 WP + Mancozeb 75 WP in the ratio
+of 1:4 per litre of water need to be followed","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-06 12:11:50.990"
+"KHARIF","AGRICULTURE","Cereals","Wheat","Weather","TODAYS WEATHER FORECAST ?","Partly sunny and pleasant
+
+Max UV Index: 5 (Moderate) 
+Thunderstorms: 0% 
+Precipitation: 0 mm 
+Rain: 0 mm 
+Snow: 0 CM 
+Ice: 0 mm 
+Hours of Precipitation: 0 hrs 
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","PULWAMA","TRAL                                              ","2014-11-06 13:11:21.580"
+"RABI","AGRICULTURE","Others","Others","	Plant Protection	","RODENTS ATTACK","ZINC PHOSPHIDE","JAMMU AND KASHMIR","PULWAMA","TRAL                                              ","2014-11-06 14:11:25.857"
+"RABI","AGRICULTURE","Others","Others","Weather","WEATHER FORECAST ?","Cooler; occasional morning rain and drizzle, then afternoon showers and thunderstorms
+Max UV Index: 3 (Moderate)
+Thunderstorms: 40%
+Precipitation: 9 mm
+Rain: 9 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 4.5 hrs
+Hours of Rain: 4.5 hrs","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-07 07:55:34.200"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather  forecast ?","Cooler; occasional morning rain and drizzle, then afternoon showers and thunderstorms
+ Max UV Index: 3 (Moderate)
+Thunderstorms: 40%
+Precipitation: 0.34 in
+Rain: 0.34 in
+Snow: 0 in
+Ice: 0 in
+Hours of Precipitation: 4.5 hrs
+Hours of Rain: 4.5 hrs","JAMMU AND KASHMIR","PULWAMA","PAMPORE                                           ","2014-11-07 08:08:35.160"
+"RABI","HORTICULTURE","Fruits","Apple","Weather","WEATHER FORECAST ?","Cooler; occasional morning rain and drizzle, then afternoon showers and thunderstorms
+Max UV Index: 3 (Moderate)
+Thunderstorms: 40%
+Precipitation: 9 mm
+Rain: 9 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 4.5 hrs
+Hours of Rain: 4.5 hrs","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-07 08:21:34.033"
+"KHARIF","AGRICULTURE","Others","Others","	Field Preparation	","WEATHER  FORECASTY ?","Cloudy and cooler with a little rain
+ Max UV Index: 3 (Moderate)
+Thunderstorms: 24%
+Precipitation: 0.12 in
+Rain: 0.12 in
+Snow: 0 in
+Ice: 0 in
+Hours of Precipitation: 2 hrs
+Hours of Rain: 2 hrs","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-07 09:08:48.593"
+"RABI","AGRICULTURE","Oilseeds","Mustard","Varieties","WEATHER FORECAST ?","Cooler; rain and drizzle this morning followed by showers and thunderstorms this afternoon
+Max UV Index: 3 (Moderate)
+Thunderstorms: 40%
+Precipitation: 11 mm
+Rain: 11 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 5.5 hrs
+Hours of Rain: 5.5 hrs","JAMMU AND KASHMIR","PULWAMA","PAMPORE                                           ","2014-11-07 09:33:25.480"
+"RABI","AGRICULTURE","Cereals","Oats ","Weather","WEATHER FORECAST ?","Cooler; rain and drizzle this morning followed by showers and thunderstorms this afternoon
+Max UV Index: 3 (Moderate)
+Thunderstorms: 40%
+Precipitation: 11 mm
+Rain: 11 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 5.5 hrs
+Hours of Rain: 5.5 hrs","JAMMU AND KASHMIR","PULWAMA","PAMPORE                                           ","2014-11-07 09:45:15.197"
+"RABI","AGRICULTURE","Others","Others","Weather","weather forecast?","Cooler with periods of rain
+Max UV Index: 3 (Moderate)
+Thunderstorms: 24%
+Precipitation: 21 mm
+Rain: 21 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 7 hrs
+Hours of Rain: 7 hrs","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-07 10:49:03.687"
+"RABI","AGRICULTURE","Others","Others","Weather","WEATHER FORECAST ?","Cloudy and colder; periods of rain this morning, then afternoon showers and thunderstorms
+Max UV Index: 3 (Moderate)
+Thunderstorms: 40%
+Precipitation: 9 mm
+Rain: 9 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 4.5 hrs
+Hours of Rain: 4.5 hrs","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-07 10:50:58.980"
+"RABI","AGRICULTURE","Others","Others","Weather","weather forecast?","Cooler with periods of rain
+Max UV Index: 3 (Moderate)
+Thunderstorms: 24%
+Precipitation: 21 mm
+Rain: 21 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 7 hrs
+Hours of Rain: 7 hrs","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-07 11:42:18.627"
+"RABI","HORTICULTURE","Fruits","Apple","	Plant Protection	","information regarding time of training and pruning","time of training and pruning is oct-nov","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-07 11:59:02.493"
+"RABI","AGRICULTURE","Others","Others","Weather","weather forecast?","Cooler; occasional morning rain and drizzle, then afternoon showers and thunderstorms
+Max UV Index: 3 (Moderate)
+Thunderstorms: 40%
+Precipitation: 9 mm
+Rain: 9 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 4.5 hrs
+Hours of Rain: 4.5 hrs","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-07 12:33:18.897"
+"RABI","AGRICULTURE","Others","Others","Weather","weather","Cloudy; occasional rain and drizzle this morning, then afternoon thundershowers
+Max UV Index: 3 (Moderate)
+Thunderstorms: 38%
+Precipitation: 10 mm
+Rain: 10 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 4.5 hrs
+Hours of Rain: 4.5 hrs","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-07 15:07:11.680"
+"RABI","HORTICULTURE","Fruits","Apple","Weather","TODAYS WEATHER FORECAST ?","Cloudy and colder; periods of rain this morning, then afternoon showers and thunderstorms
+Max UV Index: 3 (Moderate)
+Thunderstorms: 40%
+Precipitation: 9 mm
+Rain: 9 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 4.5 hrs
+Hours of Rain: 4.5 hrs","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-07 16:02:49.033"
+"RABI","HORTICULTURE","Fruits","Apple","Weather","todays weather forecast ?","Cloudy and colder; periods of rain this morning, then afternoon showers and thunderstorms
+Max UV Index: 3 (Moderate)
+Thunderstorms: 40%
+Precipitation: 9 mm
+Rain: 9 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 4.5 hrs
+Hours of Rain: 4.5 hrs","JAMMU AND KASHMIR","PULWAMA","PAMPORE                                           ","2014-11-07 17:30:35.517"
+"KHARIF","HORTICULTURE","Fruits","Apple","Weather","WEATHER FORECAST ?","Plenty of clouds with thundershowers
+Max UV Index: N/A
+Thunderstorms: 31%
+Precipitation: 12 mm
+Rain: 12 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 6 hrs
+Hours of Rain: 6 hrs","JAMMU AND KASHMIR","PULWAMA","KELLER                                            ","2014-11-07 20:34:20.943"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather  forecast   ?","A couple of morning showers followed by a shower or thunderstorm in spots this afternoon
+ Max UV Index: 4 (Moderate)
+Thunderstorms: 40%
+Precipitation: 0.15 in
+Rain: 0.15 in
+Snow: 0 in
+Ice: 0 in
+Hours of Precipitation: 2 hrs
+Hours of Rain: 2 hrs","JAMMU AND KASHMIR","PULWAMA","TRAL                                              ","2014-11-08 07:46:57.933"
+"RABI","AGRICULTURE","Others","Others","Weather","WEATHER FORECAST ?","Periods of clouds and sunshine with a couple of showers and a thunderstorm
+Max UV Index: 5 (Moderate)
+Thunderstorms: 40%
+Precipitation: 5 mm
+Rain: 5 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 3 hrs
+Hours of Rain: 3 hrs","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-08 07:47:27.733"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER   ?","Periods of clouds and sunshine with a couple of showers and a thunderstorm
+ Max UV Index: 5 (Moderate)
+Thunderstorms: 40%
+Precipitation: 0.21 in
+Rain: 0.21 in
+Snow: 0 in
+Ice: 0 in
+Hours of Precipitation: 3 hrs
+Hours of Rain: 3 hrs","JAMMU AND KASHMIR","PULWAMA","KAKAPORA                                          ","2014-11-08 08:22:01.440"
+"RABI","AGRICULTURE","Others","Others","Weather","weather forecast ?","Periods of clouds and sunshine with a couple of showers and a thunderstorm
+Max UV Index: 5 (Moderate)
+Thunderstorms: 40%
+Precipitation: 5 mm
+Rain: 5 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 3 hrs
+Hours of Rain: 3 hrs","JAMMU AND KASHMIR","PULWAMA","PAMPORE                                           ","2014-11-08 08:23:10.623"
+"RABI","AGRICULTURE","Oilseeds","Mustard","Cultural Practices","SOWING TIME OF MUSTARD ?","SOWING TIME OF MUSTARD IS 15TH OCT.","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-08 09:48:41.380"
+"RABI","AGRICULTURE","Others","Others","Weather","weather forecast?","Periods of clouds and sunshine with a couple of showers and a thunderstorm
+Max UV Index: 4 (Moderate)
+Thunderstorms: 40%
+Precipitation: 6 mm
+Rain: 6 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 3 hrs
+Hours of Rain: 3 hrs","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-08 10:56:52.477"
+"RABI","HORTICULTURE","Fruits","Apple","	Plant Protection	","WHICH PAINT IS APPLIED ON APPLE TREE AFTER PRUNING ?","AFTER PRUNING APPLY BORDEAUX PASTE OR CHABUTIA PASTE ON THE CUTTED END OF THE BRANCH .","JAMMU AND KASHMIR","PULWAMA","KELLER                                            ","2014-11-08 16:24:28.817"
+"RABI","HORTICULTURE","Vegetables","Pea (Vegetable)","	Plant Protection	","information regarding sowing time of pea","sowing time of pea is oct-nov.","JAMMU AND KASHMIR","PULWAMA","TRAL                                              ","2014-11-09 07:45:01.073"
+"RABI","HORTICULTURE","Condiments and Spices","Garlic","	Plant Protection	","sowing time of garlic","sowing time of garlic is oct-nov.","JAMMU AND KASHMIR","PULWAMA","PAMPORE                                           ","2014-11-09 08:13:18.883"
+"KHARIF","HORTICULTURE","Vegetables","Peas (field peas/ garden peas/matar)","	Plant Protection	","SEED RATE OF PEA PER KANAL ?","SEED RATE OF PEA PER KANAL 4-4.5KG","JAMMU AND KASHMIR","PULWAMA","TRAL                                              ","2014-11-09 08:26:27.377"
+"RABI","AGRICULTURE","Others","Others","Weather","ROOT ROT","DRENCH CARBENDAZIM 2G/LITRE OF WATER IN ROOT ZONE OF THE PLANT","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-09 09:07:04.327"
+"RABI","AGRICULTURE","Others","Others","Fertilizer Use and Availability","information regarding weather?","Brilliant sunshine
+ Max UV Index: 5 (Moderate)
+Thunderstorms: 24%
+Precipitation: 0 in
+Rain: 0 in
+Snow: 0 in
+Ice: 0 in
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","PULWAMA","TRAL                                              ","2014-11-09 11:20:53.830"
+"RABI","HORTICULTURE","Fruits","Apple","	Plant Protection	","TIME OF APPLICATION OF FARM YARD MANURE IN APPLE ?","TIME OF APPLICATION OF FARM YARD MANURE IN APPLE IS FEB-MARCH.","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-09 12:51:27.877"
+"RABI","AGRICULTURE","Others","Others","Weather","WEATHER","Brilliant sunshine
+
+Max UV Index: 5 (Moderate) 
+Thunderstorms: 24% 
+Precipitation: 0 mm 
+Rain: 0 mm 
+Snow: 0 CM 
+Ice: 0 mm 
+Hours of Precipitation: 0 hrs 
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","PULWAMA","PAMPORE                                           ","2014-11-09 13:28:56.910"
+"RABI","HORTICULTURE","Fruits","Apple","	Plant Protection	","DOSAGE OF COPPER OXYCHLORIDE ?","DOSAGE OF COPPER OXYCHLORIDE IS 3GM/LITRE OF WATER.","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-09 13:45:13.317"
+"RABI","AGRICULTURE","Others","Others","Weather","WEATHER FORECAST ?","Sunny
+Max UV Index: 5 (Moderate)
+Thunderstorms: 0%
+Precipitation: 0 in
+Rain: 0 in
+Snow: 0 in
+Ice: 0 in
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","PULWAMA","TRAL                                              ","2014-11-11 09:41:58.973"
+"RABI","HORTICULTURE","Fruits","Apple","	Plant Protection	","INFORMATION REGARDING CONTROL OF RAT","APPLY RAT KILLER","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-11 11:48:07.243"
+"RABI","HORTICULTURE","Fruits","Apple","	Plant Protection	","CONTROL OF CUT WORM IN APPLE TREE ?","APPLY PHORATE 10G @ 500GM PER KANAL .","JAMMU AND KASHMIR","PULWAMA","TRAL                                              ","2014-11-11 11:51:28.090"
+"RABI","HORTICULTURE","Vegetables","Pea (Vegetable)","Cultural Practices","SEED RATE OF GARLIC PER KANAL ?","SEED RATE OF GARLIC PER KANAL  40-50KG","JAMMU AND KASHMIR","PULWAMA","TRAL                                              ","2014-11-12 08:13:04.540"
+"RABI","HORTICULTURE","Fruits","Apple","	Plant Protection	","TIME OF TRANING AND PRUNING IN APPLE TREE ?","TRANING AND PRUNING OF APPLE TREE SHOULD BE DONE AFTER 50% LEAF FALL .","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-12 14:28:21.783"
+"RABI","HORTICULTURE","Fruits","Apple","Fertilizer Use and Availability","TIME OF APPLICATION OF FYM IN APPLE TREE ?","APPLY FYM IN THE MONTH OF NOV-DEC .","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-12 17:20:02.180"
+"KHARIF","HORTICULTURE","Fruits","Apple","Weather","weather forecast ?","Clear
+
+Max UV Index: N/A 
+Thunderstorms: 0% 
+Precipitation: 0 mm 
+Rain: 0 mm 
+Snow: 0 CM 
+Ice: 0 mm 
+Hours of Precipitation: 0 hrs 
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","PULWAMA","PAMPORE                                           ","2014-11-12 19:26:46.073"
+"RABI","HORTICULTURE","Fruits","Apple","	Plant Protection	","ALTERNATE BEARING IN APPLE","JUDICIOUS SPUR PRUNING IN WINTER TO DECREASE CROP LOAD","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-13 08:27:31.163"
+"RABI","AGRICULTURE","Others","Others","Weather","WEATHER FORECAST","Nice with sunshine
+
+Max UV Index: 5 (Moderate) 
+Thunderstorms: 0% 
+Precipitation: 0 mm 
+Rain: 0 mm 
+Snow: 0 CM 
+Ice: 0 mm 
+Hours of Precipitation: 0 hrs 
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-13 08:37:41.493"
+"RABI","AGRICULTURE","Others","Others","Weather","ALTERNATE BEARING IN APPLE","JUDICIOUS SPUR PRUNING IN WINTER TO DECREASE CROP LOAD","JAMMU AND KASHMIR","PULWAMA","KELLER                                            ","2014-11-13 09:07:12.547"
+"RABI","HORTICULTURE","Fruits","Apple","	Plant Protection	","information regarding root rot in apple?","spray of carbendazim @ 2gm in 1 lt of water","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-13 10:29:10.710"
+"KHARIF","HORTICULTURE","Fruits","Apple","Weather","WEATHER FORECAST ?","Clear to partly cloudy
+Max UV Index: N/A
+Thunderstorms: 0%
+Precipitation: 0 mm
+Rain: 0 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-13 18:28:51.913"
+"RABI","HORTICULTURE","Fruits","Apple","Cultural Practices","PRUNING TIME","JUDICIOUS SPUR PRUNING IN WINTER TO DECREASE CROP LOAD","JAMMU AND KASHMIR","PULWAMA","TRAL                                              ","2014-11-14 08:04:09.970"
+"RABI","AGRICULTURE","Others","Others","Weather","WEATHER FORECAST","Sunny to partly cloudy
+
+Max UV Index: 5 (Moderate) 
+Thunderstorms: 0% 
+Precipitation: 0 mm 
+Rain: 0 mm 
+Snow: 0 CM 
+Ice: 0 mm 
+Hours of Precipitation: 0 hrs 
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","PULWAMA","PAMPORE                                           ","2014-11-14 09:03:44.770"
+"RABI","HORTICULTURE","Fruits","Apple","	Plant Protection	","CONTROL OF SAN JOSE SCALE ON APPLE TREE ?","SPRAY CHLOROPYRIPHOS 20EC @ 100ML IN 100 LITRE OF WATER .","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-14 14:08:11.197"
+"RABI","HORTICULTURE","Fruits","Apple","	Plant Protection	","control of canker","clean the affected area with knife. apply boardeux paste","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-14 15:34:43.130"
+"KHARIF","HORTICULTURE","Fruits","Apple","	Plant Protection	","HOW TO CONTROL CANKER IN APPLE ?","apply Chaubatia paint or Bordex paint after scarification of the affected areas.","JAMMU AND KASHMIR","PULWAMA","TRAL                                              ","2014-11-15 08:23:51.280"
+"RABI","AGRICULTURE","Others","Others","Weather","WEATHER FORECAST ?","Partly sunny and pleasant
+Max UV Index: 4 (Moderate)
+Thunderstorms: 0%
+Precipitation: 0 in
+Rain: 0 in
+Snow: 0 in
+Ice: 0 in
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","PULWAMA","PAMPORE                                           ","2014-11-15 09:55:24.843"
+"RABI","AGRICULTURE","Others","Others","Weather","weather report","Partly sunny and pleasant
+Max UV Index: 4 (Moderate)
+Thunderstorms: 0%
+Precipitation: 0 mm
+Rain: 0 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-15 11:31:04.440"
+"RABI","AGRICULTURE","Others","Others","	Plant Protection	","soil testing","SOIL TEST AT YOUR NEAREST AGRICULTURE SOIL TESTING LABORATORY","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-15 13:14:39.443"
+"RABI","HORTICULTURE","Fruits","Apple","	Plant Protection	","time of fertilizer in apple tree","time of fertilizer in apple tree is march - april and june -july","JAMMU AND KASHMIR","PULWAMA","","2014-11-15 13:31:02.887"
+"RABI","AGRICULTURE","Cereals","Oats ","Cultural Practices","FERTILIZER DOSE IN OATS PER KANAL ?","APPLY 5.6KG UREA ,6.5KG DAP AND 3KG MOP PER KANAL.","JAMMU AND KASHMIR","PULWAMA","PAMPORE                                           ","2014-11-15 13:38:00.053"
+"RABI","AGRICULTURE","Cereals","Oats ","Cultural Practices","FERTILIZER DOSE IN OATS PER KANAL ?","APPLY 5.6KG UREA ,6.5KG DAP AND 3KG MOP PER KANAL.","JAMMU AND KASHMIR","PULWAMA","PAMPORE                                           ","2014-11-15 13:56:24.037"
+"RABI","AGRICULTURE","Cereals","Oats ","Fertilizer Use and Availability","FERTILIZER DOSE IN OATS PER KANAL ?","APPLY 5.5KG UREA ,6.5KG DAP AND 3.5KG MOP PER KANAK.","JAMMU AND KASHMIR","PULWAMA","TRAL                                              ","2014-11-16 08:10:39.510"
+"RABI","AGRICULTURE","Others","Others","Varieties","WEATHER FORECAST","Pleasant with plenty of sunshine
+
+Max UV Index: 5 (Moderate) 
+Thunderstorms: 0% 
+Precipitation: 0 mm 
+Rain: 0 mm 
+Snow: 0 CM 
+Ice: 0 mm 
+Hours of Precipitation: 0 hrs 
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","PULWAMA","PAMPORE                                           ","2014-11-16 09:08:35.503"
+"RABI","HORTICULTURE","Fruits","Apple","	Plant Protection	","DOSE OF COPPER OXYCHLORIDE IN APPLE ?","DOSE OF COPPER OXYCHLORIDE IN APPLE IS 300GM IN 100 LITER OF WATER","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-16 09:50:38.900"
+"RABI","AGRICULTURE","Others","Others","Weather","SPRAY AFTER 50 % LEAF FALL","COPPER OYCHLORIDE 300G IN 100 LT WATER","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-16 11:53:01.813"
+"RABI","HORTICULTURE","Vegetables","Onion","	Plant Protection	","FERTILIZER DOSE IN ONION PER KANAL ?","APPLY 10KG UREA ,4.5KG DAP AND 3KG MOP PER KANAL.","JAMMU AND KASHMIR","PULWAMA","TRAL                                              ","2014-11-16 15:36:30.980"
+"RABI","AGRICULTURE","Oilseeds","Mustard","Cultural Practices","SOWING TIME OF MUSTARD ?","SOWING TIME OF MUSTARD START FROM 15TH OCT.","JAMMU AND KASHMIR","PULWAMA","PAMPORE                                           ","2014-11-17 08:01:44.770"
+"RABI","HORTICULTURE","Fruits","Apple","	Plant Protection	","DOSE OF COPPER OVXYCHLORIDE IN APPLE ?","DOSE OF COPPER OVXYCHLORIDE IN APPLE IS 300GM IN 100 LITER OF WATER","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-17 08:42:29.480"
+"RABI","HORTICULTURE","Fruits","Apple","Weather","WEATHER FORECAST ?","Pleasant with plenty of sunshine
+Max UV Index: 5 (Moderate)
+Thunderstorms: 0%
+Precipitation: 0 in
+Rain: 0 in
+Snow: 0 in
+Ice: 0 in
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","PULWAMA","KAKAPORA                                          ","2014-11-17 09:53:47.440"
+"RABI","HORTICULTURE","Fruits","Apple","	Plant Protection	","HOW TO CONTROL WHOOLY APHID IN APPLE ?","SPRAY WITH CHLOROPYRIPHOS @ 100ML IN 100 LITER OF WATER","JAMMU AND KASHMIR","PULWAMA","KELLER                                            ","2014-11-17 12:31:04.210"
+"RABI","HORTICULTURE","Fruits","Apple","	Plant Protection	","DOSE OF COPPER OXYCHLORIDE IN APPLE ?","DOSE OF COPPER OXYCHLORIDE IN APPLE IS 300GM IN 100 LITER OF WATER","JAMMU AND KASHMIR","PULWAMA","KELLER                                            ","2014-11-17 19:00:25.443"
+"RABI","HORTICULTURE","Fruits","Apple","	Plant Protection	","time of fertilizer in apple tree","time of fertilizer in apple tree is march-april and june july","JAMMU AND KASHMIR","PULWAMA","TRAL                                              ","2014-11-18 10:38:58.557"
+"RABI","HORTICULTURE","Fruits","Apple","Weather","TODAYS WEATHER FORECAST ?","Plenty of sunshine
+Max UV Index: 5 (Moderate)
+Thunderstorms: 0%
+Precipitation: 0 mm
+Rain: 0 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-18 13:01:01.760"
+"RABI","HORTICULTURE","Fruits","Apple","Weather","TODAYS WEATHER FORECAST ?","Plenty of sunshine
+Max UV Index: 5 (Moderate)
+Thunderstorms: 0%
+Precipitation: 0 mm
+Rain: 0 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-18 16:32:35.150"
+"RABI","AGRICULTURE","Others","Others","Soil Testing","SOLI TESTING PROCEDURE","SOIL TEST AT YOUR NEAREST SOIL TESTING LABORATORY","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-18 16:52:55.160"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER FIRECAST","Mild with plenty of sun
+Max UV Index: 4 (Moderate)
+Thunderstorms: 0%
+Precipitation: 0 mm
+Rain: 0 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-18 19:58:50.060"
+"RABI","HORTICULTURE","Fruits","Apple","	Plant Protection	","HOW TO CONTROL CANKER IN APPLE ?","APPLY BORDEAUX PASTE ON THE WOUND.","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-19 12:41:47.263"
+"KHARIF","AGRICULTURE","Others","Others","	Plant Protection	","weather ?","Abundant sunshine and pleasant
+ Max UV Index: 5 (Moderate)
+Thunderstorms: 0%
+Precipitation: 0 in
+Rain: 0 in
+Snow: 0 in
+Ice: 0 in
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","PULWAMA","TRAL                                              ","2014-11-20 07:57:52.973"
+"RABI","AGRICULTURE","Others","Others","Weather","weather foorecast?","Abundant sunshine and pleasant
+Max UV Index: 5 (Moderate)
+Thunderstorms: 0%
+Precipitation: 0 mm
+Rain: 0 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-20 11:35:58.460"
+"RABI","HORTICULTURE","Fruits","Apple","	Plant Protection	","INFORMATION REGARDING PURNING AND TRAINING IN APPLE ?","PURNING AND TRAINING IN APPLE IS DONE WHEN 50% LEAVES OCCUR.","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-20 13:12:32.787"
+"RABI","HORTICULTURE","Fruits","Apple","	Plant Protection	","HOW TO CONTROL SANJO SCALE IN APPLE ?","SPRAY WITH CHLOROPYRIPHOS @ 100ML IN 100 LITER OF WATER","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-20 14:52:53.660"
+"RABI","AGRICULTURE","Others","Others","Weather","weather forecast?","Beautiful with a full day of sunshine
+Max UV Index: 4 (Moderate)
+Thunderstorms: 0%
+Precipitation: 0 mm
+Rain: 0 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-20 14:53:57.607"
+"RABI","HORTICULTURE","Fruits","Apple","Fertilizer Use and Availability","TIME OF APPLICATION OF FYM IN APPLE TREE ?","APPLY FYM IN THE MONTH OF OCT-NOV .","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-20 17:22:11.230"
+"RABI","HORTICULTURE","Vegetables","Peas (field peas/ garden peas/matar)","Cultural Practices","SOWING TIME OF PEA ?","SOWING TIME OF PEA OCT-NOV.","JAMMU AND KASHMIR","PULWAMA","TRAL                                              ","2014-11-20 19:18:59.563"
+"RABI","AGRICULTURE","Cereals","Oats ","Seeds","SEED RATE OF OATS PER KANAL ?","SEED RATE OF OATS PER KANAL IS 5KG","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-20 20:59:26.230"
+"RABI","AGRICULTURE","Others","Others","Weather","weather forecast ?","Beautiful with a full day of sunshine
+Max UV Index: 4 (Moderate)
+Thunderstorms: 0%
+Precipitation: 0 mm
+Rain: 0 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-20 21:00:38.830"
+"RABI","AGRICULTURE","Oilseeds","Mustard","Sowing Time and Weather","SOWING TIME OF MUSTARD ?","SOWING TIME OF MUSTARD START FROM 15TH OCT.","JAMMU AND KASHMIR","PULWAMA","TRAL                                              ","2014-11-21 08:03:31.660"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather","Sunshine and some clouds
+ Max UV Index: 4 (Moderate)
+Thunderstorms: 0%
+Precipitation: 0 in
+Rain: 0 in
+Snow: 0 in
+Ice: 0 in
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","PULWAMA","TRAL                                              ","2014-11-21 08:25:01.457"
+"RABI","AGRICULTURE","Others","Others","Weather","WEATHER FORECAST?","Sunshine and some clouds
+Max UV Index: 4 (Moderate)
+Thunderstorms: 0%
+Precipitation: 0 mm
+Rain: 0 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-21 08:47:20.680"
+"KHARIF","AGRICULTURE","Others","Others","	Field Preparation	","WEATHER FORECAST ?","Sunshine and some clouds
+ Max UV Index: 4 (Moderate)
+Thunderstorms: 0%
+Precipitation: 0 in
+Rain: 0 in
+Snow: 0 in
+Ice: 0 in
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-21 08:51:00.533"
+"RABI","AGRICULTURE","Others","Others","Weather","WEATHER FORECAST?","Sunshine and some clouds
+Max UV Index: 4 (Moderate)
+Thunderstorms: 0%
+Precipitation: 0 mm
+Rain: 0 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","PULWAMA","PAMPORE                                           ","2014-11-21 10:34:51.497"
+"RABI","AGRICULTURE","Others","Others","Weather","WEATHER FORECAST?","Sunshine and some clouds
+Max UV Index: 4 (Moderate)
+Thunderstorms: 0%
+Precipitation: 0 mm
+Rain: 0 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","PULWAMA","TRAL                                              ","2014-11-21 10:42:24.790"
+"RABI","HORTICULTURE","Fruits","Apple","	Plant Protection	","WHICH SPRAY IS RECOMMENDED FOR PRE FALL OF LEAVES ?","SPRAY WITH UREA @ 50GM IN 10 LITER OF WATER.","JAMMU AND KASHMIR","PULWAMA","PAMPORE                                           ","2014-11-21 10:52:08.190"
+"RABI","HORTICULTURE","Fruits","Apple","Weather","TODAYS WEATHER FORECAST ?","More sunshine than clouds
+Max UV Index: 4 (Moderate)
+Thunderstorms: 0%
+Precipitation: 0 mm
+Rain: 0 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","PULWAMA","KELLER                                            ","2014-11-21 11:41:17.693"
+"RABI","HORTICULTURE","Fruits","Apple","	Plant Protection	","RECOMADATION OF SPRAY OF COPPER OXYCHLORIDE ON APPLE TREE ?","AT MINUS TEMPERATURE NO SPRAY IS RECOMENDED ON APPLE TREE .","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-21 12:15:58.137"
+"RABI","HORTICULTURE","Fruits","Apple","	Plant Protection	","information regarding time of training and pruning","time of training and pruning is oct-nov.","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-21 12:34:25.700"
+"RABI","AGRICULTURE","Others","Others","Weather","WEATHER FORECAST ?","Fog will lift this morning; sunshine and some clouds
+Max UV Index: 4 (Moderate)
+Thunderstorms: 0%
+Precipitation: 0 in
+Rain: 0 in
+Snow: 0 in
+Ice: 0 in
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-21 15:01:06.963"
+"RABI","HORTICULTURE","Fruits","Apple","Weather","WEATHER FORECAST ?","Fog will burn off this morning; sunny
+Max UV Index: 5 (Moderate)
+Thunderstorms: 0%
+Precipitation: 0 in
+Rain: 0 in
+Snow: 0 in
+Ice: 0 in
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","PULWAMA","KELLER                                            ","2014-11-21 17:15:37.007"
+"RABI","HORTICULTURE","Fruits","Apple","Weather","TODAYS WEATHER FORECAST ?","Clear to partly cloudy
+Max UV Index: N/A
+Thunderstorms: 0%
+Precipitation: 0 mm
+Rain: 0 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-21 17:27:41.160"
+"RABI","HORTICULTURE","Fruits","Apple","	Plant Protection	","WHICH SPRAY IS RECOMMENDED FOR Pre-leaf fall IN APPLE ?","SPRAY WITH UREA @ 50GM IN 10 LITER OF WATER.","JAMMU AND KASHMIR","PULWAMA","TRAL                                              ","2014-11-22 08:35:55.063"
+"RABI","HORTICULTURE","Fruits","Apple","	Plant Protection	","HOW TO CONTROL LICHEN GROWTH IN APPLE ?","SPRAY WITH COPPER OXYCHLORIDE @ 300GM IN 100 LITER OF WATER","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-22 10:11:40.170"
+"KHARIF","HORTICULTURE","Vegetables","Knol-Khol","Fertilizer Use and Availability","FERTILIZER DOSE IN KNOL KHOL ?","APPLY 6.5KH UREA ,4KG DAP AND 3KG MOP PER KANAL","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-22 17:43:05.237"
+"RABI","HORTICULTURE","Fruits","Apple","Cultural Practices","PRUNIUNG","JUDICIOUS SPUR PRUNING IN WINTER TO DECREASE CROP LOAD","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-23 10:01:29.100"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather  forecast ?","Mostly sunny
+ Max UV Index: 5 (Moderate)
+Thunderstorms: 0%
+Precipitation: 0 mm
+Rain: 0 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","PULWAMA","PAMPORE                                           ","2014-11-23 13:00:55.373"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather  forecast   ?","Mostly sunny
+ Max UV Index: 5 (Moderate)
+Thunderstorms: 0%
+Precipitation: 0 mm
+Rain: 0 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","PULWAMA","KELLER                                            ","2014-11-23 13:10:20.620"
+"RABI","AGRICULTURE","Others","Others","Weather","WEATHER REPORT","Partly sunny
+Max UV Index: 4 (Moderate)
+Thunderstorms: 0%
+Precipitation: 0 mm
+Rain: 0 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-24 07:50:55.470"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER","Increasing cloudiness
+ Max UV Index: 4 (Moderate)
+Thunderstorms: 0%
+Precipitation: 0 mm
+Rain: 0 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","PULWAMA","TRAL                                              ","2014-11-24 08:00:07.763"
+"RABI","HORTICULTURE","Fruits","Apple","	Plant Protection	","CONTROL OF WOOLY APHIDS IN APPLE TREE","SPRAY CHLOROPYRIPHOS 20EC @2 ML/LITRE OF WATER","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-24 08:07:14.533"
+"RABI","AGRICULTURE","Others","Others","	Plant Protection	","WEATHER FORECAST","Partly sunny
+Max UV Index: 4 (Moderate)
+Thunderstorms: 0%
+Precipitation: 0 mm
+Rain: 0 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","PULWAMA","PAMPORE                                           ","2014-11-24 08:41:01.787"
+"RABI","AGRICULTURE","Others","Others","Weather","WEATHER FORECAST","Increasing cloudiness
+Max UV Index: 4 (Moderate)
+Thunderstorms: 0%
+Precipitation: 0 mm
+Rain: 0 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-24 11:44:52.457"
+"RABI","HORTICULTURE","Fruits","Apple","	Plant Protection	","weather forecast?","Increasing cloudiness
+Max UV Index: 4 (Moderate)
+Thunderstorms: 0%
+Precipitation: 0 in
+Rain: 0 in
+Snow: 0 in
+Ice: 0 in
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-24 11:47:36.930"
+"RABI","HORTICULTURE","Fruits","Apple","	Plant Protection	","CONTROL OF WHOOLY APHIDS ON APPLE TREE ?","SPRAY CHLOROPYRIPHOS 20EC @ 100ML IN 100 LITRE OF WATER .","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-24 12:17:09.883"
+"RABI","AGRICULTURE","Others","Others","Weather","WEATHER FORECAST","Increasing cloudiness
+Max UV Index: 4 (Moderate)
+Thunderstorms: 0%
+Precipitation: 0 mm
+Rain: 0 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-24 14:44:56.267"
+"RABI","AGRICULTURE","Others","Others","Soil Testing","SOIL PROBLEM","SOIL TEST AT YOUR NEAREST AGRICULTURE SOIL TESTING LABORATORY","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-25 10:21:29.717"
+"KHARIF","AGRICULTURE","Others","Others","	Plant Protection	","WEATEHR FOREACST  ?","Clouds giving way to some sun
+ Max UV Index: 4 (Moderate)
+Thunderstorms: 0%
+Precipitation: 0 in
+Rain: 0 in
+Snow: 0 in
+Ice: 0 in
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-25 12:55:14.297"
+"RABI","HORTICULTURE","Fruits","Apple","	Plant Protection	","SPRAY AT 50% LEAF FALL","COPPER OYCHLORIDE 300G IN 100 LT WATER","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-25 16:14:34.977"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER  FOREACST   ?","WEATHER  FORECAST  IS  CLEAR   TODAY","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-26 08:16:57.820"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATEHR  FOREACST  ?","Partly sunny with a shower in places this afternoon
+Max UV Index: 5 (Moderate)
+Thunderstorms: 20%
+Precipitation: 0 mm
+Rain: 0 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 0.5 hrs
+Hours of Rain: 0.5 hrs","JAMMU AND KASHMIR","PULWAMA","TRAL                                              ","2014-11-26 09:22:05.593"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER  ?","Mostly cloudy; occasional morning rain and drizzle followed by a passing shower this afternoon
+ Max UV Index: 3 (Moderate)
+Thunderstorms: 20%
+Precipitation: 0.07 in
+Rain: 0.07 in
+Snow: 0 in
+Ice: 0 in
+Hours of Precipitation: 2 hrs
+Hours of Rain: 2 hrs","JAMMU AND KASHMIR","PULWAMA","PAMPORE                                           ","2014-11-27 08:21:52.230"
+"RABI","AGRICULTURE","Others","Others","	Plant Protection	","SPRAY AT 50% LEAF FALL","COPPER OYCHLORIDE 300G IN 100 LT WATER","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-27 08:31:19.277"
+"RABI","HORTICULTURE","Fruits","Apple","	Plant Protection	","PRUNING IN APPLE?","SHOULD BE PRACTICED NOW","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-27 10:10:28.807"
+"RABI","AGRICULTURE","Others","Others","Weather","weather forecast?","Periods of rain
+Max UV Index: 2 (Low)
+Thunderstorms: 20%
+Precipitation: 6 mm
+Rain: 6 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 3 hrs
+Hours of Rain: 3 hrs","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-27 10:26:16.100"
+"RABI","AGRICULTURE","Others","Others","Weather","weather forecast?","Periods of rain
+Max UV Index: 2 (Low)
+Thunderstorms: 20%
+Precipitation: 6 mm
+Rain: 6 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 3 hrs
+Hours of Rain: 3 hrs","JAMMU AND KASHMIR","PULWAMA","TRAL                                              ","2014-11-27 10:28:43.217"
+"KHARIF","AGRICULTURE","Others","Others","	Field Preparation	","WEATHER ?","Mostly cloudy; occasional morning rain and drizzle followed by a passing shower this afternoon
+ Max UV Index: 3 (Moderate)
+Thunderstorms: 20%
+Precipitation: 0.07 in
+Rain: 0.07 in
+Snow: 0 in
+Ice: 0 in
+Hours of Precipitation: 2 hrs
+Hours of Rain: 2 hrs","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-27 10:31:11.883"
+"RABI","HORTICULTURE","Fruits","Apple","	Plant Protection	","WEATHER?","Max UV Index: 2 (Low)
+Thunderstorms: 20%
+Precipitation: 6 mm
+Rain: 6 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 3 hrs
+Hours of Rain: 3 hrs","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-27 11:49:00.950"
+"RABI","HORTICULTURE","Fruits","Apple","Weather","TODAYS WEATHER FORECAST ?","Mostly cloudy with a little rain, mixing with snow late with little or no accumulation
+Max UV Index: N/A
+Thunderstorms: 20%
+Precipitation: 0.19 in
+Rain: 0.19 in
+Snow: 0.0 in
+Ice: 0 in
+Hours of Precipitation: 3 hrs
+Hours of Rain: 3 hrs","JAMMU AND KASHMIR","PULWAMA","PAMPORE                                           ","2014-11-27 12:25:07.740"
+"RABI","HORTICULTURE","Fruits","Aonla","Weather","TODAYS WEATHER FORECAST ?","Mostly cloudy with a little rain, mixing with snow late with little or no accumulation
+Max UV Index: N/A
+Thunderstorms: 20%
+Precipitation: 0.19 in
+Rain: 0.19 in
+Snow: 0.0 in
+Ice: 0 in
+Hours of Precipitation: 3 hrs
+Hours of Rain: 3 hrs","JAMMU AND KASHMIR","PULWAMA","TRAL                                              ","2014-11-27 13:14:00.917"
+"RABI","HORTICULTURE","Fruits","Mosambi","	Plant Protection	","WEATHER?","Gusts: 11 km/h
+
+Occasional rain and drizzle
+Max UV Index: 4 (Moderate)
+Thunderstorms: 3%
+Precipitation: 4 mm
+Rain: 4 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 4 hrs
+Hours of Rain: 4 hrs","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-27 14:31:28.830"
+"RABI","HORTICULTURE","Fruits","Apple","Weather","TODAYS WEATHER FORECAST ?","Mostly cloudy with a little snow, mixed with rain early
+Max UV Index: N/A
+Thunderstorms: 24%
+Precipitation: 2 mm
+Rain: 2 mm
+Snow: 0.3 CM
+Ice: 0 mm
+Hours of Precipitation: 2.5 hrs
+Hours of Rain: 1 hrs","JAMMU AND KASHMIR","PULWAMA","TRAL                                              ","2014-11-28 13:45:41.240"
+"RABI","HORTICULTURE","Vegetables","Pea (Vegetable)","	Plant Protection	","information regarding sowing time of pea","sowing time of pea is oct -nov.","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-28 15:09:30.360"
+"RABI","AGRICULTURE","Others","Others","Weather","weather forecast?","Clouds and sun with a couple of showers, beginning after temperatures rise above freezing
+Max UV Index: 4 (Moderate)
+Thunderstorms: 20%
+Precipitation: 4 mm
+Rain: 4 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 2 hrs
+Hours of Rain: 2 hrs","JAMMU AND KASHMIR","PULWAMA","PAMPORE                                           ","2014-11-29 07:36:49.280"
+"RABI","AGRICULTURE","Others","Others","Weather","weather forecast?","Clouds and sun with a couple of showers, beginning after temperatures rise above freezing
+Max UV Index: 4 (Moderate)
+Thunderstorms: 20%
+Precipitation: 4 mm
+Rain: 4 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 2 hrs
+Hours of Rain: 2 hrs","JAMMU AND KASHMIR","PULWAMA","PAMPORE                                           ","2014-11-29 07:37:39.940"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather ?","Occasional morning rain and drizzle followed by a shower in spots this afternoon
+ Max UV Index: 4 (Moderate)
+Thunderstorms: 20%
+Precipitation: 0.04 in
+Rain: 0.04 in
+Snow: 0 in
+Ice: 0 in
+Hours of Precipitation: 2 hrs
+Hours of Rain: 2 hrs","JAMMU AND KASHMIR","PULWAMA","TRAL                                              ","2014-11-29 08:01:48.990"
+"RABI","AGRICULTURE","Others","Others","Weather","weather forecast?","Nice with brilliant sunshine
+Max UV Index: 4 (Moderate)
+Thunderstorms: 0%
+Precipitation: 0 mm
+Rain: 0 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","PULWAMA","PAMPORE                                           ","2014-11-29 10:31:17.013"
+"RABI","AGRICULTURE","Others","Others","Weather","weather forecast?","Intervals of clouds and sunshine with a couple of showers
+Max UV Index: 4 (Moderate)
+Thunderstorms: 20%
+Precipitation: 4 mm
+Rain: 4 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 2 hrs
+Hours of Rain: 2 hrs","JAMMU AND KASHMIR","PULWAMA","KELLER                                            ","2014-11-29 11:13:23.057"
+"RABI","AGRICULTURE","Others","Others","Weather","WEATHER REPORT","Intervals of clouds and sunshine with a couple of showers
+Max UV Index: 4 (Moderate)
+Thunderstorms: 20%
+Precipitation: 4 mm
+Rain: 4 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 2 hrs
+Hours of Rain: 2 hrs","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-29 11:19:52.117"
+"RABI","HORTICULTURE","Fruits","Apple","	Plant Protection	","TIME OF TRANSPLANTING IN APPLE TREE","TIME OF TRANSPLANTING IN APPLE TREE IS FEB-MARCH","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-29 12:25:00.273"
+"RABI","HORTICULTURE","Fruits","Apple","Cultural Practices","METHODS OF PRUNING .","VISIT HORTICULTURE DEPART FOR DETSIL INFORMATION.","JAMMU AND KASHMIR","PULWAMA","KELLER                                            ","2014-11-29 13:34:39.870"
+"RABI","HORTICULTURE","Fruits","Apple","Cultural Practices","WEATHER REPORT","Intervals of clouds and sunshine
+Max UV Index: 3 (Moderate)
+Thunderstorms: 4%
+Precipitation: 0 mm
+Rain: 0 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","PULWAMA","KAKAPORA                                          ","2014-11-30 08:04:03.340"
+"RABI","AGRICULTURE","Others","Others","Fertilizer Use and Availability","FERTILIZER DOSAGE","RECOMMMENDED TIME FEB - MARCH","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-30 08:14:33.523"
+"RABI","AGRICULTURE","Others","Others","Weather","WEATHER FORECAST","Sun and some clouds
+ Max UV Index: 4 (Moderate)
+Thunderstorms: 20%
+Precipitation: 0 in
+Rain: 0 in
+Snow: 0 in
+Ice: 0 in
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","PULWAMA","PAMPORE                                           ","2014-11-30 08:16:50.680"
+"RABI","AGRICULTURE","Others","Others","Weather","WEATHER FORECAST","Sun and some clouds
+ Max UV Index: 4 (Moderate)
+Thunderstorms: 20%
+Precipitation: 0 in
+Rain: 0 in
+Snow: 0 in
+Ice: 0 in
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-30 08:21:24.833"
+"RABI","AGRICULTURE","Others","Others","Weather","SPRAY AT 50 % LEAF FALL","COPPER OXYCHLORIDE 300G IN 100LT  WATER","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-30 08:51:48.937"
+"RABI","AGRICULTURE","Others","Others","Weather","WEATHER FORECAST","More sunshine than clouds
+ Max UV Index: 4 (Moderate)
+Thunderstorms: 0%
+Precipitation: 0 in
+Rain: 0 in
+Snow: 0 in
+Ice: 0 in
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","PULWAMA","PULWAMA                                           ","2014-11-30 08:55:39.957"
+"RABI","AGRICULTURE","Others","Others","Weather","WEATHER FORECAST","Intervals of clouds and sunshine
+Max UV Index: 4 (Moderate)
+Thunderstorms: 20%
+Precipitation: 0 mm
+Rain: 0 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","PULWAMA","KELLER                                            ","2014-11-30 11:39:03.607"

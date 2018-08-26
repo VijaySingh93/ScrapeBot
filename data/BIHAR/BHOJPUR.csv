@@ -1,0 +1,114 @@
+"Season","Sector","Category","Crop","QueryType","QueryText","KCCAns","StateName","DistrictName","BlockName","CreatedOn"
+"RABI","HORTICULTURE","Vegetables","Tomato","	Plant Protection	","INSECT PROBLEM IN BRINJAL","SPRAY MALATHION @ 1 GM /LITER OF WATER","BIHAR","BHOJPUR","BARHARA                                           ","2014-12-01 16:20:56.167"
+"RABI","HORTICULTURE","Vegetables","Peas (field peas/ garden peas/matar)","	Plant Protection	","wilt disease in peas","wilt disease in peas Spray mencozeb @ 2g/lit of water","BIHAR","BHOJPUR","ARA                                               ","2014-12-02 09:54:07.223"
+"JAYAD","AGRICULTURE","Cereals","Wheat","	Plant Protection	","INSECT PROBLEM","Spray  Quinalphos 20% + Cypermethrin 3% 1ml/liter of water","BIHAR","BHOJPUR","ARA                                               ","2014-12-02 15:18:08.550"
+"RABI","HORTICULTURE","Fruits","Mango","	Plant Protection	","insect control","clorypiyriphos @ 1 ml par liter pani me mila kar spray kare","BIHAR","BHOJPUR","BARHARA                                           ","2014-12-02 15:53:50.047"
+"RABI","AGRICULTURE","Cereals","Wheat","Fertilizer Use and Availability","FERTILIZER DOSES IN WHEAT","FERTILIZER DOSES IN WHEAT 1 KG./KATHA URIA","BIHAR","BHOJPUR","JAGDISHPUR                                        ","2014-12-03 09:02:11.370"
+"RABI","AGRICULTURE","Others","Others","Weather","WEATHER","no chance of rainfall","BIHAR","BHOJPUR","JAGDISHPUR                                        ","2014-12-03 13:14:19.060"
+"RABI","HORTICULTURE","Vegetables","Potato","	Plant Protection	","early blight disease in potato","early blight disease in potato Spray mancozeb @ 2g/lit of water","BIHAR","BHOJPUR","ARA                                               ","2014-12-04 13:28:49.913"
+"KHARIF","HORTICULTURE","Vegetables","Potato","	Plant Protection	","Late blight disease of potato","Management rog rodhi variety ka grow kare or dithane –m-45 @ 1 liter pani me mila kar spray kare","BIHAR","BHOJPUR","KOILWAR                                           ","2014-12-05 09:04:10.657"
+"RABI","AGRICULTURE","Oilseeds","Indian rapeseed and mustard (yellow sarson)","	Field Preparation	","variety","IPA 203
+ 
+IPH 09-5 (Hybrid)
+ 
+Field pea 
+ IPF 99-25 (Adarsh)
+ 
+IPFD 99-13 (Vikas)
+ 
+IPFD 1-10( Prakash)
+ 
+IPFD 5-19( Aman)
+ 
+IPF  4-9
+ 
+IPFD 6-3 
+ 
+Rajmash
+ PDR 14 (Uday)
+ 
+IIPR 96-4(Amber)
+ 
+IPR 98-5(Utkarsh)
+ 
+IPR 98-3-1(Arun)
+ 
+Mungbean 
+ PDM 11 (Basanti)
+ 
+PDM 54(Moti)
+ 
+PDM 139(Samrat)
+ 
+IPM 99-125(Meha)
+ 
+IPM 02-14
+ 
+IPM 02-3
+ 
+Urdbean
+ PDU 1(Basant Bahar)
+ 
+IPU 94-1(Uttara)
+ 
+IPU 02-43
+ 
+IPU 07-3","BIHAR","BHOJPUR","ARA                                               ","2014-12-05 14:22:42.130"
+"RABI","HORTICULTURE","Vegetables","Potato","	Plant Protection	","Fungal problem","Spray saaf @ 2g/lit of water","BIHAR","BHOJPUR","KOILWAR                                           ","2014-12-05 15:40:11.290"
+"RABI","AGRICULTURE","Cereals","Wheat","Varieties","VARIETY OF WHEAT-","VARIETY OF WHEAT-PBW-373,HD-2285,HD-2733,HD-2967,HD-2932, PBW-343, AND PBW-502,PBW-154, up-262","BIHAR","BHOJPUR","JAGDISHPUR                                        ","2014-12-05 20:50:35.927"
+"RABI","HORTICULTURE","Vegetables","Potato","	Plant Protection	","Fungal problem","Spray saaf @ 2g/lit of water","BIHAR","BHOJPUR","ARA                                               ","2014-12-05 20:52:42.520"
+"RABI","HORTICULTURE","Vegetables","Potato","	Plant Protection	","BLIGHT DISEASE IN POTATO","BLIGHT DISEASE IN POTATO-spray saaf @ 2 gm/lt of water","BIHAR","BHOJPUR","PIRO                                              ","2014-12-06 07:22:55.727"
+"RABI","AGRICULTURE","Cereals","Wheat","Varieties","variety of wheat","variety of wheat is pbw-373","BIHAR","BHOJPUR","JAGDISHPUR                                        ","2014-12-07 07:57:50.423"
+"JAYAD","AGRICULTURE","Pulses","Black Gram (urd bean)","	Field Preparation	","Nutrient deficiency","Spray borex @2 ml in 1 litre of water\mango fruit cracking","BIHAR","BHOJPUR","BEHEA                                             ","2014-12-07 10:52:33.950"
+"RABI","HORTICULTURE","Vegetables","Onion","	Plant Protection	","INSECT CONTROL","You should use chloropyriphosh@2ml / litar of water","BIHAR","BHOJPUR","PIRO                                              ","2014-12-07 17:35:06.777"
+"RABI","AGRICULTURE","Pulses","Lentil (Masur)","	Plant Protection	","insect problem","Spray monocrotophos @ 1 ml in 1 litre of water","BIHAR","BHOJPUR","BEHEA                                             ","2014-12-08 10:23:32.257"
+"RABI","AGRICULTURE","Others","Others","Weather","WEATHER INFORMATION","today cloudy weather no chance rain","BIHAR","BHOJPUR","KOILWAR                                           ","2014-12-09 08:42:18.680"
+"RABI","HORTICULTURE","Vegetables","Potato","	Plant Protection	","fungal problem","spray mencozeb @2gm/liter water","BIHAR","BHOJPUR","TARARI                                            ","2014-12-09 08:58:35.210"
+"RABI","AGRICULTURE","Others","Others","Seeds","KVK OF ARHA","Dr. Pravin Kumar Dwivedi
+Programme Coordinator
+Krishi Vigyan Kendra
+Sone Command Area Development Agency
+06182-
+223733
+0612- 
+222826 - 09308373581
+P.O.-  A r a
+D i s t t . B h o j p u r -  8 0 2 301
+Email: kvkbhojpur@rediffmail.com","BIHAR","BHOJPUR","ARA                                               ","2014-12-09 09:08:05.980"
+"RABI","AGRICULTURE","Cereals","Wheat","Fertilizer Use and Availability","FERTILIZER USE IN WHEAT","FERTILIZER USE IN WHEAT- N P K-120, 60, 40 KG/HACT","BIHAR","BHOJPUR","BARHARA                                           ","2014-12-09 17:35:16.200"
+"RABI","AGRICULTURE","Cereals","Wheat","Seeds","VARIETIES OF WHEAT","VARIETIES OF WHEAT- PBW-343, PBW-373, PBW-502, PBW-154, HD-2733, UP-262,","BIHAR","BHOJPUR","BARHARA                                           ","2014-12-09 17:38:57.773"
+"RABI","AGRICULTURE","Cereals","Wheat","	Plant Protection	","Weather query","Very low Cloudy weather in your area no chance of rain","BIHAR","BHOJPUR","PIRO                                              ","2014-12-09 17:40:04.463"
+"RABI","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","insect control","spray cloropyriphos@2ml/lit of water","BIHAR","BHOJPUR","TARARI                                            ","2014-12-10 07:02:37.867"
+"RABI","AGRICULTURE","Pulses","Bengal Gram (Gram/Chick Pea/Kabuli/Chana)","	Plant Protection	","weedicide of gram","spray stam @2ml/lit of water","BIHAR","BHOJPUR","TARARI                                            ","2014-12-10 07:07:16.230"
+"RABI","HORTICULTURE","Vegetables","Cucumber","	Plant Protection	","Fruit cracking","Spray borex @ 2 gram in 1 litre of water","BIHAR","BHOJPUR","ARA                                               ","2014-12-10 10:48:48.593"
+"RABI","AGRICULTURE","Cereals","Wheat","Varieties","VARIETY OF WHEAT-","VARIETY OF WHEAT-HD-2733, HP-1761, HD-2967, RAJ-3765, C-306, W-14, K-9107","BIHAR","BHOJPUR","KOILWAR                                           ","2014-12-10 14:46:44.040"
+"RABI","HORTICULTURE","Vegetables","Potato","	Plant Protection	","blight disease in potato","2 Spray Mancozeb 0.25 %   at forthnightaly interval for control the disease","BIHAR","BHOJPUR","KOILWAR                                           ","2014-12-10 14:51:48.140"
+"RABI","HORTICULTURE","Vegetables","Potato","	Plant Protection	","late blight of potato","spray mencozeb @2ml/lit of water","BIHAR","BHOJPUR","BARHARA                                           ","2014-12-11 08:54:26.547"
+"RABI","HORTICULTURE","Vegetables","Potato","	Plant Protection	","dry plant of potato","spray copper oxy chloride @2ml/lit of water","BIHAR","BHOJPUR","BARHARA                                           ","2014-12-11 08:58:34.790"
+"RABI","HORTICULTURE","Vegetables","Tomato","	Plant Protection	","yellowing of leaves","spray saaf @ 2 gram/liter of water","BIHAR","BHOJPUR","PIRO                                              ","2014-12-11 11:07:47.897"
+"RABI","AGRICULTURE","Oilseeds","Brown Sarson","Weed Management","WEED MANAGEMENT IN SARSO","SPRAY PENDIMETHLIN @ 2 LT./HA.","BIHAR","BHOJPUR","TARARI                                            ","2014-12-12 07:15:08.113"
+"RABI","AGRICULTURE","Cereals","Wheat","	Plant Protection	","Weather query","Very low Cloudy weather in your area no chance of rain","BIHAR","BHOJPUR","SANDESH                                           ","2014-12-12 09:56:00.693"
+"RABI","AGRICULTURE","Cereals","Wheat","Seeds","seed rate of wheat","seed rate of wheat  is 40 kg./acre.ed","BIHAR","BHOJPUR","BARHARA                                           ","2014-12-12 10:08:00.780"
+"RABI","AGRICULTURE","Cereals","Wheat","Weather","Weather query","Very low Cloudy weather in your area no chance of rain","BIHAR","BHOJPUR","SANDESH                                           ","2014-12-12 10:55:28.590"
+"JAYAD","HORTICULTURE","Vegetables","ARUM ","Spices and Condiment Crops","Insect problems","Spray dainocap @ 2 ml in 1 litre of water","BIHAR","BHOJPUR","ARA                                               ","2014-12-12 15:53:18.003"
+"RABI","AGRICULTURE","Others","Others","	Plant Protection	","Weather information","today and tomorrow no chance of rain","BIHAR","BHOJPUR","BARHARA                                           ","2014-12-12 16:07:12.977"
+"RABI","HORTICULTURE","Vegetables","Onion","	Plant Protection	","FUNGAL PROBLEM","SPRAY COPPER OXYCHLORIDE @ 2 GRAM/LITER OF WATER","BIHAR","BHOJPUR","PIRO                                              ","2014-12-12 18:40:48.823"
+"RABI","AGRICULTURE","Others","Others","	Plant Protection	","YELLOWING OF LEAF","SPRAY COPPER OXYCHLORIDE @ 2 GRAM/LITER OF WATER","BIHAR","BHOJPUR","JAGDISHPUR                                        ","2014-12-12 18:59:32.833"
+"RABI","HORTICULTURE","Vegetables","Potato","	Plant Protection	","BLIGHT DISEASE IN POTATO","SPRAY SAAF @ 2 GRAM/LITER OF WATER","BIHAR","BHOJPUR","KOILWAR                                           ","2014-12-12 20:14:41.260"
+"RABI","HORTICULTURE","Vegetables","Onion","Seeds and Planting Material","SEED RATE OF ONION","SEED RATE OF ONION IS 4 KG./ ACRE.","BIHAR","BHOJPUR","KOILWAR                                           ","2014-12-13 08:53:25.283"
+"RABI","HORTICULTURE","Vegetables","Onion","	Plant Protection	","yellowing of leaves","SPRAY COPPEROXICLORIDE @ ML./L. + STREPTOCYCLIN @ 1NL./ 10 LT. OF WATER","BIHAR","BHOJPUR","AGIAON                                            ","2014-12-13 09:16:27.187"
+"RABI","AGRICULTURE","Cereals","Wheat","	Field Preparation	","Weather query","Very low Cloudy weather in your area no chance of rain","BIHAR","BHOJPUR","AGIAON                                            ","2014-12-13 10:26:06.333"
+"RABI","HORTICULTURE","Vegetables","Onion","	Plant Protection	","yellowing of leaves","Spray copper oxycloride @ 2 gram in 1 litre of water","BIHAR","BHOJPUR","ARA                                               ","2014-12-13 11:54:40.073"
+"RABI","AGRICULTURE","Others","Others","Weather","Weather information","weather in your area but no chance of rain","BIHAR","BHOJPUR","ARA                                               ","2014-12-13 16:32:12.757"
+"JAYAD","AGRICULTURE","Millets","Buck Wheat (Kaspat)","	Plant Protection	","Delay in growth","Spray multi micro nutrients @ 2 ml in 1 litre of ater","BIHAR","BHOJPUR","ARA                                               ","2014-12-14 07:04:42.100"
+"RABI","AGRICULTURE","Others","Others","Weather","Weather information","Today and tomarrow litle chance of rain in your area.","BIHAR","BHOJPUR","TARARI                                            ","2014-12-14 11:05:09.973"
+"RABI","HORTICULTURE","Vegetables","Potato","	Plant Protection	","blight disease in potato","spray saaf @ 2 gram/liter of water","BIHAR","BHOJPUR","BARHARA                                           ","2014-12-14 15:35:42.437"
+"RABI","HORTICULTURE","Vegetables","Potato","	Plant Protection	","BLIGHT DISEASE IN POTATO","Spray Mancozeb 75% WP 2 gram/liter of water","BIHAR","BHOJPUR","BARHARA                                           ","2014-12-14 16:17:17.340"
+"RABI","AGRICULTURE","Cereals","Wheat","Weed Management","WEED CONTROL","Spray Sulfosulfuron 75% + Metsulfuran Methyl 5% WG (TOTAL)33GRAM/HACT","BIHAR","BHOJPUR","SHAHPUR                                           ","2014-12-14 16:25:28.790"
+"RABI","AGRICULTURE","Cereals","Wheat","	Field Preparation	","Weed Management in wheat","weed managment in wheat - spray sulphosulfuron @ 16 gram in 400 liter of water after 30 days of sowing","BIHAR","BHOJPUR","ARA                                               ","2014-12-14 17:46:09.880"
+"RABI","AGRICULTURE","Others","Others","Weather","weather information","today chance of rain in your area","BIHAR","BHOJPUR","CHARPOKHARI                                       ","2014-12-14 18:37:55.323"
+"RABI","HORTICULTURE","Vegetables","Potato","	Plant Protection	","fungal problem","Spray saaf @2gm /lit of water","BIHAR","BHOJPUR","KOILWAR                                           ","2014-12-15 10:46:19.337"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","FRUIT BORER IN BRINJAL","SPRAY ROGOR 2ML/LTI OF WATER","BIHAR","BHOJPUR","BARHARA                                           ","2014-12-15 17:43:36.287"
+"RABI","AGRICULTURE","Cereals","Wheat","Weather","yellowing of leaves","Spray mencozeb @ 2g/lit of water","BIHAR","BHOJPUR","BARHARA                                           ","2014-12-15 18:40:58.523"
+"RABI","AGRICULTURE","Others","Others","Weather","Weather information ?","Today and  chance of rain in your area.","BIHAR","BHOJPUR","TARARI                                            ","2014-12-16 13:32:18.490"
+"RABI","AGRICULTURE","Cereals","Wheat","Weed Management","WEED PROBLEM IN WHEAT",

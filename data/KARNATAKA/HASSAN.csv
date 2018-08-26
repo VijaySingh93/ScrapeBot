@@ -1,0 +1,682 @@
+"Season","Sector","Category","Crop","QueryType","QueryText","KCCAns","StateName","DistrictName","BlockName","CreatedOn"
+"JAYAD","HORTICULTURE","Vegetables","Watermelon","Cultural Practices","watermelon spacing","08028466353","KARNATAKA","HASSAN","HASSAN                                            ","2014-11-03 08:43:44.800"
+"JAYAD","HORTICULTURE","Vegetables","Onion","	Plant Protection	","onion fertilizer","10:26:26","KARNATAKA","HASSAN","ARSIKERE                                          ","2014-11-08 08:58:45.900"
+"JAYAD","AGRICULTURE","Others","Others","Weather","weather","APMC Help Line	1800 425 1552","KARNATAKA","HASSAN","ARKALGUD                                          ","2014-11-08 13:15:52.417"
+"RABI","AGRICULTURE","Others","Others","Weather","Forecast for Channarayapatna","82 | 65 °F Mostly Cloudy 
+Chance of
+Precipitation0%","KARNATAKA","HASSAN","CHANNARAYAPATNA                                   ","2014-11-09 08:37:11.057"
+"RABI","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","chilli pest","dimethoate 2ml in 1liter water","KARNATAKA","HASSAN","BELUR                                             ","2014-11-09 11:33:08.427"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather","Chance of Precip.
+
+NA
+
+NA
+
+0%
+
+0%
+
+
+
+Cloud Cover
+
+NA
+
+NA
+
+79%
+
+62%
+
+
+
+Conditions
+
+NA
+
+NA
+
+Mostly Cloudy","KARNATAKA","HASSAN","ARSIKERE                                          ","2014-11-09 13:22:19.937"
+"JAYAD","AGRICULTURE","Others","Others","Weather","WEATHER","Tuesday, 11
+
+
+
+
+29 | 19 °C 
+
+Partly Cloudy 
+
+
+Chance of
+Precipitation
+
+20%
+
+
+
+Wednesday, 12
+
+
+
+
+29 | 19 °C 
+
+Partly Cloudy 
+
+
+Chance of
+Precipitation
+
+20%
+
+
+
+
+
+Thursday, 13
+
+
+
+
+23 | 20 °C 
+
+T-storms 
+
+
+Chance of
+Precipitation
+
+100%
+
+
+
+Friday, 14
+
+
+
+
+27 | 19 °C 
+
+T-storms 
+
+
+Chance of
+Precipitation
+
+80%
+
+
+
+Saturday, 15
+
+
+
+
+28 | 19 °C 
+
+Partly Cloudy 
+
+
+Chance of
+Precipitation
+
+20%
+
+
+
+
+
+Sunday, 16
+
+
+
+
+28 | 17 °C 
+
+Partly Cloudy 
+
+
+Chance of
+Precipitation
+
+10%
+
+
+
+Monday, 17
+
+
+
+
+28 | 16 °C 
+
+Clear 
+
+
+Chance of
+Precipitation
+
+10%
+
+
+
+Tuesday, 18","KARNATAKA","HASSAN","ARSIKERE                                          ","2014-11-11 06:48:32.300"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather","Tuesday, 11
+
+
+
+
+27 | 18 °C 
+
+Chance of T-storms 
+
+
+Chance of
+Precipitation
+
+40%
+
+
+
+Wednesday, 12
+
+
+
+
+27 | 18 °C 
+
+Chance of Rain 
+
+
+Chance of
+Precipitation
+
+30%
+
+
+
+
+
+Thursday, 13
+
+
+
+
+23 | 19 °C 
+
+T-storms 
+
+
+Chance of
+Precipitation
+
+100%
+
+
+
+Friday, 14
+
+
+
+
+24 | 19 °C 
+
+T-storms 
+
+
+Chance of
+Precipitation
+
+80%
+
+
+
+Saturday, 15
+
+
+
+
+26 | 18 °C 
+
+Partly Cloudy 
+
+
+Chance of
+Precipitation","KARNATAKA","HASSAN","CHANNARAYAPATNA                                   ","2014-11-11 10:32:07.160"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather","Tuesday, 11
+
+
+
+
+29 | 19 °C 
+
+Chance of T-storms 
+
+
+Chance of
+Precipitation
+
+30%
+
+
+
+Wednesday, 12
+
+
+
+
+29 | 19 °C 
+
+Partly Cloudy 
+
+
+Chance of
+Precipitation
+
+20%
+
+
+
+
+
+Thursday, 13
+
+
+
+
+23 | 20 °C 
+
+T-storms 
+
+
+Chance of
+Precipitation
+
+100%
+
+
+
+Friday, 14
+
+
+
+
+27 | 19 °C 
+
+T-storms 
+
+
+Chance of
+Precipitation
+
+80%
+
+
+
+Saturday, 15
+
+
+
+
+28 | 19 °C 
+
+Partly Cloudy 
+
+
+Chance of
+Precipitation
+
+20%
+
+
+
+
+
+Sunday, 16
+
+
+
+
+28 | 17 °C 
+
+Partly Cloudy 
+
+
+Chance of
+Precipitation
+
+10%
+
+
+
+Monday, 17
+
+
+
+
+28 | 16 °C 
+
+Clear 
+
+
+Chance of
+Precipitation
+
+10%
+
+
+
+Tuesday, 18
+
+
+
+
+28 | 16 °C 
+
+Partly Cloudy 
+
+
+Chance of
+Precipitation
+
+10%","KARNATAKA","HASSAN","ARSIKERE                                          ","2014-11-11 10:38:18.550"
+"KHARIF","AGRICULTURE","Others","Others","Training and Exposure Visits","krishimela","19, 20, 21, 22","KARNATAKA","HASSAN","ARSIKERE                                          ","2014-11-15 08:56:30.167"
+"KHARIF","HORTICULTURE","Fruits","Banana","	Plant Protection	","banana cultivation","june july","KARNATAKA","HASSAN","ARSIKERE                                          ","2014-11-16 09:04:48.007"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather","Chance of Precip.
+
+NA
+
+0%
+
+0%
+
+0%
+
+
+
+Cloud Cover
+
+NA
+
+39%
+
+24%
+
+23%
+
+
+
+Conditions
+
+NA
+
+Partly Cloudy
+
+Clear
+
+Clear
+
+
+
+Sunrise & Sunset
+
+
+
+6:24 AM
+
+5:54 PM","KARNATAKA","HASSAN","ARSIKERE                                          ","2014-11-16 10:00:41.990"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","Market Information","apmc market","APMC Help Line	1800 425 1552","KARNATAKA","HASSAN","HOLENARSIPUR                                      ","2014-11-18 08:47:48.700"
+"JAYAD","HORTICULTURE","Vegetables","Onion","	Plant Protection	","onion pest","dimethoaTE 2ML  1 LITER WATER","KARNATAKA","HASSAN","ARSIKERE                                          ","2014-11-18 09:07:51.117"
+"KHARIF","HORTICULTURE","Fruits","Papaya","Water Management, Micro Irrigation","papaya variety","08028466353","KARNATAKA","HASSAN","SAKALESHPUR                                       ","2014-11-19 12:31:10.333"
+"JAYAD","ANIMAL HUSBANDRY","Animal","Cat","Artificial Insemination","ANIMAL HUSBANDARY","ANIMAL HUSBANDARY	080-22866431","KARNATAKA","HASSAN","ARSIKERE                                          ","2014-11-20 08:55:52.727"
+"RABI","AGRICULTURE","Others","Others","Market Information","GINGER MARKET","No Data Found For The Commodity","KARNATAKA","HASSAN","BELUR                                             ","2014-11-20 10:54:18.010"
+"KHARIF","AGRICULTURE","Others","Others","Training and Exposure Visits","krishimela","till searching","KARNATAKA","HASSAN","BELUR                                             ","2014-11-20 11:29:52.780"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather","Chance of Precip.
+
+NA
+
+0%
+
+0%
+
+0%
+
+
+
+Cloud Cover
+
+NA
+
+48%
+
+35%
+
+37%
+
+
+
+Conditions
+
+NA
+
+Partly Cloudy
+
+Partly Cloudy
+
+Partly Cloudy
+
+
+
+Sunrise & Sunset
+
+
+
+6:26 AM
+
+5:54 PM","KARNATAKA","HASSAN","ARSIKERE                                          ","2014-11-20 12:26:12.147"
+"KHARIF","HORTICULTURE","Fruits","Pomegranate","	Plant Protection	","POMOGRANATE DISEASE","MANCOZEB 3GM PER  1 LITER WATER","KARNATAKA","HASSAN","CHANNARAYAPATNA                                   ","2014-11-21 08:44:40.360"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather","Sunday, 23
+
+
+
+
+27 | 16 °C 
+
+Partly Cloudy 
+
+
+Chance of
+Precipitation
+
+10%
+
+
+
+Monday, 24
+
+
+
+
+28 | 15 °C 
+
+Partly Cloudy 
+
+
+Chance of
+Precipitation
+
+10%
+
+
+
+
+
+Tuesday, 25
+
+
+
+
+27 | 15 °C 
+
+Partly Cloudy 
+
+
+Chance of
+Precipitation
+
+10%
+
+
+
+Wednesday, 26
+
+
+
+
+27 | 14 °C 
+
+Partly Cloudy 
+
+
+Chance of
+Precipitation
+
+10%
+
+
+
+Thursday, 27
+
+
+
+
+27 | 16 °C 
+
+Partly Cloudy 
+
+
+Chance of
+Precipitation
+
+10%","KARNATAKA","HASSAN","ARKALGUD                                          ","2014-11-23 13:22:02.290"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather","Sunday, 23
+
+
+
+
+27 | 16 °C 
+
+Partly Cloudy 
+
+
+Chance of
+Precipitation
+
+10%
+
+
+
+Monday, 24
+
+
+
+
+28 | 15 °C 
+
+Partly Cloudy 
+
+
+Chance of
+Precipitation
+
+10%
+
+
+
+
+
+Tuesday, 25
+
+
+
+
+27 | 15 °C 
+
+Partly Cloudy 
+
+
+Chance of
+Precipitation
+
+10%
+
+
+
+Wednesday, 26
+
+
+
+
+27 | 14 °C 
+
+Partly Cloudy 
+
+
+Chance of
+Precipitation
+
+10%
+
+
+
+Thursday, 27
+
+
+
+
+27 | 16 °C 
+
+Partly Cloudy 
+
+
+Chance of","KARNATAKA","HASSAN","ARKALGUD                                          ","2014-11-23 13:31:30.553"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","chilli pest","dimethoate 2ml in 1 liter water and after 2 days carbendizium 2gm per liter water","KARNATAKA","HASSAN","HOLENARSIPUR                                      ","2014-11-24 10:13:29.487"
+"KHARIF","HORTICULTURE","Vegetables","Potato","	Plant Protection	","potato  diseae","carbendizium 3gm per liter water","KARNATAKA","HASSAN","ARSIKERE                                          ","2014-11-24 12:45:53.287"
+"KHARIF","AGRICULTURE","Others","Others","Sowing Time and Weather","croprs","•	SUNFLOWER --- MODERN, HYBRID- K.B.S.H-1, 41, 42, 44
+•	GROUNDNUT --- I.C.G.S-11, K-134, V.R.I-2, J.P.B.D-4, CHINTAMANI-2 (K.C.G-2)","KARNATAKA","HASSAN","BELUR                                             ","2014-11-24 13:44:37.163"
+"JAYAD","AGRICULTURE","Others","Others","Weather","SAJJE WEEDS","PEDIMETHLIN 2ML IN 1 LITER WATER","KARNATAKA","HASSAN","ARKALGUD                                          ","2014-11-25 10:38:56.560"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WWEATHER","Chance of Precip.
+
+NA
+
+0%
+
+0%
+
+0%
+
+
+
+Cloud Cover
+
+NA
+
+57%
+
+64%
+
+48%
+
+
+
+Conditions
+
+NA
+
+Partly Cloudy
+
+Mostly Cloudy
+
+Partly Cloudy","KARNATAKA","HASSAN","SAKALESHPUR                                       ","2014-11-28 10:38:31.937"
+"JAYAD","HORTICULTURE","Vegetables","Tomato","	Plant Protection	","tomato disease","carbendizium 3gmpre liter water","KARNATAKA","HASSAN","ARSIKERE                                          ","2014-11-29 10:47:44.233"
+"KHARIF","AGRICULTURE","Pulses","Horse Gram (kulthi/kultha)","	Plant Protection	","fieldbean disease","prophonophos 2ml in  1 liter water","KARNATAKA","HASSAN","HASSAN                                            ","2014-11-29 10:50:05.650"

@@ -1,0 +1,281 @@
+"Season","Sector","Category","Crop","QueryType","QueryText","KCCAns","StateName","DistrictName","BlockName","CreatedOn"
+"KHARIF","AGRICULTURE","Sugar and Starch Crops","Sugarcane (Noble Cane)","Fertilizer Use and Availability","SUGARCANE FERTILIZER","UREA","KARNATAKA","BAGALKOT","JAMKHANDI                                         ","2014-12-01 12:30:30.953"
+"KHARIF","HORTICULTURE","Fruits","Banana","	Plant Protection	","BANANA DISEASE","IMIDACHLOPRID 3ML IN  10 LITER WATER","KARNATAKA","BAGALKOT","BAGALKOT                                          ","2014-12-01 13:44:48.813"
+"KHARIF","AGRICULTURE","Pulses","Bengal Gram (Gram/Chick Pea/Kabuli/Chana)","Weed Management","BENGALGRAM WEEDICIDE","IMAZETHAPYR 2ML IN 1 LITER WATER","KARNATAKA","BAGALKOT","BADAMI                                            ","2014-12-02 12:17:34.110"
+"KHARIF","AGRICULTURE","Others","Others","	Plant Protection	","rsk","rsk","KARNATAKA","BAGALKOT","BILAGI                                            ","2014-12-03 09:05:57.623"
+"KHARIF","HORTICULTURE","Vegetables","Watermelon","	Plant Protection	","watermelon cultural practices","45-50 tonnes","KARNATAKA","BAGALKOT","JAMKHANDI                                         ","2014-12-05 11:58:05.410"
+"KHARIF","HORTICULTURE","Fruits","Pomegranate","	Plant Protection	","pomogrnate mix of watermelon","its the season to grow thhe watermelon","KARNATAKA","BAGALKOT","JAMKHANDI                                         ","2014-12-05 12:28:07.397"
+"KHARIF","HORTICULTURE","Fruits","Pomegranate","	Plant Protection	","pomogrnate mix of watermelon","its the season to grow thhe watermelon","KARNATAKA","BAGALKOT","JAMKHANDI                                         ","2014-12-05 12:28:07.930"
+"KHARIF","HORTICULTURE","Vegetables","Watermelon","	Plant Protection	","WATERMEKLON PEST","DIMETHOATE 2ML IN 1 LITER WATER","KARNATAKA","BAGALKOT","MUDHOL                                            ","2014-12-07 13:47:26.670"
+"JAYAD","AGRICULTURE","Others","Others","Weather","WEATHER","Chance of Precip.
+
+NA
+
+NA
+
+0%
+
+0%
+
+
+
+Cloud Cover
+
+NA
+
+NA
+
+24%
+
+9%
+
+
+
+Conditions
+
+NA
+
+NA
+
+Clear
+
+Clear","KARNATAKA","BAGALKOT","JAMKHANDI                                         ","2014-12-07 13:54:58.703"
+"KHARIF","AGRICULTURE","Pulses","Bengal Gram (Gram/Chick Pea/Kabuli/Chana)","	Plant Protection	","bengalgram pest","dimethoate 2ml in  1 liter water","KARNATAKA","BAGALKOT","BADAMI                                            ","2014-12-10 10:16:50.677"
+"RABI","AGRICULTURE","Others","Others","Weather","weather","Chance of Precip.
+
+NA
+
+10%
+
+50%
+
+20%
+
+
+
+Cloud Cover
+
+NA
+
+95%
+
+88%
+
+84%
+
+
+
+Conditions
+
+NA
+
+Overcast
+
+Chance of a Thunderstorm
+
+Overcast","KARNATAKA","BAGALKOT","HUNGUND                                           ","2014-12-12 10:42:49.577"
+"JAYAD","AGRICULTURE","Oilseeds","Groundnut (pea nut/mung phalli)","	Plant Protection	","groundnut disease","hexaconozole 1gm per liter water","KARNATAKA","BAGALKOT","BILAGI                                            ","2014-12-12 12:33:18.887"
+"JAYAD","AGRICULTURE","Others","Others","Weather","weather","Chance of Precip.
+
+NA
+
+60%
+
+50%
+
+50%
+
+
+
+Cloud Cover
+
+NA
+
+81%
+
+91%
+
+94%
+
+
+
+Conditions
+
+NA
+
+Thunderstorm
+
+Chance of a Thunderstorm
+
+Chance of Rain
+
+
+
+Sunrise & Sunset
+
+
+
+6:47 AM
+
+5:57 PM","KARNATAKA","BAGALKOT","MUDHOL                                            ","2014-12-12 12:34:59.447"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather","Humidity
+
+%
+
+61%
+
+68%
+
+82%
+
+
+
+Chance of Precip.
+
+NA
+
+0%
+
+0%
+
+0%
+
+
+
+Cloud Cover
+
+NA
+
+75%
+
+72%
+
+62%
+
+
+
+Conditions
+
+NA
+
+Mostly Cloudy
+
+Mostly Cloudy
+
+Mostly Cloudy","KARNATAKA","BAGALKOT","JAMKHANDI                                         ","2014-12-13 10:20:27.863"
+"KHARIF","AGRICULTURE","Pulses","Bengal Gram (Gram/Chick Pea/Kabuli/Chana)","	Plant Protection	","BENGALGRAM DISEASE","CARBENDIZIUM 3GM PER LITER WATR","KARNATAKA","BAGALKOT","JAMKHANDI                                         ","2014-12-15 09:47:43.017"
+"JAYAD","AGRICULTURE","Millets","Maize (Makka)","	Plant Protection	","protection before disease","19 all spray 3gm per liter water","KARNATAKA","BAGALKOT","BAGALKOT                                          ","2014-12-15 10:33:32.317"
+"JAYAD","AGRICULTURE","Cereals","Wheat","	Plant Protection	","wheat disease","magnesoium sulphate 2gm per liter water","KARNATAKA","BAGALKOT","BAGALKOT                                          ","2014-12-18 13:06:16.623"
+"JAYAD","AGRICULTURE","Pulses","Bengal Gram (Gram/Chick Pea/Kabuli/Chana)","	Plant Protection	","bengalgram rats","zinc phosphide","KARNATAKA","BAGALKOT","JAMKHANDI                                         ","2014-12-18 13:10:46.680"
+"JAYAD","AGRICULTURE","Sugar and Starch Crops","Sugarcane (Noble Cane)","	Plant Protection	","sugarcane pest","trizophos or acephhate","KARNATAKA","BAGALKOT","BADAMI                                            ","2014-12-18 13:12:59.027"
+"KHARIF","AGRICULTURE","Pulses","Rajma (french bean)","	Plant Protection	","cowpea pest","dimethoate 2ml in 1 liteer water","KARNATAKA","BAGALKOT","HUNGUND                                           ","2014-12-19 12:33:21.627"
+"JAYAD","HORTICULTURE","Fruits","Banana","	Plant Protection	","banana pest","imidachloprid 3ml in 10 liter wtare","KARNATAKA","BAGALKOT","MUDHOL                                            ","2014-12-19 13:56:00.743"
+"KHARIF","AGRICULTURE","Pulses","Bengal Gram (Gram/Chick Pea/Kabuli/Chana)","	Plant Protection	","bengalgram pest","monocrotophos 2ml i 1 liter water","KARNATAKA","BAGALKOT","JAMKHANDI                                         ","2014-12-20 09:55:45.983"
+"KHARIF","AGRICULTURE","Others","Others","Market Information","market rates registration","registration","KARNATAKA","BAGALKOT","HUNGUND                                           ","2014-12-20 10:48:48.357"
+"KHARIF","HORTICULTURE","Fruits","Banana","	Plant Protection	","banana subsidarym","contact banana","KARNATAKA","BAGALKOT","BAGALKOT                                          ","2014-12-20 13:53:09.940"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather","Chance of Precip.
+
+NA
+
+NA
+
+0%
+
+0%
+
+
+
+Cloud Cover
+
+NA
+
+NA
+
+52%
+
+51%
+
+
+
+Conditions
+
+NA
+
+NA
+
+Partly Cloudy
+
+Partly Cloudy
+
+
+
+Sunrise & Sunset
+
+
+
+6:49 AM
+
+6:00 PM","KARNATAKA","BAGALKOT","BADAMI                                            ","2014-12-20 15:21:12.113"
+"KHARIF","AGRICULTURE","Sugar and Starch Crops","Sugarcane (Noble Cane)","	Plant Protection	","sugarcane pest","acephate 2gm per liter water","KARNATAKA","BAGALKOT","JAMKHANDI                                         ","2014-12-20 17:10:10.510"
+"JAYAD","AGRICULTURE","Pulses","Bengal Gram (Gram/Chick Pea/Kabuli/Chana)","	Plant Protection	","BENGALGRAM PEST","MONOCROTOPHOS 2ML IN 1 LITER WATER","KARNATAKA","BAGALKOT","JAMKHANDI                                         ","2014-12-20 17:33:16.893"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER","Humidity
+
+%
+
+%
+
+44%
+
+62%
+
+
+
+Chance of Precip.
+
+NA
+
+NA
+
+0%
+
+0%
+
+
+
+Cloud Cover
+
+NA
+
+NA
+
+49%
+
+49%
+
+
+
+Conditions
+
+NA
+
+NA
+
+Partly Cloudy
+
+Partly","KARNATAKA","BAGALKOT","BAGALKOT                                          ","2014-12-20 17:43:57.580"
+"JAYAD","HORTICULTURE","Vegetables","Onion","	Plant Protection	","onion disease","zinc sulphate 20kg acre + carbendizium 2gm per liter water","KARNATAKA","BAGALKOT","BAGALKOT                                          ","2014-12-21 08:20:54.157"
+"KHARIF","AGRICULTURE","Cereals","Wheat","Fertilizer Use and Availability","WHEAT FERTILIZER","UREA +19 ALL SPRAY 3GM PER WATER","KARNATAKA","BAGALKOT","MUDHOL                                            ","2014-12-21 11:27:40.460"
+"KHARIF","HORTICULTURE","Vegetables","Watermelon","	Plant Protection	","WATERMELON PEST WILLI BE THERE WHEN CULTIVATION TAKEN IN BLACK SOIL","WATERMELON PEST WILLI BE THERE WHEN CULTIVATION TAKEN IN BLACK SOIL NOTHING PROBLEM","KARNATAKA","BAGALKOT","BADAMI                                            ","2014-12-21 11:48:00.437"
+"JAYAD","HORTICULTURE","Vegetables","Onion","Market Information","ONION MARKET","DAVANAGERE Onion Average 827 Quintal  500 2500 1500 
+RAICHUR Onion Average 389 Quintal  650 1965 1550","KARNATAKA","BAGALKOT","HUNGUND                                           ","2014-12-21 13:25:26.380"
+"JAYAD","AGRICULTURE","Others","Others","Government Schemes","mushroom","Mushroom Cultivation	080-26582784/9844796120","KARNATAKA","BAGALKOT","BADAMI                                            ","2014-12-22 09:16:47.043"
+"KHARIF","HORTICULTURE","Fruits","Grape","Market Information","GRAPE MARKET","BANGALORE Dry Grapes Average 1 Quintal  28000 36000 27500","KARNATAKA","BAGALKOT","BAGALKOT                                          ","2014-12-22 10:46:15.620"
+"JAYAD","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","BRINJAL PEST","QUINOLPHOS 2ML IN 1 LITER WAYER","KARNATAKA","BAGALKOT","JAMKHANDI                                         ","2014-12-22 11:39:15.930"
+"JAYAD","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","cotton pest","monocrotophos 2ml in 1 liter water","KARNATAKA","BAGALKOT","BADAMI                                            ","2014-12-26 10:45:49.223"
+"RABI","AGRICULTURE","Others","Others","Weather","soil test","08354-
+200003
+223543
+Krishi Vigyan Kendra
+Near Rural Police Station
+Agricultural Research Station","KARNATAKA","BAGALKOT","MUDHOL                                            ","2014-12-29 07:29:29.063"
+"KHARIF","AGRICULTURE","Cereals","Wheat","	Plant Protection	","WHEAT PEST","MONOCROPHOS 2ML IN 1 LITER WATER","KARNATAKA","BAGALKOT","MUDHOL                                            ","2014-12-30 12:08:55.203"

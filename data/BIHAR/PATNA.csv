@@ -1,0 +1,183 @@
+"Season","Sector","Category","Crop","QueryType","QueryText","KCCAns","StateName","DistrictName","BlockName","CreatedOn"
+"RABI","AGRICULTURE","Pulses","Bengal Gram (Gram/Chick Pea/Kabuli/Chana)","Seeds","VARIETY OF GRAM-","VARIETY OF GRAM-PUSA-256,KPG-59,PUSDA-372,KWR-108","BIHAR","PATNA","PALIGANJ                                          ","2014-11-01 15:00:05.253"
+"RABI","AGRICULTURE","Others","Others","Weather",".Weather information","NO CHANCE OF RAIN IN YOUR AREA","BIHAR","PATNA","PALIGANJ                                          ","2014-11-01 17:21:26.130"
+"RABI","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","DELAY GROWTH","spray boomflower @2ml/lit of water","BIHAR","PATNA","MOKAMA                                            ","2014-11-01 20:38:50.467"
+"RABI","AGRICULTURE","Others","Others","Weather","WEATHER INFORMATION","NO CHANCE OF RAIN IN YOUR AREA","BIHAR","PATNA","BIKRAM                                            ","2014-11-02 06:38:12.367"
+"RABI","AGRICULTURE","Others","Others","Weather","Weather information","NO CHANCE OF RAIN IN YOUR AREA","BIHAR","PATNA","BIKRAM                                            ","2014-11-02 06:40:39.600"
+"KHARIF","AGRICULTURE","Others","Others","	Plant Protection	","Weather information","Very low Cloudy weather in your area but no chance of rain","BIHAR","PATNA","BIKRAM                                            ","2014-11-02 06:43:00.107"
+"RABI","AGRICULTURE","Others","Others","Weather","WEED MANAGEMENT OF SHALLOW FIELD","SPRAY PARAQUATE @ 2ML/ LITER OF WATER","BIHAR","PATNA","DHANARUA                                          ","2014-11-02 13:06:58.477"
+"RABI","AGRICULTURE","Fodder Crops","Barseem","Seeds","seed rate / kattha","seed rate / kattha - 350 gram/kattha","BIHAR","PATNA","PALIGANJ                                          ","2014-11-03 06:20:16.160"
+"KHARIF","HORTICULTURE","Vegetables","Cucumber","Vegetative Propagation and Tissue Culture","Weather information","Today and tomorrow chance of rain","BIHAR","PATNA","DANIYAWAN                                         ","2014-11-03 06:31:09.600"
+"RABI","HORTICULTURE","Vegetables","Onion","Seeds and Planting Material","varities of onion","varities of onion
+Arka niketan, Nasik red, Arka kalyan 76","BIHAR","PATNA","PALIGANJ                                          ","2014-11-03 07:54:25.377"
+"RABI","AGRICULTURE","Cereals","Wheat","Fertilizer Use and Availability","FERTILIZER DOSES IN WHEAT","FERTILIZER DOSES IN N.P.K @ 120:60:40 KG./HECT","BIHAR","PATNA","MOKAMA                                            ","2014-11-03 12:50:00.040"
+"RABI","AGRICULTURE","Others","Others","Weather","Weather information","NO CHANCE OF RAIN IN YOUR AREA","BIHAR","PATNA","GHOSWARI                                          ","2014-11-03 15:31:49.257"
+"KHARIF","AGRICULTURE","Others","Others","Weather","Weather information","NO CHANCE OF RAIN IN YOUR AREA","BIHAR","PATNA","PHULWARI                                          ","2014-11-03 16:08:14.543"
+"RABI","AGRICULTURE","Cereals","Wheat","Varieties","VARIETY OF WHEAT","VARIETY OF WHEAT -HD 2733","BIHAR","PATNA","PHULWARI                                          ","2014-11-03 16:39:10.553"
+"RABI","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","INSECT MANAGEMENT","IMIDACHOLOROPID 1 ML/ 3 LITER WATER","BIHAR","PATNA","PUNPUN                                            ","2014-11-03 16:45:20.893"
+"RABI","AGRICULTURE","Others","Others","Weather","Weather information","NO CHANCE OF RAIN IN YOUR AREA","BIHAR","PATNA","DHANARUA                                          ","2014-11-03 17:27:50.417"
+"KHARIF","HORTICULTURE","Vegetables","Bhindi(Okra/Ladysfinger)","	Plant Protection	","insect problem","Spry quinalphos@ 1 ml in 1 litre of water","BIHAR","PATNA","PATNA SADAR                                       ","2014-11-03 20:55:32.863"
+"RABI","AGRICULTURE","Pulses","Lentil (Masur)","	Plant Protection	","INSECT IN LENTIL","spray imidachlorpid @ 1 ml / 3 lt of water","BIHAR","PATNA","DANIYAWAN                                         ","2014-11-04 06:22:34.197"
+"RABI","AGRICULTURE","Others","Others","Weather","Weather information","NO CHANCE OF RAIN IN YOUR AREA","BIHAR","PATNA","BIHTA                                             ","2014-11-04 06:29:50.790"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","Weather information","Very low Cloudy weather in your area but no chance of rain","BIHAR","PATNA","PUNPUN                                            ","2014-11-04 06:53:33.213"
+"RABI","HORTICULTURE","Vegetables","Potato","Fertilizer Use and Availability","Potato fertilizer dose-","Potato fertilizer dose-
+compost-150quintal+urea150+dap-80+pottas-50+zn-sulphate-20kg/ha...","BIHAR","PATNA","PUNPUN                                            ","2014-11-04 06:53:52.903"
+"RABI","AGRICULTURE","Pulses","Lentil (Masur)","Cultural Practices","fertilizer dose","45-50 kg urea,100kg DAP","BIHAR","PATNA","DHANARUA                                          ","2014-11-04 14:38:54.137"
+"KHARIF","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","FLOWER DROPPING IN BRINJAL","SPRAY PLANOFIX @ 1 ML./4.5 LT. OF WATER.","BIHAR","PATNA","BELCHCHI                                          ","2014-11-05 07:51:34.993"
+"RABI","AGRICULTURE","Others","Others","Weather","Weather information","Today and tomorrow no chance of rain","BIHAR","PATNA","PANDARAK                                          ","2014-11-06 11:26:04.487"
+"KHARIF","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","LEAF CURL IN TOMATO","SPRAY IMIDACHLOROPID 1ML/3LIT OF WATER","BIHAR","PATNA","PUNPUN                                            ","2014-11-06 17:14:12.510"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","Seeds","VARIETIES OF WHEAT","H.D-2733,P.B.W-343","BIHAR","PATNA","PUNPUN                                            ","2014-11-06 19:29:13.080"
+"RABI","AGRICULTURE","Pulses","Lentil (Masur)","	Plant Protection	","INSECT IN MASOOR.","SPRAY IMIDACLOPRID-1ML/3LIT OF WATER.","BIHAR","PATNA","DANIYAWAN                                         ","2014-11-07 08:03:27.473"
+"KHARIF","AGRICULTURE","Cereals","Wheat","Weather","WEATHER","NO RAIN","BIHAR","PATNA","PUNPUN                                            ","2014-11-07 15:59:48.670"
+"RABI","AGRICULTURE","Others","Others","Weather","1.Weather information","Very low Cloudy weather in your area but no chance of rain","BIHAR","PATNA","KHUSRUPUR                                         ","2014-11-09 08:24:20.450"
+"KHARIF","HORTICULTURE","Vegetables","Tomato","	Plant Protection	","Fungal problem","Spray copper oxycloride @ 2 gram in 1 litre of water","BIHAR","PATNA","PHULWARI                                          ","2014-11-09 15:49:39.093"
+"RABI","HORTICULTURE","Vegetables","Cauliflower","	Plant Protection	","insect problem","quinalphos @ 2 ml in one litre of water","BIHAR","PATNA","PUNPUN                                            ","2014-11-09 15:51:45.540"
+"RABI","AGRICULTURE","Cereals","Wheat","	Field Preparation	","Weather information","NO CHANCE OF RAIN IN YOUR AREA","BIHAR","PATNA","DHANARUA                                          ","2014-11-11 10:22:38.810"
+"RABI","AGRICULTURE","Pulses","Lentil (Masur)","	Plant Protection	","How I do seed treatment","You treated your seed with capton, bavistin and thirum @ 2-2.5 gram per kg of seed","BIHAR","PATNA","PALIGANJ                                          ","2014-11-11 18:24:19.497"
+"RABI","AGRICULTURE","Pulses","Bengal Gram (Gram/Chick Pea/Kabuli/Chana)","Weed Management","WEED CONTROL IN GRAM-","WEED CONTROL IN GRAM- ALACLORE 3-4 LITER/HA","BIHAR","PATNA","PALIGANJ                                          ","2014-11-11 18:54:31.000"
+"RABI","AGRICULTURE","Cereals","Wheat","Seeds","VARIETY OF WHEAT-","VARIETY OF WHEAT-PBW-373,PBW-343, PBW-502,HD-2285,hd-2285, hd-2307, hd-2329, hd-2643","BIHAR","PATNA","BIHTA                                             ","2014-11-11 20:19:02.390"
+"KHARIF","HORTICULTURE","Vegetables","Cucumber","Agriculture Mechanization","ferlizer recomendation in maize","use urea-1.5kg,dap-500g,potash-1kg and give urea in three split dose on 20,45,and60days from the day of  sowing","BIHAR","PATNA","MOKAMA                                            ","2014-11-11 20:41:20.607"
+"KHARIF","HORTICULTURE","Vegetables","Cabbage","Spices and Condiment Crops","CAULIFLOWER-","3.CAULIFLOWER- APPLY BORAX@10-15KG/H+1KG SODIUM MOLIBIDAD/AMMONIUM MOLIBIDAD","BIHAR","PATNA","BIHTA                                             ","2014-11-11 20:46:03.170"
+"JAYAD","HORTICULTURE","Flowers","China Astor","Training and Exposure Visits","WEED PROBLEM","Use paraquat @1ml\lit barron field","BIHAR","PATNA","DHANARUA                                          ","2014-11-11 21:02:11.840"
+"RABI","AGRICULTURE","Pulses","Lentil (Masur)","	Plant Protection	","Insect infestation","Spray imidachloprid @ 1ml/3lit of water *","BIHAR","PATNA","FATUHA                                            ","2014-11-12 08:07:45.313"
+"RABI","AGRICULTURE","Cereals","Paddy (Dhan)","	Field Preparation	","Weather information","Very low Cloudy weather in your area","BIHAR","PATNA","MOKAMA                                            ","2014-11-12 09:15:41.467"
+"RABI","HORTICULTURE","Fruits","Mango","Bio-Pesticides and Bio-Fertilizers","MANAGEMENT OF MANGO","MANAGEMENT OF MANGO BY MONOCROPHOS 36 SL 10-10 ML","BIHAR","PATNA","DHANARUA                                          ","2014-11-12 13:09:21.743"
+"RABI","AGRICULTURE","Others","Others","Weed Management","WEED MANAGEMENT IN BARREN LAND","WEED MANAGEMENT IN BARREN LAND Spray Glyphosate 41% SL @ 2 ml in 1 litre of water","BIHAR","PATNA","BIKRAM                                            ","2014-11-13 10:44:54.307"
+"KHARIF","HORTICULTURE","Vegetables","Baby Corn","Bio-Pesticides and Bio-Fertilizers","insect problem","Spray triazophos @ 2ml in 1 litre of water","BIHAR","PATNA","BARH                                              ","2014-11-13 16:55:39.673"
+"KHARIF","HORTICULTURE","Vegetables","Baby Corn","Bio-Pesticides and Bio-Fertilizers","insect problem","Spray triazophos @ 2ml in 1 litre of water","BIHAR","PATNA","BARH                                              ","2014-11-13 16:55:40.213"
+"KHARIF","HORTICULTURE","Vegetables","Cucumber","Agriculture Mechanization","weed management","pendimethalin @ 2 ml in 1 litre of water","BIHAR","PATNA","PANDARAK                                          ","2014-11-13 19:42:04.367"
+"RABI","AGRICULTURE","Cereals","Wheat","	Field Preparation	","Weather information","NOchance of rain","BIHAR","PATNA","DULHIN BAZAR                                      ","2014-11-14 12:28:56.850"
+"KHARIF","AGRICULTURE","Millets","Maize (Makka)","Weather","Weather information","NO chance of rain","BIHAR","PATNA","DHANARUA                                          ","2014-11-14 13:04:03.727"
+"RABI","AGRICULTURE","Pulses","Lentil (Masur)","	Plant Protection	","insect problem","spray dimethoate @ 1 ml / lt of water","BIHAR","PATNA","DANIYAWAN                                         ","2014-11-14 14:09:19.413"
+"RABI","AGRICULTURE","Others","Others","Weather","Weather information","Day
+N
+E
+S
+W
+W 9 km/h 
+Gusts: 18 km/h 
+Times of clouds and sun
+Max UV Index: 5 (Moderate)
+Thunderstorms: 0%
+Precipitation: 0 mm
+Rain: 0 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","BIHAR","PATNA","BAKHTIARPUR                                       ","2014-11-14 14:21:32.750"
+"KHARIF","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","INSECT","Spray monocrotophos @ 1 ml in 1 litre of water","BIHAR","PATNA","FATUHA                                            ","2014-11-14 18:29:07.600"
+"KHARIF","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","insect problem OF BRINJAL","Spray imidachloprid @ 1ml/3lit of water + bavistin @2hgm /lit","BIHAR","PATNA","BIHTA                                             ","2014-11-15 08:40:28.017"
+"RABI","AGRICULTURE","Cereals","Wheat","Varieties","VARIETIES OF WHEAT","VARIETIES OF WHEAT- HD-2733 , HD-2967","BIHAR","PATNA","FATUHA                                            ","2014-11-15 16:24:50.727"
+"RABI","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","insect problem","Spray quinolphos @ 2 ml in one litre of water","BIHAR","PATNA","NAUBATPUR                                         ","2014-11-15 16:58:48.133"
+"RABI","AGRICULTURE","Cereals","Wheat","Agriculture Mechanization","Variety of wheat","Variety of wheat- P.B.W-373, P.B.W-573, P.B.W-443, P.B.W-343, P.B.W-154, HD-2733, HD-2824, k-9107","BIHAR","PATNA","PUNPUN                                            ","2014-11-15 17:46:09.467"
+"RABI","AGRICULTURE","Cereals","Wheat","Varieties","VARIETIES OF WHEAT","VARIETIES OF WHEAT - HD-2733 , HD-2967","BIHAR","PATNA","PHULWARI                                          ","2014-11-15 17:50:22.207"
+"RABI","AGRICULTURE","Pulses","Bengal Gram (Gram/Chick Pea/Kabuli/Chana)","	Plant Protection	","fungal problem","spray copper oxychloride @ 2 gram / liter of water","BIHAR","PATNA","PHULWARI                                          ","2014-11-15 18:21:14.187"
+"RABI","AGRICULTURE","Pulses","Lentil (Masur)","	Plant Protection	","masur me wilt se bachne ke leye kya kare","hexaconazole (cantaf) @ 1 ml par liter of water","BIHAR","PATNA","PHULWARI                                          ","2014-11-15 19:03:21.207"
+"JAYAD","HORTICULTURE","Vegetables","Cauliflower","	Plant Protection	","insect problem","spray dimethoate @ 1 ml / lt of water","BIHAR","PATNA","NAUBATPUR                                         ","2014-11-16 06:52:27.603"
+"KHARIF","HORTICULTURE","Vegetables","Cucumber","Organic Farming","Urdbean","PDU 1(Basant Bahar)
+IPU 94-1(Uttara)
+IPU 02-43 
+IPU 07-3","BIHAR","PATNA","BIKRAM                                            ","2014-11-16 07:46:31.660"
+"KHARIF","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","INSECT PROBLEM OF BRINJAL","spray boomflower @ 2 ml / lt of water","BIHAR","PATNA","PALIGANJ                                          ","2014-11-16 08:41:22.987"
+"RABI","AGRICULTURE","Pulses","Lentil (Masur)","	Plant Protection	","yellowing of leaves","spray carbendazim @ 2 gm/lt of water","BIHAR","PATNA","BIKRAM                                            ","2014-11-16 16:30:51.583"
+"RABI","AGRICULTURE","Cereals","Wheat","	Plant Protection	","insect control","spray cloropyriphos@2ml/lit of water","BIHAR","PATNA","PATNA SADAR                                       ","2014-11-16 16:57:59.320"
+"RABI","AGRICULTURE","Others","Others","	Plant Protection	","Weather information","Very low Cloudy weather in your area but no chance of rain","BIHAR","PATNA","MASAURHI                                          ","2014-11-17 10:48:04.597"
+"RABI","AGRICULTURE","Others","Others","Weather","Weather information","Very low Cloudy weather in your area but no chance of rain","BIHAR","PATNA","PHULWARI                                          ","2014-11-17 10:52:49.383"
+"RABI","HORTICULTURE","Vegetables","Potato","	Plant Protection	","FUNJAL PROBLEM OF POTATO","Spray copper oxycloride @ 2 gram in 1 litre of water","BIHAR","PATNA","DANIYAWAN                                         ","2014-11-17 12:07:02.987"
+"RABI","HORTICULTURE","Vegetables","Potato","Fertilizer Use and Availability","Potato fertilizer dose-","Potato fertilizer dose- compost-150quintal+urea150+dap-80+pottas-50+zn-sulphate-20kg/ha...","BIHAR","PATNA","PALIGANJ                                          ","2014-11-17 15:00:22.293"
+"RABI","HORTICULTURE","Medicinal and Aromatic Plants","Tulsi","Seeds and Planting Material","MEDICINAL PLANT","MEDICINAL PLANT- TULSI, SATAWAR, SARPGANDHA, SAFED MUSLI","BIHAR","PATNA","PALIGANJ                                          ","2014-11-17 19:19:51.680"
+"RABI","HORTICULTURE","Vegetables","Cucumber","	Plant Protection	","insect problem","Spray quinalphos@ 1 ml in 1 litre of watera","BIHAR","PATNA","BIHTA                                             ","2014-11-18 10:45:03.183"
+"RABI","HORTICULTURE","Condiments and Spices","Fenugreek","	Plant Protection	","insect problem OF FENUGREEK","Spray cloropyriphos @ 1 ml in 1 litre of water","BIHAR","PATNA","GHOSWARI                                          ","2014-11-18 11:56:36.013"
+"RABI","AGRICULTURE","Others","Others","Weather","Weather information","no chance of rain","BIHAR","PATNA","BIKRAM                                            ","2014-11-18 12:46:51.363"
+"RABI","AGRICULTURE","Pulses","Lentil (Masur)","	Plant Protection	","yellowing of leaves","Spray mencozeb @ 2g/lit of water","BIHAR","PATNA","PALIGANJ                                          ","2014-11-18 14:05:37.940"
+"RABI","AGRICULTURE","Pulses","Lentil (Masur)","	Plant Protection	","fungal problem","Spray copper oxycloride @ 2 gram in 1 litre of water","BIHAR","PATNA","FATUHA                                            ","2014-11-18 19:24:19.857"
+"RABI","AGRICULTURE","Cereals","Wheat","	Plant Protection	","How I do seed treatment","You treated your seed with capton, bavistin and thirum @ 2-2.5 gram per kg of seed","BIHAR","PATNA","BIHTA                                             ","2014-11-19 14:27:30.050"
+"RABI","HORTICULTURE","Vegetables","Tomato","	Plant Protection	","INSECT IN TOMATO","Spray METASISTOX @ 1 ml in 1 litre of watera","BIHAR","PATNA","MASAURHI                                          ","2014-11-19 14:44:09.620"
+"RABI","HORTICULTURE","Vegetables","Tomato","	Plant Protection	","INSECT IN TOMATO","Spray METASISTOX @ 1 ml in 1 litre of watera","BIHAR","PATNA","MASAURHI                                          ","2014-11-19 14:47:58.140"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","TERMITE CONTROL","SPRAY CHLOROPYRIPHOS @2LIT/HECT WITH 1OOKG SAND BROADCASTING","BIHAR","PATNA","KHUSRUPUR                                         ","2014-11-19 17:17:10.040"
+"RABI","AGRICULTURE","Others","Others","Weather","WEATHER INFORMATION","Night
+N
+E
+S
+W
+W 4 mph 
+Gusts: 6 mph 
+Clear
+Max UV Index: N/A
+Thunderstorms: 0%
+Precipitation: 0 in
+Rain: 0 in
+Snow: 0 in
+Ice: 0 in
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","BIHAR","PATNA","PUNPUN                                            ","2014-11-19 17:43:39.243"
+"RABI","AGRICULTURE","Pulses","Lentil (Masur)","	Plant Protection	","FUNGAL PROBLEM OF LENTIL","Spray copper oxycloride @ 2 gram in 1 litre of water","BIHAR","PATNA","DANIYAWAN                                         ","2014-11-19 19:07:31.163"
+"RABI","AGRICULTURE","Cereals","Paddy (Dhan)","Weather","fruit shading","Spray planofix ml in 4.5- 5 liter of water","BIHAR","PATNA","FATUHA                                            ","2014-11-20 07:32:59.613"
+"RABI","AGRICULTURE","Others","Others","Weather",".Weather information","today and tomorrow no chance of rain","BIHAR","PATNA","PALIGANJ                                          ","2014-11-20 14:49:14.530"
+"RABI","AGRICULTURE","Cereals","Wheat","	Plant Protection	","How I do seed treatment","You treated your seed with capton, bavistin and thirum @ 2-2.5 gram per kg of seed","BIHAR","PATNA","BIKRAM                                            ","2014-11-20 15:02:00.353"
+"RABI","AGRICULTURE","Others","Others","Varieties","Weather information","Very low Cloudy weather in your area but no chance of rain","BIHAR","PATNA","DHANARUA                                          ","2014-11-20 15:05:49.830"
+"RABI","AGRICULTURE","Pulses","Lentil (Masur)","	Plant Protection	","yellowing of plant","spray copper oxi chloride @ 2gm /liter of water","BIHAR","PATNA","DHANARUA                                          ","2014-11-20 15:36:33.507"
+"RABI","AGRICULTURE","Cereals","Wheat","	Plant Protection	","varieties of wheat","PBW-502","BIHAR","PATNA","BIKRAM                                            ","2014-11-20 18:47:22.547"
+"KHARIF","HORTICULTURE","Vegetables","Brinjal","Agriculture Mechanization","Delay in growth","Spray methyl demeton or dimethoate @ 1 ml in one litter of water","BIHAR","PATNA","MASAURHI                                          ","2014-11-21 12:11:16.330"
+"RABI","AGRICULTURE","Others","Others","Weather","Weather information","Today and tomorrow no chance of rain","BIHAR","PATNA","BAKHTIARPUR                                       ","2014-11-21 15:32:20.480"
+"KHARIF","AGRICULTURE","Others","Others","Weather","Weather information","Today and tomorrow no chance of rain","BIHAR","PATNA","DHANARUA                                          ","2014-11-21 16:35:43.967"
+"KHARIF","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","PEST","SSPREY NILRATNA","BIHAR","PATNA","PALIGANJ                                          ","2014-11-21 17:56:16.487"
+"KHARIF","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","LEAF CURL IN CHILIES","SPRAY IMIDACHLOROPID 1ML/3LIT OF WATER","BIHAR","PATNA","KHUSRUPUR                                         ","2014-11-21 19:34:45.510"
+"RABI","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","LEAF HOPPER IN BRINJAL","LEAF HOPPER IN BRINJAL SPRAY IN METASISTOX @ 1.5 ML PER LITER WATER","BIHAR","PATNA","PHULWARI                                          ","2014-11-22 08:16:07.243"
+"RABI","HORTICULTURE","Condiments and Spices","Coriander","Fertilizer Use and Availability","FERTILIZER DOSE IN CORIANDER","UREA-60 HG/HA , DAP-80 KG/HA , MOP-50 KG/HA ARE TIME OF LAND PREPARATION AND APPLY  UREA-60 HG/HA  AFTER 30 DAYS","BIHAR","PATNA","MASAURHI                                          ","2014-11-22 14:48:46.490"
+"RABI","AGRICULTURE","Cereals","Wheat","Fertilizer Use and Availability","Wheat fertilizer dose-","Wheat fertilizer dose- NPK- 120KG, 60KG,40KG /HACT","BIHAR","PATNA","PUNPUN                                            ","2014-11-22 15:05:49.430"
+"RABI","AGRICULTURE","Pulses","Lethyrus","	Plant Protection	","INSECT CONTROL IN GRAM","Spray chloropyriphos @ 1 ml in 1 litre of water","BIHAR","PATNA","MASAURHI                                          ","2014-11-22 17:16:59.610"
+"RABI","AGRICULTURE","Others","Others","Weather","weather","no chance of rainfall","BIHAR","PATNA","NAUBATPUR                                         ","2014-11-22 17:50:58.547"
+"RABI","AGRICULTURE","Others","Others","Weather","Weather information","Today and tomorrow no chance of rain","BIHAR","PATNA","MASAURHI                                          ","2014-11-22 19:07:29.337"
+"RABI","AGRICULTURE","Pulses","Lentil (Masur)","	Plant Protection	","INSECT INFESTATION","Spray cloropyriphos @ 1 ml in 1 litre of water","BIHAR","PATNA","NAUBATPUR                                         ","2014-11-22 19:36:30.827"
+"RABI","HORTICULTURE","Vegetables","Potato","Fertilizer Use and Availability","fertilizer use of potato field","n;p;k-150;90;100kg/ha","BIHAR","PATNA","DHANARUA                                          ","2014-11-23 06:12:43.520"
+"RABI","HORTICULTURE","Vegetables","Potato","	Plant Protection	","FUNJAL PROBLEM OF POTATO","Spray mencozeb @ 2g/lit of water","BIHAR","PATNA","BIHTA                                             ","2014-11-23 09:01:46.840"
+"RABI","AGRICULTURE","Millets","Maize (Makka)","	Plant Protection	","insect problem of maize","Spray cloropyriphos @ 1 ml in 1 litre of water","BIHAR","PATNA","MASAURHI                                          ","2014-11-23 11:23:12.570"
+"RABI","AGRICULTURE","Millets","Maize (Makka)","	Plant Protection	","insect problem of maize","Spray cloropyriphos @ 1 ml in 1 litre of water","BIHAR","PATNA","MASAURHI                                          ","2014-11-23 11:23:13.377"
+"RABI","AGRICULTURE","Pulses","Lentil (Masur)","Varieties","VARIETIES OF LAENTIL","VARIETIES OF LAENTIL - ARUN , P.L-639","BIHAR","PATNA","DHANARUA                                          ","2014-11-23 13:08:07.860"
+"RABI","HORTICULTURE","Vegetables","Pointed Gourd","Seeds and Planting Material","VARIETY OF POINTED GOURD-","VARIETY OF POINTED GOURD- RAJENDER PARVAL-1, RAJENDER-2, F P-3,","BIHAR","PATNA","MASAURHI                                          ","2014-11-23 14:39:32.350"
+"KHARIF","HORTICULTURE","Fruits","Guava","	Plant Protection	","INSECT IN GUAVA","Spray monocrotophos @ 1 ml in 1 litre of water","BIHAR","PATNA","DINAPUR                                           ","2014-11-23 14:40:38.010"
+"RABI","AGRICULTURE","Others","Others","Weather","Weather information rain","NO chance of rain","BIHAR","PATNA","BIKRAM                                            ","2014-11-23 15:30:29.907"
+"RABI","AGRICULTURE","Cereals","Wheat","Varieties","VARIETIES OF WHEAT","VARIETIES OF WHEAT- PBW-343, PBW-373, PBW-502, PBW-154, HD-2733, UP-262,","BIHAR","PATNA","BIKRAM                                            ","2014-11-23 16:50:41.197"
+"RABI","HORTICULTURE","Vegetables","Bitter Gourd","	Plant Protection	","DISEASE","Spray sulphur @ 2 gram in 1 litre of water","BIHAR","PATNA","PALIGANJ                                          ","2014-11-24 10:49:08.087"
+"RABI","HORTICULTURE","Vegetables","Potato","	Plant Protection	","insect problem","Spray chloropyriphos @ 1 ml in 1 litre of water","BIHAR","PATNA","PALIGANJ                                          ","2014-11-24 12:42:53.520"
+"RABI","AGRICULTURE","Pulses","Bengal Gram (Gram/Chick Pea/Kabuli/Chana)","	Plant Protection	","wilt disease of green gram","rog rodhi variety sowing kare, 3 years ka crop rotation apnye  or carbendazim @ 1 gram par kg seed ko seed treatment kare","BIHAR","PATNA","NAUBATPUR                                         ","2014-11-24 14:23:40.377"
+"RABI","AGRICULTURE","Cereals","Wheat","Varieties","Variety of wheat-","Variety of wheat- P.B.W-373, P.B.W-573, P.B.W-443, P.B.W-343, P.B.W-154, HD-2733, HD-2824, k-9107","BIHAR","PATNA","PALIGANJ                                          ","2014-11-24 16:04:58.083"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","Bio-Pesticides and Bio-Fertilizers","REGARDING TRICHODERMA","SPRAY 5GM TRICHDERMA/LIT OF WATER WITH 2GRAM GUR","BIHAR","PATNA","PUNPUN                                            ","2014-11-24 16:22:51.973"
+"RABI","HORTICULTURE","Vegetables","Cauliflower","	Plant Protection	","INSECT PROBLEM OF CAULIFLOWER","Spray quinolphos @ 2 ml in one litre of water","BIHAR","PATNA","SAMPATCHAK                                        ","2014-11-24 17:42:44.610"
+"RABI","HORTICULTURE","Vegetables","Potato","	Plant Protection	","blight disease of potato","Spray saaf @ 2 ml in 1 litre of water","BIHAR","PATNA","MASAURHI                                          ","2014-11-24 18:07:30.713"
+"RABI","AGRICULTURE","Cereals","Wheat","	Field Preparation	","varieties of wheat","varieties of wheat;- HD2733,2967,2824,PBW502,343,373,443,550,k307,9107,hp1731,1761","BIHAR","PATNA","BIHTA                                             ","2014-11-24 20:46:12.023"
+"RABI","AGRICULTURE","Pulses","Lentil (Masur)","	Plant Protection	","FUNGAL PROBLEM OF LENTIL","COPPER OXYCLORIDE 2GM/LITER OF WATER","BIHAR","PATNA","PUNPUN                                            ","2014-11-25 07:34:55.240"
+"RABI","AGRICULTURE","Pulses","Lentil (Masur)","	Plant Protection	","INSECT CONTROL","Spray quinqalphos @ 2ml/lit of water","BIHAR","PATNA","BARH                                              ","2014-11-25 16:19:46.200"
+"RABI","AGRICULTURE","Others","Others","Weather","weather information","no chance of rain","BIHAR","PATNA","SAMPATCHAK                                        ","2014-11-25 18:54:57.877"
+"KHARIF","HORTICULTURE","Vegetables","Cucumber","Spices and Condiment Crops","Delay in growth","Spray boomflower @ 2 ml in 1 litre of water","BIHAR","PATNA","PHULWARI                                          ","2014-11-27 06:39:46.637"
+"KHARIF","HORTICULTURE","Vegetables","Cucumber","Spices and Condiment Crops","Variety of mung-","pusa vishal, smart, sona","BIHAR","PATNA","PATNA SADAR                                       ","2014-11-27 07:56:16.873"
+"RABI","HORTICULTURE","Vegetables","Potato","	Plant Protection	","Fungal problem","Spray copper oxychloride @ 2 gram in 1 litre of water","BIHAR","PATNA","DHANARUA                                          ","2014-11-27 09:37:26.590"
+"RABI","AGRICULTURE","Others","Others","Weather","Weather information","Very low Cloudy weather in your area but no chance of rain","BIHAR","PATNA","NAUBATPUR                                         ","2014-11-27 12:39:50.920"
+"RABI","HORTICULTURE","Vegetables","Potato","	Plant Protection	","BLIGHT DISEASE IN POTATO","Spray mencozeb @ 2gm/lit of water","BIHAR","PATNA","ATHAMALGOLA                                       ","2014-11-27 17:01:05.260"
+"RABI","AGRICULTURE","Pulses","Lentil (Masur)","Bio-Pesticides and Bio-Fertilizers","Delay in growth","Spray boomflower @ 2 ml in 1 litre of water","BIHAR","PATNA","PUNPUN                                            ","2014-11-27 17:24:36.220"
+"RABI","HORTICULTURE","Vegetables","Radish","	Plant Protection	","fertz. dose of raddish","fertz. dose of raddish -compost 150-200kg/N 60/P60/K 40","BIHAR","PATNA","NAUBATPUR                                         ","2014-11-27 18:55:42.637"
+"RABI","AGRICULTURE","Pulses","Bengal Gram (Gram/Chick Pea/Kabuli/Chana)","	Field Preparation	","FERTZ. DOSE OF GRAM","FERTZ. DOSE OF GRAM -20N/45P/20K","BIHAR","PATNA","NAUBATPUR                                         ","2014-11-27 18:58:54.880"
+"RABI","AGRICULTURE","Others","Others","Weather","Weather information","TODAY AND TOMORROW NO CHANCE OF RAIN","BIHAR","PATNA","PALIGANJ                                          ","2014-11-28 06:54:04.617"
+"RABI","AGRICULTURE","Others","Others","	Field Preparation	","variety of masur","variety of masur -ARUN (PL 77-12), PANT L-639, NARENDAR MASUR-1, HUL-57, PANT L-406","BIHAR","PATNA","PATNA SADAR                                       ","2014-11-28 07:39:31.087"
+"RABI","AGRICULTURE","Pulses","Lentil (Masur)","	Plant Protection	","INSECT CONTROL","Spray chlorpryphos @ 2ml/lit of water","BIHAR","PATNA","FATUHA                                            ","2014-11-28 16:21:49.880"
+"RABI","AGRICULTURE","Pulses","Lentil (Masur)","	Plant Protection	","Fungal problem","Spray copper oxycloride @ 2 gram in 1 litre of water","BIHAR","PATNA","FATUHA                                            ","2014-11-28 18:12:41.710"
+"RABI","ANIMAL HUSBANDRY","Animal","Goat","Animal Breeding","related goatery","consult B A O","BIHAR","PATNA","MASAURHI                                          ","2014-11-28 19:05:56.460"
+"RABI","AGRICULTURE","Cereals","Wheat","Fertilizer Use and Availability","fertilizer dose in Wheat-","fertilizer dose in Wheat- NPK 120,60,40KG/HACT","BIHAR","PATNA","PATNA SADAR                                       ","2014-11-29 06:36:19.990"
+"RABI","HORTICULTURE","Vegetables","Potato","	Plant Protection	","insect problem in poato","use malathion or methyl parathion @ 25 kilo /ha ke hisab prayog kare","BIHAR","PATNA","DANIYAWAN                                         ","2014-11-29 06:41:58.817"
+"RABI","AGRICULTURE","Cereals","Wheat","Varieties","variety of wheat-","variety of wheat- HD-2733,HP- 1761,C-306,RW-3016, PBW-343, PBW-373","BIHAR","PATNA","NAUBATPUR                                         ","2014-11-29 07:05:59.820"
+"RABI","AGRICULTURE","Pulses","Lentil (Masur)","	Plant Protection	","insect problem in lantil","spray trizophos @ 2ml/lite of water","BIHAR","PATNA","PATNA SADAR                                       ","2014-11-29 07:20:31.950"
+"RABI","HORTICULTURE","Fruits","Mango","	Plant Protection	","stem borer in mango","apply carbofuran @ 10-15 dana of each hole and then close the hole by wet soil","BIHAR","PATNA","NAUBATPUR                                         ","2014-11-29 07:34:03.953"
+"RABI","HORTICULTURE","Vegetables","Brinjal","Seeds and Planting Material","Seed treatment","Treat the seeds with Trichoderma viride @ 4 g / kg or Pseudomonas fluorescens @ 10 g / kg of seed. Treat the seeds with Azospirillum @ 40 g / 400 g of seeds using rice gruel as adhesive. Irrigate with rose can. In raised nursery beds, sow the seeds in lines at 10 cm apart and cover with sand. Transplant the seedlings 30 – 35 days after sowing at 60 cm apart in the ridges.","BIHAR","PATNA","PUNPUN                                            ","2014-11-29 11:36:07.860"
+"RABI","HORTICULTURE","Vegetables","Potato","Fertilizer Use and Availability","FERTILIZER DOSE OF WHEAT AT THE TIME OF FIRST IRRIGATION","FERTILIZER DOSE OF WHEAT AT THE TIME OF FIRST IRRIGATION - APPLY UREA @ 1.6 KG/KATTHA","BIHAR","PATNA","BIHTA                                             ","2014-11-29 19:10:38.470"
+"RABI","HORTICULTURE","Fruits","Jack Fruit","	Plant Protection	","drying of stem from upper portion of plant","Spray Fesolone or asefet or carbaril @ 2 ml in 1 litre of water","BIHAR","PATNA","MOKAMA                                            ","2014-11-30 06:34:28.240"
+"RABI","AGRICULTURE","Cereals","Wheat","	Field Preparation	","FERTILIZER DOSE IN WHEAT","???? ??? ??? ?? ?????? -  ??????  @ ???  ????????? /?????? , ?? .?.??  @ ???   ????????? /??????  , ??.?.??  - ??  ????????? /?????? ????? ?????  ?? ???  ??? ??? ???? ?? ??????  @ ???  ????????? /?????? ????? ????? ?? ??? ????","BIHAR","PATNA","MASAURHI                                          ","2014-11-30 07:30:19.223"
+"RABI","AGRICULTURE","Cereals","Wheat","	Plant Protection	","WEED MANAGEMENT OF WHEAT","SPRAY SULPHOSULPHURAN @ 30 GM / Ha in 700 liter of water after 30 day aftwer of sowing","BIHAR","PATNA","DHANARUA                                          ","2014-11-30 08:06:19.763"
+"RABI","AGRICULTURE","Others","Others","Weather","Weather information","today and tomorrow no chance of rain","BIHAR","PATNA","BIKRAM                                            ","2014-11-30 08:26:50.397"
+"RABI","AGRICULTURE","Others","Others","	Field Preparation	","Weather information","today and tomorrow no chance of rain","BIHAR","PATNA","BIKRAM                                            ","2014-11-30 11:49:31.427"
+"RABI","HORTICULTURE","Vegetables","Potato","	Plant Protection	","insect problem","Spray chloropyriphos @ 1 ml in 1 litre of water","BIHAR","PATNA","MOKAMA                                            ","2014-11-30 14:03:50.747"
+"RABI","AGRICULTURE","Cereals","Wheat","Varieties","Variety of wheat-","Variety of wheat- P.B.W-373, P.B.W-443, P.B.W-573 P.B.W-343, P.B.W-154, HD-2733, HD-2824, k-9107","BIHAR","PATNA","BAKHTIARPUR                                       ","2014-11-30 15:06:08.247"
+"RABI","AGRICULTURE","Oilseeds","Mustard","Varieties","VARIETY OF SARSON-","VARIETY OF SARSON- RAJENDRA SARSON-1, SWARNA","BIHAR","PATNA","PANDARAK                                          ","2014-11-30 15:30:55.270"
+"KHARIF","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","LEAF CURL IN CHILIES","SPRAY ROGOR 2ML/LIT OF WATER","BIHAR","PATNA","PUNPUN                                            ","2014-11-30 16:21:06.590"
+"RABI","HORTICULTURE","Vegetables","Potato","	Plant Protection	","insect problem","Spray chloropyriphos @ 1 ml in 1 litre of water","BIHAR","PATNA","PUNPUN                                            ","2014-11-30 17:01:32.167"
+"RABI","AGRICULTURE","Cereals","Wheat","Weed Management","Weed control in wheat","Weed problem in wheat - Spray metasulfuron @ 8 gram in 300 liter of water after 30 to 35 days after sowing","BIHAR","PATNA","BIHTA                                             ","2014-11-30 19:42:10.200"

@@ -1,0 +1,184 @@
+"Season","Sector","Category","Crop","QueryType","QueryText","KCCAns","StateName","DistrictName","BlockName","CreatedOn"
+"KHARIF","HORTICULTURE","Fruits","Apple","Weather","weather forecast ?","Sunshine
+Max UV Index: 6 (High)
+Thunderstorms: 1%
+Precipitation: 0 mm
+Rain: 0 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","GANDERBAL","GANDERBAL                                         ","2014-11-01 13:01:03.743"
+"RABI","HORTICULTURE","Fruits","Apple","Weather","WEATHER FORECAST ?","Increasing cloudiness
+Max UV Index: 5 (Moderate)
+Thunderstorms: 24%
+Precipitation: 0 in
+Rain: 0 in
+Snow: 0 in
+Ice: 0 in
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","GANDERBAL","GANDERBAL                                         ","2014-11-02 07:54:56.127"
+"RABI","AGRICULTURE","Others","Others","Weather","weather report","Increasing cloudiness
+Max UV Index: 5 (Moderate)
+Thunderstorms: 24%
+Precipitation: 0 mm
+Rain: 0 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","GANDERBAL","GANDERBAL                                         ","2014-11-02 13:39:47.930"
+"RABI","AGRICULTURE","Others","Others","Weather","weather forecast?","Sun and areas of high clouds this morning, then turning cloudy
+Max UV Index: 4 (Moderate)
+Thunderstorms: 24%
+Precipitation: 0 in
+Rain: 0 in
+Snow: 0 in
+Ice: 0 in
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","GANDERBAL","KANGAN                                            ","2014-11-03 11:08:52.947"
+"RABI","AGRICULTURE","Others","Others","Weather","weather forecast?","Cooler; periods of snow and rain this morning followed by a shower in spots this afternoon
+Max UV Index: 3 (Moderate)
+Thunderstorms: 29%
+Precipitation: 0.17 in
+Rain: 0.15 in
+Snow: 0.1 in
+Ice: 0 in
+Hours of Precipitation: 3 hrs
+Hours of Rain: 2.5 hrs","JAMMU AND KASHMIR","GANDERBAL","GANDERBAL                                         ","2014-11-04 10:16:27.003"
+"RABI","AGRICULTURE","Cereals","Oats ","Weather","TODAYS WEATHER FORECAST ?","Mostly cloudy with a couple of showers and a thunderstorm, mainly later
+
+Max UV Index: 3 (Moderate) 
+Thunderstorms: 40% 
+Precipitation: 4 mm 
+Rain: 4 mm 
+Snow: 0 CM 
+Ice: 0 mm 
+Hours of Precipitation: 2.5 hrs 
+Hours of Rain: 2.5 hrs","JAMMU AND KASHMIR","GANDERBAL","GANDERBAL                                         ","2014-11-04 14:08:06.473"
+"RABI","HORTICULTURE","Fruits","Apple","Weather","TODAYS WEATHER FORECAST ?","Clouds giving way to some sun
+Max UV Index: 4 (Moderate)
+Thunderstorms: 24%
+Precipitation: 0 mm
+Rain: 0 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","GANDERBAL","GANDERBAL                                         ","2014-11-05 11:32:24.667"
+"RABI","AGRICULTURE","Oilseeds","Mustard","	Plant Protection	","SOWING TIME OF MUSTARD ?","SOWING TIME OF MUSTARD  START FROM 15TH OCT","JAMMU AND KASHMIR","GANDERBAL","GANDERBAL                                         ","2014-11-05 21:24:26.180"
+"RABI","HORTICULTURE","Fruits","Apple","Cultural Practices","INFORMATION REGARDING PURNING AND TRAINING TIME IN APPLE ?","PURNING AND TRAINING TIME IN APPLE START WHEN 50% LEAVES FALL OCCUR","JAMMU AND KASHMIR","GANDERBAL","LAR                                               ","2014-11-06 08:15:02.580"
+"RABI","HORTICULTURE","Fruits","Apple","Fertilizer Use and Availability","FERETILIZER TIME IN APPLE ?","FERTILIZER SHOULD BE APPLIED 21DAYS BEFORE FLOWERING","JAMMU AND KASHMIR","GANDERBAL","WAKURA","2014-11-09 12:43:50.270"
+"KHARIF","HORTICULTURE","Vegetables","Knol-Khol","	Plant Protection	","FERTILIZERS  IN  KNOL  KHOL  ?","FERTILIZERS  AREA   UREA   - 12 KG, DAP- 7 KG  AND  MOP- 4  KG PER  KANAL.","JAMMU AND KASHMIR","GANDERBAL","GANDERBAL                                         ","2014-11-11 07:04:15.710"
+"RABI","AGRICULTURE","Cereals","Oats ","Cultural Practices","SOWING TIME OF OATS ?","SOWING TIME OF OATS START FROM 15TH SEPT - 15TH OCT.","JAMMU AND KASHMIR","GANDERBAL","LAR                                               ","2014-11-11 08:12:01.020"
+"RABI","AGRICULTURE","Cereals","Oats ","Cultural Practices","SEED RATE OF OATS PER KANAL ?","SEED RATE OF OATS PER KANAL IS 1KG","JAMMU AND KASHMIR","GANDERBAL","KANGAN                                            ","2014-11-11 10:10:47.850"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER  FORECAST   ?","Plenty of sunshine
+ Max UV Index: 5 (Moderate)
+Thunderstorms: 0%
+Precipitation: 0 mm
+Rain: 0 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","GANDERBAL","GANDERBAL                                         ","2014-11-12 08:35:08.847"
+"RABI","HORTICULTURE","Fruits","Pomegranate","	Plant Protection	","CONTROL OF  FLOWER DROPING IN POMEGRANATE ?","SPRAY PLANOFIX @ 1ML IN 4.5LITRE OF WATER .","JAMMU AND KASHMIR","GANDERBAL","LAR                                               ","2014-11-12 13:56:45.847"
+"RABI","HORTICULTURE","Vegetables","Pea (Vegetable)","	Plant Protection	","SOWING TIME OF PEA ?","SOWING TIME OF PEA STARTS IN THE MONTH OF OCTOBER-NOV .","JAMMU AND KASHMIR","GANDERBAL","GANDERBAL                                         ","2014-11-13 15:29:59.127"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather  forecast  ?","Partly sunny and pleasant
+ Max UV Index: 4 (Moderate)
+Thunderstorms: 0%
+Precipitation: 0 mm
+Rain: 0 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation:","JAMMU AND KASHMIR","GANDERBAL","GANDERBAL                                         ","2014-11-15 08:11:08.053"
+"RABI","HORTICULTURE","Fruits","Apple","	Plant Protection	","time of fertilizer in apple tree","time of fertilizer in apple tree is march-april and june -july","JAMMU AND KASHMIR","GANDERBAL","GANDERBAL                                         ","2014-11-15 12:16:48.340"
+"KHARIF","HORTICULTURE","Fruits","Apple","Cultural Practices","WHAT SHOULD WE DO FOR THE DEFOLIATION OF APPLE TREES ?","SPRAY UREA @ 5 % FOR THE DEFOLLIATION OF APPLE TREES .","JAMMU AND KASHMIR","GANDERBAL","GANDERBAL                                         ","2014-11-16 12:55:00.480"
+"RABI","HORTICULTURE","Fruits","Apple","	Plant Protection	","INFORMATION REGARDING TIME OF FERTIIZER IN APPLE TREE","TIME OF FERTIIZER IN APPLE TREE IS MARCH-APRIL AND JUNE-JULY","JAMMU AND KASHMIR","GANDERBAL","GANDERBAL                                         ","2014-11-17 11:22:12.543"
+"RABI","AGRICULTURE","Cereals","Oats ","Sowing Time and Weather","SOWING TIME OF OATS ?","SOWING TIME OF OATS START FROM 15TH SEPT - 15TH OCTOBER","JAMMU AND KASHMIR","GANDERBAL","GANDERBAL                                         ","2014-11-17 19:18:47.017"
+"RABI","AGRICULTURE","Others","Others","Weather","WEATHER FORECAST?","Pleasant with a full day of sunshine
+Max UV Index: 4 (Moderate)
+Thunderstorms: 0%
+Precipitation: 0 mm
+Rain: 0 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","GANDERBAL","GANDERBAL                                         ","2014-11-19 08:23:18.730"
+"RABI","HORTICULTURE","Fruits","Apple","	Plant Protection	","HOW TO CONTROL SANJO SCALE IN APPLE ?","SPRAY WITH CHLOROPYRIPHOS @ 100ML IN 100 LITER OF WATER","JAMMU AND KASHMIR","GANDERBAL","KANGAN                                            ","2014-11-19 08:26:58.490"
+"RABI","HORTICULTURE","Fruits","Apple","Weather","WEATHER FORECAST ?","Mild with plenty of sun
+Max UV Index: 5 (Moderate)
+Thunderstorms: 0%
+Precipitation: 0 mm
+Rain: 0 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","GANDERBAL","KANGAN                                            ","2014-11-19 09:20:22.050"
+"RABI","AGRICULTURE","Others","Others","Weather","WEATHER REPORT","Sunny and pleasant
+Max UV Index: 4 (Moderate)
+Thunderstorms: 0%
+Precipitation: 0 mm
+Rain: 0 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","GANDERBAL","WAKURA","2014-11-20 09:16:09.807"
+"KHARIF","HORTICULTURE","Fruits","Apple","Cultural Practices","INFORMATION REGARDING SUBSIDY ON TRACTOR ?","INFORMATION REGARDING SUBSIDY ON TRACTOR GIVEN TO THE FARMER .","JAMMU AND KASHMIR","GANDERBAL","GANDERBAL                                         ","2014-11-21 19:36:27.427"
+"RABI","HORTICULTURE","Vegetables","Pea (Vegetable)","	Plant Protection	","SOWING TIME OF WHEAT ?","SOWING TIME OF WHEAT STARTS FROM THE MONTH OF OCT-NOV .","JAMMU AND KASHMIR","GANDERBAL","GANDERBAL                                         ","2014-11-22 16:37:41.560"
+"RABI","AGRICULTURE","Others","Others","Weather","weather forecast?","Mostly sunny
+Max UV Index: 4 (Moderate)
+Thunderstorms: 0%
+Precipitation: 0 in
+Rain: 0 in
+Snow: 0 in
+Ice: 0 in
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","GANDERBAL","GANDERBAL                                         ","2014-11-23 14:54:07.510"
+"RABI","AGRICULTURE","Others","Others","Weather","weather forecast?","Mostly sunny
+Max UV Index: 4 (Moderate)
+Thunderstorms: 0%
+Precipitation: 0 in
+Rain: 0 in
+Snow: 0 in
+Ice: 0 in
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","GANDERBAL","GANDERBAL                                         ","2014-11-23 14:55:01.320"
+"RABI","HORTICULTURE","Fruits","Apple","	Plant Protection	","TODAYS WEATHER FORECAST ?","Clear
+
+Max UV Index: N/A 
+Thunderstorms: 0% 
+Precipitation: 0 mm 
+Rain: 0 mm 
+Snow: 0 CM 
+Ice: 0 mm 
+Hours of Precipitation: 0 hrs 
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","GANDERBAL","GANDERBAL                                         ","2014-11-23 15:05:00.967"
+"KHARIF","HORTICULTURE","Fruits","Apple","	Plant Protection	","CONTROL OF  SANJOSCALE IN APPLE TREES","SPRAY   CHLROPYRIPHOS @ 100 ML IN  100 LITRE  OF  WATER.","JAMMU AND KASHMIR","GANDERBAL","GANDERBAL                                         ","2014-11-24 07:47:17.450"
+"RABI","HORTICULTURE","Fruits","Apple","	Plant Protection	","TIME OF FERTILIZER IN APPLE TREE","TIME OF FERTILIZER IN APPLE TREE IS MARCH-APRIL AND JUNE -JULY","JAMMU AND KASHMIR","GANDERBAL","WAKURA","2014-11-24 08:43:45.780"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER  FOREACST   ?","Clouds giving way to some sun
+ Max UV Index: 4 (Moderate)
+Thunderstorms: 0%
+Precipitation: 0 in
+Rain: 0 in
+Snow: 0 in
+Ice: 0 in
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","GANDERBAL","GANDERBAL                                         ","2014-11-25 13:17:46.093"
+"KHARIF","HORTICULTURE","Fruits","Apple","Cultural Practices","HOW TO CONTROL ROOT ROT IN APPLE TREES ?","DRENCH THE ROOT ZONE OF THE TREE WITH CARBENDAZIM 75 @ 2 GM IN 1 LITER OF WATER .","JAMMU AND KASHMIR","GANDERBAL","GANDERBAL                                         ","2014-11-26 13:10:20.083"
+"RABI","AGRICULTURE","Others","Others","Weather","weather forecast?","Periods of rain
+Max UV Index: 2 (Low)
+Thunderstorms: 20%
+Precipitation: 6 mm
+Rain: 6 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 3 hrs
+Hours of Rain: 3 hrs","JAMMU AND KASHMIR","GANDERBAL","GANDERBAL                                         ","2014-11-27 10:42:55.390"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATEHER","Partial sunshine; a morning flurry followed by a couple of showers this afternoon
+ Max UV Index: 4 (Moderate)
+Thunderstorms: 20%
+Precipitation: 0.05 in
+Rain: 0.04 in
+Snow: 0.0 in
+Ice: 0 in
+Hours of Precipitation: 1.5 hrs
+Hours of Rain: 1 hrs","JAMMU AND KASHMIR","GANDERBAL","GANDERBAL                                         ","2014-11-28 13:46:11.500"
+"RABI","HORTICULTURE","Fruits","Apple","	Plant Protection	","effect of weather on apple?","APPLE TREES GO IN DORMANCY IN WINTERS.","JAMMU AND KASHMIR","GANDERBAL","GANDERBAL                                         ","2014-11-30 09:38:03.370"
+"RABI","AGRICULTURE","Others","Others","Weather","SPRAY AT 50% LEAF FALL","COPPER OYYCHLORIDE 300GM/100LT WATER","JAMMU AND KASHMIR","GANDERBAL","GANDERBAL                                         ","2014-11-30 12:12:16.827"
