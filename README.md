@@ -5,6 +5,3 @@ Scrape data.gov.in using node.js
 ##Run "node scrape3.js" to scrape data.gov.in
 <<<<<<< HEAD
 ##Then run download.js
-=======
-##Then run download.js
->>>>>>> 3e93345f442e31b31146318bfbd4fac2f7880dcb
