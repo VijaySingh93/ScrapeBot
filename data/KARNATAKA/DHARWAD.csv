@@ -1,2624 +1,448 @@
 "Season","Sector","Category","Crop","QueryType","QueryText","KCCAns","StateName","DistrictName","BlockName","CreatedOn"
-"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","cotton disease","carbendizium 3gm per liter water","KARNATAKA","DHARWAD","HUBLI                                             ","2014-12-03 10:20:51.897"
-"KHARIF","AGRICULTURE","Others","Others","Weather","weatehr","Chance of Precip.
+"","AGRICULTURE","Others","Others","Weather","Navalgund Weather Forecast","40%chance of precipitation","KARNATAKA","DHARWAD","NAVALGUND                                         ","2014-08-01 07:35:12.000"
+"","AGRICULTURE","Others","Others","Weather","Kalghatgi Weather Forecast","80%chance of precipitation","KARNATAKA","DHARWAD","KALGHATGI                                         ","2014-08-01 09:39:21.000"
+"","HORTICULTURE","Plantation Crops","Arecanut","	Plant Protection	","arecanut waste preparation","rock phosphate 50g per pit + arecanut waste","KARNATAKA","DHARWAD","HUBLI                                             ","2014-08-01 09:41:22.000"
+"","AGRICULTURE","Others","Others","Weather","weather report","Chance of rain 60%.","KARNATAKA","DHARWAD","KUNDGOL                                           ","2014-08-01 10:01:42.000"
+"","ANIMAL HUSBANDRY","Animal","Bovine(Cow,Buffalo)","Animal Production (Piggery, Goatery, Sheep Farming etc.)","cow varities","080-22866431/080-23410509","KARNATAKA","DHARWAD","HUBLI                                             ","2014-08-01 10:39:52.000"
+"","HORTICULTURE","Fruits","Papaya","	Plant Protection	","papaya pest","Quinalphos 25 % EC	1.5 ml/lit.","KARNATAKA","DHARWAD","HUBLI                                             ","2014-08-01 12:35:57.000"
+"","AGRICULTURE","Others","Others","Weather","Navalgund Weather Forecast","40%chance of precipitation","KARNATAKA","DHARWAD","DHARWAD                                           ","2014-08-01 12:45:14.000"
+"","AGRICULTURE","Cereals","Paddy (Dhan)","","pest","carbendazium at 2 g in 1 litre water","KARNATAKA","DHARWAD","DHARWAD                                           ","2014-08-01 13:16:57.000"
+"","AGRICULTURE","Others","Others","Weather","weather report","Friday, 1
+
+
+
+
+81 | 69 °F 
+
+Chance of Rain 
+
+
+Chance of
+Precipitation
+
+70%","KARNATAKA","DHARWAD","KALGHATGI                                         ","2014-08-01 15:45:06.000"
+"","AGRICULTURE","Others","Others","Weather","weather report","40% chance of precipitation","KARNATAKA","DHARWAD","KUNDGOL                                           ","2014-08-01 16:17:22.000"
+"","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Fertilizer Use and Availability","fertilizer","iffco 60kg/ac and urea 20kg/ac","KARNATAKA","DHARWAD","NAVALGUND                                         ","2014-08-01 17:05:54.000"
+"","AGRICULTURE","Others","Others","","weather","Chance of Rain 
+Chance of
+Precipitation
+70%","KARNATAKA","DHARWAD","KALGHATGI                                         ","2014-08-02 07:42:12.000"
+"","AGRICULTURE","Others","Others","Weather","weather report","error in weather report","KARNATAKA","DHARWAD","KUNDGOL                                           ","2014-08-02 09:02:29.000"
+"","AGRICULTURE","Others","Others","Agriculture Mechanization","weed control","24d","KARNATAKA","DHARWAD","HUBLI                                             ","2014-08-02 09:10:09.000"
+"","AGRICULTURE","Others","Others","Weather","WEATHER","MODA KAVIDAVATHAVARAN AIDE","KARNATAKA","DHARWAD","DHARWAD                                           ","2014-08-02 10:08:33.000"
+"","AGRICULTURE","Cereals","Paddy (Dhan)","","Weedicide","Weedicide – spray 2,4-D  sodium 2gm/lit  of water,  
+spray pendimethilin 2ml/lit
+spray glyphosate 7-8ml/lit oxigold 2gm/ltr .. Atrazine 2grms/liter of water..","KARNATAKA","DHARWAD","HUBLI                                             ","2014-08-02 10:31:29.000"
+"","AGRICULTURE","Others","Others","","Weather report","Weather report –  partly cloudy ..    50 % chance of rain","KARNATAKA","DHARWAD","HUBLI                                             ","2014-08-02 10:34:58.000"
+"","AGRICULTURE","Others","Others","","Weather report","Weather report –  partly cloudy ..    50 % chance of rain","KARNATAKA","DHARWAD","KALGHATGI                                         ","2014-08-02 11:35:09.000"
+"","AGRICULTURE","Others","Others","Weather","Kalghatgi Weather Forecast","70% Chance of precipitation","KARNATAKA","DHARWAD","KALGHATGI                                         ","2014-08-02 11:43:41.000"
+"","AGRICULTURE","Pulses","Green Gram (Moong Bean/ Moong)","	Plant Protection	","sucking pest","dimethoate 1.7ml/l","KARNATAKA","DHARWAD","KUNDGOL                                           ","2014-08-02 15:04:44.000"
+"","AGRICULTURE","Others","Others","Training and Exposure Visits","weather report","Chance of Rain 
+Chance of
+Precipitation
+70%","KARNATAKA","DHARWAD","KALGHATGI                                         ","2014-08-02 15:34:30.000"
+"","AGRICULTURE","Others","Others","Weather","weather report","Chance of
+Precipitation
+20%","KARNATAKA","DHARWAD","NAVALGUND                                         ","2014-08-02 16:16:04.000"
+"","HORTICULTURE","Vegetables","Onion","	Plant Protection	","downy mildew","Mancozeb 0.2 % is spray","KARNATAKA","DHARWAD","HUBLI                                             ","2014-08-02 16:37:33.000"
+"","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","sucking pest","dimethoate 1.7ml/l","KARNATAKA","DHARWAD","NAVALGUND                                         ","2014-08-02 20:18:47.000"
+"","AGRICULTURE","Others","Others","Training and Exposure Visits","weather report","Chance of Rain 
+Chance of
+Precipitation
+70%","KARNATAKA","DHARWAD","KALGHATGI                                         ","2014-08-02 20:25:01.000"
+"","AGRICULTURE","Others","Others","Training and Exposure Visits","weather report","Overcast 
+Chance of
+Precipitation
+10%","KARNATAKA","DHARWAD","NAVALGUND                                         ","2014-08-02 21:35:24.000"
+"","AGRICULTURE","Others","Others","","Weather report","Weather report –  partly cloudy ..    50 % chance of rain","KARNATAKA","DHARWAD","KALGHATGI                                         ","2014-08-03 07:16:44.000"
+"","AGRICULTURE","Others","Others","","brinjal diseasae","wetable sulphur","KARNATAKA","DHARWAD","KALGHATGI                                         ","2014-08-03 09:13:19.000"
+"","AGRICULTURE","Others","Others","","Weather report","Weather report –  partly cloudy ..    40 % chance of rain","KARNATAKA","DHARWAD","KUNDGOL                                           ","2014-08-03 11:14:24.000"
+"","AGRICULTURE","Others","Others","Weather","dharwad weather fprecast","Chance of
+Precipitation
+30%","KARNATAKA","DHARWAD","KUNDGOL                                           ","2014-08-03 11:53:06.000"
+"","AGRICULTURE","Others","Others","","weather","Sunday, 3
+
+
+
+
+81 | 71 °F 
+
+Chance of T-storms 
+
+
+Chance of
+Precipitation
+
+50%","KARNATAKA","DHARWAD","NAVALGUND                                         ","2014-08-03 12:36:59.000"
+"","AGRICULTURE","Others","Others","Weather","weather","20% chance of rain","KARNATAKA","DHARWAD","KALGHATGI                                         ","2014-08-03 13:34:12.000"
+"","AGRICULTURE","Others","Others","Weather","weather report","60% chance of precipitation","KARNATAKA","DHARWAD","DHARWAD                                           ","2014-08-03 14:29:11.000"
+"","AGRICULTURE","Others","Others","Weather","weather report","Overcast 
+Chance of
+Precipitation
+20%","KARNATAKA","DHARWAD","NAVALGUND                                         ","2014-08-03 15:13:59.000"
+"","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","coton sucking pest","dimethoate 1.75ml/litre of water","KARNATAKA","DHARWAD","NAVALGUND                                         ","2014-08-03 15:42:49.000"
+"","HORTICULTURE","Vegetables","Onion","	Plant Protection	","weedicide","oxyflorafin 1ml/l","KARNATAKA","DHARWAD","NAVALGUND                                         ","2014-08-03 16:24:51.000"
+"","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","leaf tip dry","carbandazem 2g/ltr","KARNATAKA","DHARWAD","DHARWAD                                           ","2014-08-03 17:29:05.000"
+"","AGRICULTURE","Others","Others","Weather","weather report","Chance of Rain 
+Chance of
+Precipitation
+40%","KARNATAKA","DHARWAD","KUNDGOL                                           ","2014-08-03 19:19:02.000"
+"","AGRICULTURE","Others","Others","Weather","weather report","Chance of Rain 
+Chance of
+Precipitation
+70%","KARNATAKA","DHARWAD","KALGHATGI                                         ","2014-08-03 20:10:36.000"
+"","AGRICULTURE","Others","Others","Weather","weather","Chance of Precip.
 
 NA
 
-0%
-
-0%
-
-0%
-
-
-
-Cloud Cover
-
-NA
-
-15%
-
-9%
-
-16%
-
-
-
-Conditions
-
-NA
-
-Clear
-
-Clear
-
-Clear","KARNATAKA","DHARWAD","NAVALGUND                                         ","2014-12-03 12:05:14.910"
-"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Field Preparation	","cotton blight","??????????  ??????? 2?/???????","KARNATAKA","DHARWAD","HUBLI                                             ","2014-12-05 08:10:01.800"
-"KHARIF","AGRICULTURE","Others","Others","Market Information","market messages registration","registration","KARNATAKA","DHARWAD","DHARWAD                                           ","2014-12-05 11:50:08.670"
-"JAYAD","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","cotton fertilizer","magnesium 2gm per liter water","KARNATAKA","DHARWAD","NAVALGUND                                         ","2014-12-05 12:49:30.097"
-"JAYAD","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","cotton flower dropping","planofiix 1ml in 4 liter water","KARNATAKA","DHARWAD","NAVALGUND                                         ","2014-12-07 08:22:57.673"
-"JAYAD","AGRICULTURE","Pulses","Pigeon pea (red gram/arhar/tur)","Market Information","rate","rate","KARNATAKA","DHARWAD","KALGHATGI                                         ","2014-12-07 15:28:07.550"
-"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER","Chance of Precip.
-
-NA
-
-10%
-
-70%
-
-20%
-
-
-
-Cloud Cover
-
-NA
-
-60%
-
-72%
-
-69%
-
-
-
-Conditions
-
-Haze
-
-Mostly Cloudy
-
-Thunderstorm
-
-Mostly Cloudy","KARNATAKA","DHARWAD","HUBLI                                             ","2014-12-10 11:39:35.057"
-"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER","Chance of Precip.
-
-NA
-
-20%
-
-20%
+80%
 
 50%
 
+70%","KARNATAKA","DHARWAD","KALGHATGI                                         ","2014-08-04 08:55:50.000"
+"","HORTICULTURE","Vegetables","Brinjal","","brinjal weed control","2 4 D 2 gm per liter","KARNATAKA","DHARWAD","HUBLI                                             ","2014-08-04 10:26:57.000"
+"","AGRICULTURE","Others","Others","Weather","weather report","50        % Chance of precipitation","KARNATAKA","DHARWAD","NAVALGUND                                         ","2014-08-04 11:13:44.000"
+"","AGRICULTURE","Millets","Maize (Makka)","","maize varities","•	MAIZE ---  GANGA-11, DECCAN-103, VIJAY COMPOSIT, N.A.C-6002, 6004, NITYASHRI, N.A.H-1137","KARNATAKA","DHARWAD","HUBLI                                             ","2014-08-04 13:29:05.000"
+"","AGRICULTURE","Others","Others","","weather report","rain 40%","KARNATAKA","DHARWAD","KUNDGOL                                           ","2014-08-04 18:31:35.000"
+"","AGRICULTURE","Others","Others","","weathr report","50 %","KARNATAKA","DHARWAD","NAVALGUND                                         ","2014-08-05 08:49:51.000"
+"","AGRICULTURE","Others","Others","Weather","weather","50%","KARNATAKA","DHARWAD","KALGHATGI                                         ","2014-08-05 08:52:36.000"
+"","AGRICULTURE","Others","Others","","weather","Tuesday, 5
 
 
-Cloud Cover
 
-NA
 
-76%
+76 | 68 °F 
 
-75%
+Chance of Rain 
 
-88%
 
+Chance of
+Precipitation
 
+70%","KARNATAKA","DHARWAD","KUNDGOL                                           ","2014-08-05 09:22:40.000"
+"","AGRICULTURE","Others","Others","Weather","Kundgol Weather Forecast","70%chance of precipitation","KARNATAKA","DHARWAD","KUNDGOL                                           ","2014-08-05 11:12:21.000"
+"","AGRICULTURE","Others","Others","Weather","weather","cloudy weather","KARNATAKA","DHARWAD","HUBLI                                             ","2014-08-05 11:19:17.000"
+"","AGRICULTURE","Others","Others","Weather","weather","50-60%","KARNATAKA","DHARWAD","KALGHATGI                                         ","2014-08-05 11:59:48.000"
+"","AGRICULTURE","Others","Others","Weather","weather","30-60%","KARNATAKA","DHARWAD","NAVALGUND                                         ","2014-08-05 13:06:02.000"
+"","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Agriculture Mechanization","cottan disease","dimethioate 2ml/lt of water","KARNATAKA","DHARWAD","NAVALGUND                                         ","2014-08-05 13:22:36.000"
+"","AGRICULTURE","Others","Others","","weather report","rain 20%","KARNATAKA","DHARWAD","NAVALGUND                                         ","2014-08-05 17:08:56.000"
+"","AGRICULTURE","Cereals","Paddy (Dhan)","Weather","fertilizer dosage","iffco 100kg","KARNATAKA","DHARWAD","DHARWAD                                           ","2014-08-05 18:11:06.000"
+"","AGRICULTURE","Others","Others","","weather","Wednesday, 6
 
-Conditions
 
-NA
 
-Mostly Cloudy
 
-Mostly Cloudy
+76 | 69 °F 
 
-Chance of a Thunderstorm
+Rain 
 
 
+Chance of
+Precipitation
 
-Sunrise & Sunset
+70%","KARNATAKA","DHARWAD","KALGHATGI                                         ","2014-08-06 07:47:15.000"
+"","AGRICULTURE","Others","Others","Weather","weather","Chance of Rain 
 
 
+Chance of
+Precipitation
 
-6:45 AM
+60%","KARNATAKA","DHARWAD","KUNDGOL                                           ","2014-08-06 08:40:09.000"
+"","AGRICULTURE","Others","Others","Weather","Kundgol Weather Forecast","60%Chance of precipitation","KARNATAKA","DHARWAD","KUNDGOL                                           ","2014-08-06 10:09:13.000"
+"","AGRICULTURE","Others","Others","Weather","weather","50%","KARNATAKA","DHARWAD","KUNDGOL                                           ","2014-08-06 10:26:31.000"
+"","AGRICULTURE","Others","Others","","weather  report","30 % precipitation","KARNATAKA","DHARWAD","KALGHATGI                                         ","2014-08-06 10:44:10.000"
+"","AGRICULTURE","Others","Others","Weather","weather","Chance of Rain 
 
-6:00 PM","KARNATAKA","DHARWAD","KALGHATGI                                         ","2014-12-11 06:59:32.967"
-"KHARIF","AGRICULTURE","Others","Others","Weather","weather","Chance of Precip.
 
-NA
+Chance of
+Precipitation
 
-40%
+40%","KARNATAKA","DHARWAD","NAVALGUND                                         ","2014-08-06 12:41:09.000"
+"","HORTICULTURE","Vegetables","Onion","","ONION WEED","OXYGOLD","KARNATAKA","DHARWAD","NAVALGUND                                         ","2014-08-06 13:53:35.000"
+"","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","sucking pest","imidacloprid 0.5 g/l","KARNATAKA","DHARWAD","HUBLI                                             ","2014-08-06 14:14:21.000"
+"","AGRICULTURE","Others","Others","Weather","weather report","Chance of Rain 
+Chance of
+Precipitation
+80%","KARNATAKA","DHARWAD","KALGHATGI                                         ","2014-08-06 15:02:57.000"
+"","AGRICULTURE","Others","Others","Weather","weather report","Chance of rain 30%.","KARNATAKA","DHARWAD","DHARWAD                                           ","2014-08-06 17:57:12.000"
+"","AGRICULTURE","Others","Others","Weather","weather","20% rain fall","KARNATAKA","DHARWAD","NAVALGUND                                         ","2014-08-07 08:07:20.000"
+"","AGRICULTURE","Others","Others","","cotton leaf redding","magnesium sulphate 2gm in 1litwer water","KARNATAKA","DHARWAD","NAVALGUND                                         ","2014-08-07 08:59:20.000"
+"","AGRICULTURE","Others","Others","","weather","Thursday, 7
 
-60%
 
-70%
 
 
+77 | 68 °F 
 
-Cloud Cover
+Chance of T-storms 
 
-NA
 
-92%
+Chance of
+Precipitation
 
-81%
+50%","KARNATAKA","DHARWAD","KUNDGOL                                           ","2014-08-07 09:45:22.000"
+"","AGRICULTURE","Others","Others","Weather","WEATHER","20% RAIN FALL","KARNATAKA","DHARWAD","NAVALGUND                                         ","2014-08-07 10:51:11.000"
+"","AGRICULTURE","Others","Others","Weather","WEATHER","50% MALE IDE","KARNATAKA","DHARWAD","KALGHATGI                                         ","2014-08-07 10:56:57.000"
+"","AGRICULTURE","Others","Others","Weather","Navalgund Weather Forecast","80%chance of precipitation","KARNATAKA","DHARWAD","NAVALGUND                                         ","2014-08-07 13:38:25.000"
+"","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Weather","Weather report","Chance of precipitation 80%","KARNATAKA","DHARWAD","NAVALGUND                                         ","2014-08-07 14:12:59.000"
+"","AGRICULTURE","Others","Others","Weather","Navalgund Weather Forecast","40%chance of precipitation","KARNATAKA","DHARWAD","NAVALGUND                                         ","2014-08-08 09:06:26.000"
+"","AGRICULTURE","Others","Others","Weather","weather","cloudy weatehr","KARNATAKA","DHARWAD","DHARWAD                                           ","2014-08-08 09:58:53.000"
+"","AGRICULTURE","Others","Others","Weather","weather","20 %","KARNATAKA","DHARWAD","KALGHATGI                                         ","2014-08-08 10:12:58.000"
+"","AGRICULTURE","Fiber Crops","Cotton (Kapas)","","cotton leaf spot","Cotton leaf reddening- spray zineb 2gm/liter of water","KARNATAKA","DHARWAD","HUBLI                                             ","2014-08-08 10:40:03.000"
+"","AGRICULTURE","Others","Others","Weather","dharwad  weather report","30% rainfall","KARNATAKA","DHARWAD","HUBLI                                             ","2014-08-08 11:51:53.000"
+"","HORTICULTURE","Vegetables","Chillies","Bio-Pesticides and Bio-Fertilizers","chilli fertilizer","10;26;26","KARNATAKA","DHARWAD","NAVALGUND                                         ","2014-08-08 13:39:31.000"
+"","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Weather","Weather report","Chance of precipitation 80% today","KARNATAKA","DHARWAD","KALGHATGI                                         ","2014-08-08 14:33:46.000"
+"","AGRICULTURE","Pulses","Bengal Gram (Gram/Chick Pea/Kabuli/Chana)","	Field Preparation	","varities","vishal, jj-11","KARNATAKA","DHARWAD","HUBLI                                             ","2014-08-08 19:26:37.000"
+"","AGRICULTURE","Others","Others","","weather","Saturday, 9
 
-96%
 
 
 
-Conditions
+76 | 68 °F 
 
-NA
+Chance of T-storms 
 
-Chance of a Thunderstorm
 
-Thunderstorm
+Chance of
+Precipitation
 
-Thunderstorm","KARNATAKA","DHARWAD","DHARWAD                                           ","2014-12-12 07:40:15.560"
-"KHARIF","AGRICULTURE","Others","Others","Weather","weather","%
+50%","KARNATAKA","DHARWAD","KALGHATGI                                         ","2014-08-09 09:50:07.000"
+"","AGRICULTURE","Others","Others","Weather","weatherc report","20% rainfall","KARNATAKA","DHARWAD","KALGHATGI                                         ","2014-08-09 10:46:30.000"
+"","AGRICULTURE","Others","Others","","weather","Saturday, 9
 
-63%
 
-69%
 
-76%
 
+77 | 69 °F 
 
+Chance of Rain 
 
-Chance of Precip.
 
-NA
+Chance of
+Precipitation
 
-0%
+50%","KARNATAKA","DHARWAD","DHARWAD                                           ","2014-08-09 11:21:03.000"
+"","AGRICULTURE","Others","Others","Weather","weather","Overcast 
+Chance of
+Precipitation
+30%","KARNATAKA","DHARWAD","NAVALGUND                                         ","2014-08-09 11:32:46.000"
+"","AGRICULTURE","Fodder Crops","fodder maize ","","maize cultivation","given","KARNATAKA","DHARWAD","KALGHATGI                                         ","2014-08-09 12:00:42.000"
+"","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","cotton pest","quinolphos, magnesium sulphate,","KARNATAKA","DHARWAD","NAVALGUND                                         ","2014-08-09 13:55:54.000"
+"","AGRICULTURE","Others","Others","Weather","weather report","40% chance of precipitation","KARNATAKA","DHARWAD","KUNDGOL                                           ","2014-08-09 15:19:14.000"
+"","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Weather","weather report","chance of precipitation 70% tonight","KARNATAKA","DHARWAD","KALGHATGI                                         ","2014-08-09 15:22:26.000"
+"","HORTICULTURE","Vegetables","Onion","	Plant Protection	","weedicide","oxyflorafin 1ml/l","KARNATAKA","DHARWAD","NAVALGUND                                         ","2014-08-09 18:02:02.000"
+"","AGRICULTURE","Sugar and Starch Crops","Sugarcane (Noble Cane)","	Plant Protection	","leaf blight","mancozeb 2g/l","KARNATAKA","DHARWAD","DHARWAD                                           ","2014-08-09 18:06:32.000"
+"","AGRICULTURE","Others","Others","","weather","Sunday, 10
 
-10%
 
-0%
 
 
+76 | 69 °F 
 
-Cloud Cover
+Chance of Rain 
 
-NA
 
-88%
+Chance of
+Precipitation
 
-55%
+60%","KARNATAKA","DHARWAD","KALGHATGI                                         ","2014-08-10 07:10:16.000"
+"","AGRICULTURE","Sugar and Starch Crops","Sugarcane (Noble Cane)","	Plant Protection	","plant protection","dicofol","KARNATAKA","DHARWAD","KALGHATGI                                         ","2014-08-10 15:39:37.000"
+"","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","cotton leaf curl","Recommended spray of CONFIDOR  2ml/4litre of water","KARNATAKA","DHARWAD","HUBLI                                             ","2014-08-10 17:10:30.000"
+"","AGRICULTURE","Others","Others","Weather","weather report","50 % CHANCES OF RAIN IN YOUR TALUK","KARNATAKA","DHARWAD","KALGHATGI                                         ","2014-08-10 17:46:08.000"
+"","HORTICULTURE","Vegetables","Onion","Fertilizer Use and Availability","onion fertilizer","onion       125:50: 125 kg npk/ac","KARNATAKA","DHARWAD","NAVALGUND                                         ","2014-08-10 18:59:21.000"
+"","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","cotton grey mildew","Recommended spray of MANCOZEB 2gm/litre of water","KARNATAKA","DHARWAD","DHARWAD                                           ","2014-08-10 19:06:11.000"
+"","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","cotton flower drop","Spray planofix 1ml/4lit of water","KARNATAKA","DHARWAD","DHARWAD                                           ","2014-08-10 19:07:55.000"
+"","HORTICULTURE","Vegetables","Onion","","onion weeding","oxygold 2 ml / liter","KARNATAKA","DHARWAD","NAVALGUND                                         ","2014-08-11 07:45:55.000"
+"","AGRICULTURE","Others","Others","Weather","Kalghatgi Weather Forecast","50% Chance of precipitation","KARNATAKA","DHARWAD","KALGHATGI                                         ","2014-08-11 07:57:36.000"
+"","AGRICULTURE","Fiber Crops","Cotton (Kapas)","","cotton pest","dimethoate 2ml in 1liter water","KARNATAKA","DHARWAD","HUBLI                                             ","2014-08-11 11:37:37.000"
+"","AGRICULTURE","Pulses","Green Gram (Moong Bean/ Moong)","","disease","melathion 0.5 ml / liter","KARNATAKA","DHARWAD","KUNDGOL                                           ","2014-08-11 13:27:00.000"
+"","HORTICULTURE","Vegetables","Onion","	Plant Protection	","onion weeicides","Recommended spray of oxyphlorophin 1ml/litre of water","KARNATAKA","DHARWAD","NAVALGUND                                         ","2014-08-11 15:19:26.000"
+"","AGRICULTURE","Oilseeds","Groundnut (pea nut/mung phalli)","	Plant Protection	","weeds","2-4d 2g/l","KARNATAKA","DHARWAD","NAVALGUND                                         ","2014-08-11 15:30:12.000"
+"","AGRICULTURE","Others","Others","Training and Exposure Visits","vetarnary helpline no.","Veternary Deparment	080-22866431/080-23410509","KARNATAKA","DHARWAD","DHARWAD                                           ","2014-08-11 15:30:53.000"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","COTTON APHIDS","Recommended  spray of DIMETHOATE 2ml/litre of water","KARNATAKA","DHARWAD","NAVALGUND                                         ","2014-08-19 16:01:16.757"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","cotton leaf curl","Recommended spray of CONFIDOR  2ml/4litre of water","KARNATAKA","DHARWAD","KUNDGOL                                           ","2014-08-19 17:43:28.413"
+"RABI","HORTICULTURE","Fruits","Lemon","Fertilizer Use and Availability","not setting fruits","1kg urea, 1.5kg dap, 1kg potash","KARNATAKA","DHARWAD","DHARWAD                                           ","2014-08-21 09:47:36.760"
+"RABI","AGRICULTURE","Others","Others","Weather","rainfall","Chance of
+Precipitation
 
-57%
+100%","KARNATAKA","DHARWAD","KALGHATGI                                         ","2014-08-21 10:26:05.990"
+"KHARIF","AGRICULTURE","Others","Others","Crop Insurance","KISAN CALL CENTRE INFORMATION","KISAN CALL CENTRE INFORMATION","KARNATAKA","DHARWAD","KALGHATGI                                         ","2014-08-21 10:33:38.513"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather","70%","KARNATAKA","DHARWAD","NAVALGUND                                         ","2014-08-21 11:58:22.157"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather","-Day Weather Forecast for Kundgol
 
 
 
-Conditions
 
-NA
 
-Overcast
 
-Partly Cloudy
 
-Partly Cloudy","KARNATAKA","DHARWAD","KUNDGOL                                           ","2014-12-13 11:03:38.773"
-"KHARIF","AGRICULTURE","Others","Others","Weather","weather","Humidity
 
-%
 
-54%
+Thursday, 21
 
-61%
 
-82%
 
 
+85 | 72 °F 
 
-Chance of Precip.
+T-storms 
 
-NA
 
-0%
+Chance of
+Precipitation
 
-20%
+80%
 
-0%
 
 
+Friday, 22","KARNATAKA","DHARWAD","KUNDGOL                                           ","2014-08-21 14:08:52.130"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Weather","wheather report","90% chance of precipitation","KARNATAKA","DHARWAD","NAVALGUND                                         ","2014-08-21 15:31:20.433"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather of kalghati","90%","KARNATAKA","DHARWAD","KALGHATGI                                         ","2014-08-22 08:18:25.223"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather of kalghati","90%","KARNATAKA","DHARWAD","KALGHATGI                                         ","2014-08-22 08:18:27.337"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather of kalghati","90%","KARNATAKA","DHARWAD","KALGHATGI                                         ","2014-08-22 08:18:28.030"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather","Day Weather Forecast for Kundgol
 
-Cloud Cover
 
-NA
 
-50%
 
-36%
 
-37%
 
 
 
-Conditions
 
-NA
+Friday, 22
 
-Partly Cloudy
 
-Partly Cloudy
 
-Partly Cloudy
 
+84 | 71 °F 
 
+T-storms 
 
-Sunrise & Sunset
 
+Chance of
+Precipitation
 
+100","KARNATAKA","DHARWAD","KUNDGOL                                           ","2014-08-22 09:20:00.353"
+"KHARIF","AGRICULTURE","Others","Others","	Plant Protection	","cotton leaf curl","Recommended spray of CONFIDOR  2ml/4litre of water","KARNATAKA","DHARWAD","NAVALGUND                                         ","2014-08-22 15:59:13.800"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report","80% CHANCES OF RAIN IN YOUR TALUK","KARNATAKA","DHARWAD","KALGHATGI                                         ","2014-08-22 18:59:24.260"
+"KHARIF","HORTICULTURE","Vegetables","Onion","	Plant Protection	","onion diffecency","magnesium sulphate 2gm in 1 liter water","KARNATAKA","DHARWAD","NAVALGUND                                         ","2014-08-23 08:43:30.133"
+"KHARIF","HORTICULTURE","Vegetables","Onion","Agriculture Mechanization","cottan leaf curl","acetamapride 1g/4lt of water","KARNATAKA","DHARWAD","NAVALGUND                                         ","2014-08-23 09:34:56.997"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather","Day Weather Forecast for Navalgund
 
-6:46 AM
 
-5:59 PM","KARNATAKA","DHARWAD","NAVALGUND                                         ","2014-12-14 11:34:58.430"
-"KHARIF","AGRICULTURE","Others","Others","Weather","weather","Chance of Precip.
 
-NA
 
-0%
 
-0%
 
-0%
 
 
 
-Cloud Cover
+Saturday, 23
 
-NA
 
-37%
 
-40%
 
-22%
+88 | 72 °F 
 
+T-storms 
 
 
-Conditions
+Chance of
+Precipitation
 
-NA
+80%","KARNATAKA","DHARWAD","NAVALGUND                                         ","2014-08-23 09:43:43.400"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Agriculture Mechanization","cottan disease","copperoxychloride 2ml/lt of water","KARNATAKA","DHARWAD","NAVALGUND                                         ","2014-08-23 10:00:43.050"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Soil Health Card","cotton weeds","2,4d","KARNATAKA","DHARWAD","HUBLI                                             ","2014-08-23 11:12:12.050"
+"KHARIF","AGRICULTURE","Oilseeds","Groundnut (pea nut/mung phalli)","Soil Health Card","WEEDICIDE APPLICATION BY THAT AFTER RAINING","CAN APPLICATION","KARNATAKA","DHARWAD","KUNDGOL                                           ","2014-08-23 11:16:53.087"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","cotton mildew","Recommended spray of MANCOZEB 2gm/litre of water","KARNATAKA","DHARWAD","KALGHATGI                                         ","2014-08-23 15:00:06.047"
+"KHARIF","AGRICULTURE","Others","Others","Weather","wether report","60% CHANCES OF RAIN IN YOUR TALUK","KARNATAKA","DHARWAD","KALGHATGI                                         ","2014-08-23 15:40:14.897"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report","40% CHANCES OF RAIN IN YOUR TALUK","KARNATAKA","DHARWAD","KALGHATGI                                         ","2014-08-23 17:06:15.270"
+"KHARIF","HORTICULTURE","Vegetables","Onion","	Plant Protection	","onion sucking pest","Recommended  spray of DIMETHOATE 2ml/litre of water","KARNATAKA","DHARWAD","NAVALGUND                                         ","2014-08-23 20:44:57.017"
+"KHARIF","HORTICULTURE","Vegetables","Tomato","	Plant Protection	","tomato disease","mancozeb 2gm in 1liter water","KARNATAKA","DHARWAD","DHARWAD                                           ","2014-08-24 08:02:17.320"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","Fertilizer Use and Availability","CHILLI FERTILIZER","UREA AFTER 1 WEEK 19 ALL","KARNATAKA","DHARWAD","KUNDGOL                                           ","2014-08-24 09:45:31.250"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER","Day Weather Forecast for Kundgol
 
-Partly Cloudy
 
-Partly Cloudy
 
-Clear
 
 
 
-Sunrise & Sunset
 
 
 
-6:47 AM
+Sunday, 24
 
-6:00 PM","KARNATAKA","DHARWAD","NAVALGUND                                         ","2014-12-16 10:23:46.400"
-"KHARIF","AGRICULTURE","Others","Others","Weather","weather","Humidity
 
-%
 
-55%
 
-57%
+83 | 71 °F 
 
-70%
+T-storms 
 
 
+Chance of
+Precipitation
 
-Chance of Precip.
+60%","KARNATAKA","DHARWAD","KUNDGOL                                           ","2014-08-24 09:54:13.203"
+"KHARIF","AGRICULTURE","Others","Others","Weather","Navalgund Weather Forecast","78 | 71 °F 
+T-storms 
+Chance of
+Precipitation
+90%","KARNATAKA","DHARWAD","NAVALGUND                                         ","2014-08-25 14:07:37.533"
+"KHARIF","AGRICULTURE","Others","Others","Soil Health Card","weed specialist no.","Weeds Specialist (Bangalore)	9686757648
+Weeds Specialist (Dharwad)	94486515252","KARNATAKA","DHARWAD","NAVALGUND                                         ","2014-08-25 18:13:43.050"
+"RABI","AGRICULTURE","Others","Others","Weather","weather","83 °F 
 
-NA
+T-storms
+100% chance of precipitation","KARNATAKA","DHARWAD","NAVALGUND                                         ","2014-08-26 11:17:48.480"
+"RABI","AGRICULTURE","Others","Others","Weather","weather","83 °F 
 
-0%
+T-storms
+100% chance of precipitation","KARNATAKA","DHARWAD","NAVALGUND                                         ","2014-08-26 11:19:05.840"
+"RABI","AGRICULTURE","Others","Others","Weather","weather","83 °F 
 
-0%
+T-storms
+100% chance of precipitation","KARNATAKA","DHARWAD","NAVALGUND                                         ","2014-08-26 11:19:08.797"
+"RABI","AGRICULTURE","Others","Others","Weather","weather","83 °F 
 
-0%
+T-storms
+100% chance of precipitation","KARNATAKA","DHARWAD","NAVALGUND                                         ","2014-08-26 11:19:11.913"
+"RABI","AGRICULTURE","Others","Others","Weather","weather","83 °F 
 
+T-storms
+100% chance of precipitation","KARNATAKA","DHARWAD","NAVALGUND                                         ","2014-08-26 11:19:13.480"
+"RABI","AGRICULTURE","Others","Others","Weather","weather","83 °F 
 
+T-storms
+100% chance of precipitation","KARNATAKA","DHARWAD","NAVALGUND                                         ","2014-08-26 11:19:14.170"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather","Day Weather Forecast for Kundgol
 
-Cloud Cover
 
-NA
 
-30%
 
-35%
 
-57%
 
 
 
-Conditions
 
-NA
+Thursday, 28
 
-Partly Cloudy
 
-Partly Cloudy
 
-Partly Cloudy
 
+74 | 68 °F 
 
+T-storms 
 
-Sunrise & Sunset
 
+Chance of
+Precipitation
 
-
-6:49 AM
-
-6:03 PM","KARNATAKA","DHARWAD","KALGHATGI                                         ","2014-12-18 10:43:10.833"
-"KHARIF","AGRICULTURE","Others","Others","Weather","weather","Humidity
-
-%
-
-55%
-
-57%
-
-65%
-
-
-
-Chance of Precip.
-
-NA
-
-0%
-
-0%
-
-0%
-
-
-
-Cloud Cover
-
-NA
-
-58%
-
-50%
-
-52%
-
-
-
-Conditions
-
-NA
-
-Partly Cloudy
-
-Partly Cloudy
-
-Partly Cloudy
-
-
-
-Sunrise & Sunset
-
-
-
-6:49 AM
-
-6:03 PM","KARNATAKA","DHARWAD","KUNDGOL                                           ","2014-12-20 10:27:37.807"
-"KHARIF","AGRICULTURE","Others","Others","Weather","weather","Humidity
-
-%
-
-%
-
-54%
-
-65%
-
-
-
-Chance of Precip.
-
-NA
-
-NA
-
-0%
-
-0%
-
-
-
-Cloud Cover
-
-NA
-
-NA
-
-51%
-
-56%
-
-
-
-Conditions
-
-NA
-
-NA
-
-Partly Cloudy
-
-Partly Cloudy","KARNATAKA","DHARWAD","KUNDGOL                                           ","2014-12-20 17:07:25.877"
-"JAYAD","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","cotton flower dropping","planofix 1ml in 4 liter water","KARNATAKA","DHARWAD","HUBLI                                             ","2014-12-21 10:13:39.617"
-"JAYAD","AGRICULTURE","Others","Others","Organic Farming","vermicompost preparation parthenium can dump","it can dump but should ferment properly","KARNATAKA","DHARWAD","KUNDGOL                                           ","2014-12-21 10:22:46.383"
-"KHARIF","AGRICULTURE","Others","Others","	Plant Protection	","TEAK","TEAK","KARNATAKA","DHARWAD","HUBLI                                             ","2014-12-22 11:47:14.933"
-"JAYAD","HORTICULTURE","Condiments and Spices","Garlic","Floriculture","GARLIC WEEDICIDR","METACHLOR 2ML IN 1 LITER WATER","KARNATAKA","DHARWAD","KUNDGOL                                           ","2014-12-22 12:36:13.073"
-"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Market Information","COTTON MARKET","HUBLI BT Average 88 Quintal  4145 4247 4189","KARNATAKA","DHARWAD","DHARWAD                                           ","2014-12-24 13:41:53.873"
-"KHARIF","AGRICULTURE","Others","Others","Weather","weather","Humidity
-
-%
-
-34%
-
-51%
-
-55%
-
-
-
-Chance of Precip.
-
-NA
-
-0%
-
-0%
-
-0%
-
-
-
-Cloud Cover
-
-NA
-
-49%
-
-55%
-
-41%
-
-
-
-Conditions
-
-NA
-
-Partly Cloudy
-
-Partly Cloudy
-
-Partly Cloudy
-
-
-
-Sunrise & Sunset","KARNATAKA","DHARWAD","KALGHATGI                                         ","2014-12-26 08:18:38.677"
-"RABI","AGRICULTURE","Others","Others","Fertilizer Use and Availability","forestry tree growth problem","Forest Department no	080-23341481","KARNATAKA","DHARWAD","DHARWAD                                           ","2014-12-26 10:54:47.167"
-"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Market Information","market rates","HUBLI BT Average 72 Quintal  4149 4244 4169 HUBLI D.C.H. Average 26 Quintal  4670 5159 5089","KARNATAKA","DHARWAD","KALGHATGI                                         ","2014-12-26 11:42:13.347"
-"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER","Humidity
-
-%
-
-%
-
-37%
-
-54%
-
-
-
-Chance of Precip.
-
-NA
-
-NA
-
-0%
-
-0%
-
-
-
-Cloud Cover
-
-NA
-
-NA
-
-47%
-
-40%
-
-
-
-Conditions
-
-NA
-
-NA
-
-Partly Cloudy
-
-Partly Cloudy
-
-
-
-Sunrise & Sunset
-
-
-
-6:52 AM
-
-6:05 PM
- 
-
-Source: Weather Underground BestForecastView Detailed Hourly Forecast
-
-
- The quality of the forecasted high temperature for this day is excellent. MaxT RMSE [1.43]. : Use BestForecast
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-View WunderPhotos® in: Navalgund, India
- 
-
-
-
-
-
-News
-
-
-
-
-
-
-
-
-
-
- 
-
-PHOTOS: December Tornadoes in the South
-
-December 24, 2014
-
-Severe weather swept across the South Tuesday, spawning multiple reported tornadoes, including one in the town of Columbia, Miss. in Marion County.
- 
-
-
-
-
-
-
-
-
-Florida Teen's Dog Comes to Her Rescue in Bear Attack
-
-December 23, 2014
-
-Leah Reeder, 15, is recovering in a Panama City, Florida, hospital after being attacked by a bear while walking her dog. The dog lunged at the bear and Leah played dead before the bear released her.
- 
-
-
-
-
-
-
-
-
-Where Did All the Indonesia Tsunami Debris Go?
-
-December 23, 2014
-
-Some of the tsunami debris is still there – recycled into road materials, buildings and furniture. Some of it was burned, creating new environmental hazards. And most of it was simply washed out to sea.
- 
-
-
-
-
-
-
-
-
-Family Rescued After 10 Days in the Australian Wilderness
-
-December 22, 2014
-
-An Australian father and his two sons were rescued after being stranded in the wilderness for 10 days.
- 
-
-
-
-
-
-
-
-
-Landslide Blocks Traffic on Highway 101 Near San Francisco
-
-December 22, 2014
-
-Massive 10-foot boulders, hunks of earth, a tree and a light pole spilled across two lanes of Highway 101 about 5 miles north of the Golden Gate Bridge before sunrise Monday.
- 
-
-
-
-
-
-
-
-
-7 Hospitalized After Lightning Strike at Tampa Bay's Raymond James Stadium After Bucs-Packers NFL Game
-
-December 21, 2014
-
-Seven people were hospitalized after lightning struck in a parking lot at Raymond James Stadium.
- 
-
-
-
-
-
-
-
-
-Megabus Flips on I-65 in Indiana, 24 Injured
-
-December 20, 2014
-
-A Megabus crashed on a slick I-65 near Seymour, Indiana, Saturday, injuring 24 people.
- 
-
-
-
-
-
-
-
-
-West Coast Two Years Away From Early Earthquake Detection System
-
-December 20, 2014
-
-The West Coast is just two years away from an early detection system for earthquakes, which could give people tens of seconds to prepare for a major earthquake.
- 
-
-
-
-
-
-
-
-
-Indonesia Volcano Erupts: 1 Person Missing, 4 Hurt
-
-December 19, 2014
-
-Indonesia's Mount Gamalama erupted, leaving four people hurt and one person missing.
- 
-
-
-
-
-
-
-
-
-Hawaii Lava Flow Advancing Toward Pahoa Market
-
-December 19, 2014
-
-Weeks after a lava flow stalled near a Hawaii town, it's on the move again and threatening a local market.
- 
-
-
-
-More News Articles
-
- 
-
-
-Visit Our Video Section
- 
-
-Weather Summary 
-
-
-
-
-
-Kari Kiefer
-
-
-
-
-
-
-
-Weather Underground Forecast for Friday, December 26, 2014 
-
-Tropical cyclone development is anticipated across the Indian Ocean and the western Pacific on Friday. In the Indian Ocean, an area of low pressure will be located approximately 200 nautical miles southwest of the Cocos Islands. This system will have a high chance to develop into a tropical cyclone as it inches south southwestward. High seas and strong thunderstorms will impact the island chain. Meanwhile, a broad area of low pressure over the southern Bay of Bengal will initiate rain and thunderstorms from Sri Lanka to the Andaman Sea. These thunderstorms will affect Sri Lanka, northwest Indonesia, northern Malaysia and the Andaman and Nicobar Islands. Colombo, Sri Lanka, can expect rainy weather throughout the day with a high of 78(F)/ 25(C). In the western Pacific, a low pressure system will be located roughly 600 nautical miles south of Bora Bora. This system will have a high chance to develop into a tropical cyclone as it moves southeastward. A separate system will bring very stormy conditions to American Samoa, and will have a medium chance to develop into a tropical cyclone. Pago Pago, American Samoa, will receive over 5.00 centimeters of rain with a high of 83(F)/ 28(C). For more information regarding tropical cyclone activity, please visit http://www.wunderground.com/hurricane/.
- 
-In Australia, the tail end of a cold front will trigger showers and thunderstorms across portions of Victoria and eastern New South Wales. There will also be a chance of isolated showers and thunderstorms across Queensland. Sydney, Australia, will experience early morning rain with a high of 78(F)/ 25(C). In addition, strong thunderstorms","KARNATAKA","DHARWAD","NAVALGUND                                         ","2014-12-26 13:38:46.480"
-"KHARIF","AGRICULTURE","Others","Others","Weather","market messages registration","registered","KARNATAKA","DHARWAD","HUBLI                                             ","2014-12-29 11:56:58.310"
-"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER","Chance of Precip.
-
-NA
-
-0%
-
-0%
-
-10%
-
-
-
-Cloud Cover
-
-NA
-
-20%
-
-28%
-
-11%
-
-
-
-Conditions
-
-NA
-
-Clear
-
-Clear
-
-Clear
-
-
-
-Sunrise & Sunset
-
-
-
-6:55 AM
-
-6:09 PM
- 
-
-Source: Weather Underground BestForecastView","KARNATAKA","DHARWAD","KALGHATGI                                         ","2014-12-30 07:36:11.303"
-"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER","Humidity
-
-%
-
-48%
-
-52%
-
-86%
-
-
-
-Chance of Precip.
-
-NA
-
-0%
-
-0%
-
-0%
-
-
-
-Cloud Cover
-
-NA
-
-20%
-
-20%
-
-19%
-
-
-
-Conditions
-
-NA
-
-Clear
-
-Clear
-
-Clear
-
-
-
-Sunrise & Sunset
-
-
-
-6:54 AM
-
-6:08 PM","KARNATAKA","DHARWAD","DHARWAD                                           ","2014-12-30 09:02:48.540"
+100%","KARNATAKA","DHARWAD","KUNDGOL                                           ","2014-08-28 07:49:44.687"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER","100%","KARNATAKA","DHARWAD","NAVALGUND                                         ","2014-08-28 08:00:19.140"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather","80%","KARNATAKA","DHARWAD","HUBLI                                             ","2014-08-28 08:06:13.063"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather","90%","KARNATAKA","DHARWAD","NAVALGUND                                         ","2014-08-28 09:10:40.513"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather","80%","KARNATAKA","DHARWAD","KUNDGOL                                           ","2014-08-28 10:02:24.387"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report","80% CHANCES OF RAIN IN YOUR TALUK","KARNATAKA","DHARWAD","NAVALGUND                                         ","2014-08-28 11:24:31.037"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report","80% CHANCES OF RAIN IN YOUR TALUK","KARNATAKA","DHARWAD","NAVALGUND                                         ","2014-08-28 12:39:36.390"

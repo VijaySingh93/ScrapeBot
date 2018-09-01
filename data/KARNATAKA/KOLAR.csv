@@ -1,126 +1,17 @@
 "Season","Sector","Category","Crop","QueryType","QueryText","KCCAns","StateName","DistrictName","BlockName","CreatedOn"
-"JAYAD","HORTICULTURE","Vegetables","Potato","	Plant Protection	","potato diseae","tricyclozole 2gm per liter waetr","KARNATAKA","KOLAR","CHINTAMANI                                        ","2014-12-03 11:10:29.967"
-"JAYAD","AGRICULTURE","Others","Others","Weather","weather","Chance of Precip.
-
-NA
-
-0%
-
-0%
-
-0%
-
-
-
-Cloud Cover
-
-NA
-
-19%
-
-37%
-
-35%
-
-
-
-Conditions
-
-Haze
-
-Clear
-
-Partly Cloudy
-
-Partly Cloudy","KARNATAKA","KOLAR","KOLAR                                             ","2014-12-04 09:14:45.127"
-"JAYAD","AGRICULTURE","Others","Others","Weather","weather","Chance of Precip.
-
-NA
-
-0%
-
-0%
-
-0%
-
-
-
-Cloud Cover
-
-NA
-
-20%
-
-18%
-
-19%
-
-
-
-Conditions
-
-NA
-
-Clear
-
-Clear
-
-Clear","KARNATAKA","KOLAR","KOLAR                                             ","2014-12-05 09:11:16.903"
-"KHARIF","HORTICULTURE","Vegetables","Potato","	Plant Protection	","fertilizer","0:0;50","KARNATAKA","KOLAR","BANGARAPET                                        ","2014-12-05 11:26:07.147"
-"KHARIF","AGRICULTURE","Others","Others","Weather","weather","Humidity
-
-93%
-
-66%
-
-76%
-
-89%
-
-
-
-Chance of Precip.
-
-0%
-
-10%
-
-20%
-
-10%
-
-
-
-Cloud Cover
-
-74%
-
-67%
-
-72%
-
-60%
-
-
-
-Conditions
-
-Mostly Cloudy
-
-Mostly Cloudy
-
-Mostly Cloudy
-
-Mostly Cloudy","KARNATAKA","KOLAR","MALUR                                             ","2014-12-13 06:44:43.490"
+"RABI","AGRICULTURE","Others","Others","Weather","Bangarapet Weather Forecast","| 64 °F Partly Cloudy 
+Chance of
+Precipitation0%","KARNATAKA","KOLAR","BANGARAPET                                        ","2014-10-01 13:09:39.677"
+"KHARIF","AGRICULTURE","Others","Others","Government Schemes","GOVERNMENT SCHEMES","RSK","KARNATAKA","KOLAR","MULBAGAL                                          ","2014-10-03 10:29:05.617"
 "KHARIF","AGRICULTURE","Others","Others","Weather","weather","Chance of Precip.
 
 NA
 
-0%
+20%
 
 20%
 
-10%
+0%
 
 
 
@@ -128,11 +19,11 @@ Cloud Cover
 
 NA
 
-67%
+32%
 
-73%
+26%
 
-83%
+13%
 
 
 
@@ -140,66 +31,20 @@ Conditions
 
 Haze
 
-Mostly Cloudy
-
-Mostly Cloudy
-
-Overcast","KARNATAKA","KOLAR","SRINIVASPUR                                       ","2014-12-13 08:36:23.093"
-"JAYAD","HORTICULTURE","Vegetables","Cucumber","	Plant Protection	","cucumber fertilizer","urea and 19all","KARNATAKA","KOLAR","KOLAR                                             ","2014-12-13 09:05:05.460"
-"KHARIF","AGRICULTURE","Others","Others","Weather","weather","Humidity
-
-100%
-
-72%
-
-83%
-
-99%
-
-
-
-Chance of Precip.
-
-NA
-
-10%
-
-20%
-
-10%
-
-
-
-Cloud Cover
-
-NA
-
-74%
-
-58%
-
-55%
-
-
-
-Conditions
-
-Overcast
-
-Mostly Cloudy
-
 Partly Cloudy
 
-Partly Cloudy","KARNATAKA","KOLAR","KOLAR                                             ","2014-12-14 07:35:36.450"
+Clear
+
+Clear","KARNATAKA","KOLAR","KOLAR                                             ","2014-10-04 11:21:28.183"
 "KHARIF","AGRICULTURE","Others","Others","Weather","weather","Humidity
 
 100%
 
-70%
+47%
 
-89%
+62%
 
-99%
+91%
 
 
 
@@ -209,9 +54,9 @@ NA
 
 0%
 
-60%
-
 10%
+
+0%
 
 
 
@@ -219,23 +64,56 @@ Cloud Cover
 
 NA
 
-82%
+33%
 
-70%
+50%
 
-53%
+67%
 
 
 
 Conditions
 
-Overcast
-
-Overcast
-
-Chance of Rain
+Unknown
 
 Partly Cloudy
+
+Partly Cloudy
+
+Mostly Cloudy","KARNATAKA","KOLAR","KOLAR                                             ","2014-10-05 11:55:05.853"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weatehr","Chance of Precip.
+
+NA
+
+10%
+
+20%
+
+0%
+
+
+
+Cloud Cover
+
+NA
+
+32%
+
+54%
+
+62%
+
+
+
+Conditions
+
+Unknown
+
+Partly Cloudy
+
+Partly Cloudy
+
+Mostly Cloudy
 
 
 
@@ -243,19 +121,19 @@ Sunrise & Sunset
 
 
 
-6:32 AM
+6:06 AM
 
-5:53 PM","KARNATAKA","KOLAR","SIDLAGHATTA                                       ","2014-12-14 11:05:03.513"
-"KHARIF","AGRICULTURE","Others","Others","Weather","telugu","not available","KARNATAKA","KOLAR","SRINIVASPUR                                       ","2014-12-14 11:19:01.570"
-"RABI","HORTICULTURE","Vegetables","Cucumber","Post Harvest Management (Cleaning, Grading, Packaging, Food Processing, Cool Chain etc.)","cucumber","cucumber","KARNATAKA","KOLAR","CHIKBALLAPUR                                      ","2014-12-16 07:21:52.927"
-"KHARIF","HORTICULTURE","Vegetables","Cucumber","Fertilizer Use and Availability","cuccumber fertilizer","urea + 19 all sparay 3gm per liter water","KARNATAKA","KOLAR","GAURIBIDANUR                                      ","2014-12-16 08:08:29.953"
-"KHARIF","AGRICULTURE","Others","Others","Weather","weather","Humidity
+6:04 PM","KARNATAKA","KOLAR","BANGARAPET                                        ","2014-10-05 12:18:50.930"
+"KHARIF","HORTICULTURE","Vegetables","Tomato","	Plant Protection	","tomato disease","mancozeb 3gm per liter water","KARNATAKA","KOLAR","SRINIVASPUR                                       ","2014-10-05 13:19:43.010"
+"KHARIF","HORTICULTURE","Flowers","Rose","	Plant Protection	","ROSE PEST","CHLOROPYRIPHOS 2ML IN 1LITER WAETR","KARNATAKA","KOLAR","MALUR                                             ","2014-10-06 09:10:40.870"
+"KHARIF","HORTICULTURE","Vegetables","Potato","Water Management, Micro Irrigation","WEEDICIDE","METRIBUZIN 0.75GM PER LITER WATER","KARNATAKA","KOLAR","SRINIVASPUR                                       ","2014-10-07 07:47:59.950"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER","Humidity
 
 100%
 
-63%
+59%
 
-75%
+87%
 
 96%
 
@@ -265,7 +143,109 @@ Chance of Precip.
 
 NA
 
+70%
+
+80%
+
+10%
+
+
+
+Cloud Cover
+
+NA
+
+77%
+
+67%
+
+57%
+
+
+
+Conditions
+
+Mostly Cloudy
+
+Thunderstorm
+
+Thunderstorm
+
+Partly Cloudy","KARNATAKA","KOLAR","MULBAGAL                                          ","2014-10-07 09:56:05.107"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather","Humidity
+
+94%
+
+56%
+
+65%
+
+93%
+
+
+
+Chance of Precip.
+
+NA
+
 0%
+
+0%
+
+10%
+
+
+
+Cloud Cover
+
+NA
+
+64%
+
+52%
+
+41%
+
+
+
+Conditions
+
+NA
+
+Mostly Cloudy
+
+Partly Cloudy
+
+Partly Cloudy
+
+
+
+Sunrise & Sunset
+
+
+
+6:08 AM
+
+6:01 PM","KARNATAKA","KOLAR","MALUR                                             ","2014-10-12 10:03:46.243"
+"RABI","AGRICULTURE","Others","Others","Weather","WEATHER","CLOUDY WEATHER","KARNATAKA","KOLAR","CHIKBALLAPUR                                      ","2014-10-14 09:18:34.500"
+"KHARIF","HORTICULTURE","Vegetables","Potato","	Plant Protection	","POTATO","SLUIPTS EYE BUDS","KARNATAKA","KOLAR","MULBAGAL                                          ","2014-10-15 10:27:04.423"
+"JAYAD","AGRICULTURE","Others","Others","Weather","weather","Humidity
+
+100%
+
+68%
+
+87%
+
+98%
+
+
+
+Chance of Precip.
+
+NA
+
+70%
 
 20%
 
@@ -277,11 +257,11 @@ Cloud Cover
 
 NA
 
-84%
+81%
 
-83%
+81%
 
-70%
+53%
 
 
 
@@ -289,31 +269,160 @@ Conditions
 
 Haze
 
-Overcast
+Thunderstorm
 
 Overcast
 
-Mostly Cloudy","KARNATAKA","KOLAR","CHIKBALLAPUR                                      ","2014-12-18 11:37:48.873"
-"JAYAD","HORTICULTURE","Fruits","Lemon","	Plant Protection	","lemon pest","carbaryl 4gm per liter water","KARNATAKA","KOLAR","MALUR                                             ","2014-12-18 14:16:32.933"
-"KHARIF","HORTICULTURE","Fruits","Lemon","	Plant Protection	","LEMON DISEASE","ULLALA10ML IN 15 LITER WATER","KARNATAKA","KOLAR","CHINTAMANI                                        ","2014-12-18 15:48:08.693"
-"JAYAD","HORTICULTURE","Vegetables","Pointed Gourd","	Plant Protection	","potato pest","methyl parathion  1ml in 1 litr water","KARNATAKA","KOLAR","MALUR                                             ","2014-12-19 08:15:19.103"
-"KHARIF","AGRICULTURE","Others","Others","Weather","weather","3 km/h North
-
-14 km/h ENE
-
-13 km/h ENE
-
-10 km/h ENE
+Partly Cloudy
 
 
 
-Humidity
+Sunrise & Sunset
 
-100%
+
+
+6:08 AM
+
+5:56 PM","KARNATAKA","KOLAR","KOLAR                                             ","2014-10-18 08:13:38.553"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weaher","Chance of Precip.
+
+20%
+
+20%
+
+10%
+
+10%
+
+
+
+Cloud Cover
+
+99%
+
+71%
+
+57%
+
+75%
+
+
+
+Conditions
+
+Overcast
+
+Mostly Cloudy
+
+Partly Cloudy
+
+Mostly Cloudy","KARNATAKA","KOLAR","KOLAR                                             ","2014-10-21 06:45:21.870"
+"RABI","AGRICULTURE","Others","Others","Weather","Chik Ballapur Weather Forecast","| 66 °F Partly Cloudy 
+Chance of
+Precipitation20%","KARNATAKA","KOLAR","CHIKBALLAPUR                                      ","2014-10-21 07:02:01.893"
+"RABI","AGRICULTURE","Others","Others","Weather","Mulbagal Weather at a Glance","Tonight
+ 66 °F T-storms
+80% chance of precipitation","KARNATAKA","KOLAR","MULBAGAL                                          ","2014-10-25 07:20:57.650"
+"RABI","AGRICULTURE","Others","Others","Weather","Mulbagal Weather at a Glance","Tonight
+ 66 °F T-storms
+80% chance of precipitation","KARNATAKA","KOLAR","MULBAGAL                                          ","2014-10-25 07:20:58.860"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHJER","CHANCE OF RAIN","KARNATAKA","KOLAR","MULBAGAL                                          ","2014-10-26 11:12:25.623"
+"KHARIF","AGRICULTURE","Others","Others","Weather","Apiculture","Apiculture	080-23636346","KARNATAKA","KOLAR","BANGARAPET                                        ","2014-10-26 13:27:54.200"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER","Humidity
+
+%
+
+70%
+
+79%
+
+89%
+
+
+
+Chance of Precip.
+
+NA
+
+20%
+
+10%
+
+10%
+
+
+
+Cloud Cover
+
+NA
+
+90%
+
+70%
 
 64%
 
-74%
+
+
+Conditions
+
+NA
+
+Overcast
+
+Mostly Cloudy
+
+Mostly Cloudy","KARNATAKA","KOLAR","CHINTAMANI                                        ","2014-10-27 10:09:51.150"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER","95%
+
+86%
+
+91%
+
+98%
+
+
+
+Chance of Precip.
+
+NA
+
+NA
+
+100%
+
+90%
+
+
+
+Cloud Cover
+
+NA
+
+NA
+
+76%
+
+92%
+
+
+
+Conditions
+
+NA
+
+NA
+
+Thunderstorm
+
+Thunderstorm","KARNATAKA","KOLAR","CHINTAMANI                                        ","2014-10-27 14:03:43.377"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather","Humidity
+
+96%
+
+63%
+
+84%
 
 97%
 
@@ -323,113 +432,10 @@ Chance of Precip.
 
 NA
 
-0%
-
-0%
-
-10%
-
-
-
-Cloud Cover
-
-NA
-
-72%
-
-64%
-
-46%
-
-
-
-Conditions
-
-Haze
-
-Mostly Cloudy
-
-Mostly Cloudy
-
-Partly Cloudy","KARNATAKA","KOLAR","CHIKBALLAPUR                                      ","2014-12-19 10:45:58.783"
-"JAYAD","HORTICULTURE","Fruits","Banana","Fertilizer Use and Availability","banana fertilizer","banana special 3gm per lioter water","KARNATAKA","KOLAR","CHIKBALLAPUR                                      ","2014-12-20 16:40:41.610"
-"KHARIF","ANIMAL HUSBANDRY","Animal","Pig","Market Information","animal husbandary","NAGARAJ VETERNARY	9945417029","KARNATAKA","KOLAR","MULBAGAL                                          ","2014-12-21 09:19:15.380"
-"KHARIF","HORTICULTURE","Vegetables","Beans ","	Plant Protection	","beans plant protection","carbendizium 1gm per liter water","KARNATAKA","KOLAR","GAURIBIDANUR                                      ","2014-12-24 11:14:21.580"
-"JAYAD","AGRICULTURE","Others","Others","Weather","weather","Humidity
-
-%
-
-52%
-
-59%
-
-89%
-
-
-
-Chance of Precip.
-
-NA
-
-NA
-
-0%
-
-10%
-
-
-
-Cloud Cover
-
-NA
-
-NA
-
-67%
-
-63%
-
-
-
-Conditions
-
-NA
-
-NA
-
-Mostly Cloudy
-
-Mostly Cloudy
-
-
-
-Sunrise & Sunset
-
-
-
-6:36 AM
-
-5:58 PM","KARNATAKA","KOLAR","MALUR                                             ","2014-12-24 13:19:13.143"
-"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER","Humidity
-
-93%
-
-71%
-
-71%
+20%
 
 90%
 
-
-
-Chance of Precip.
-
-NA
-
-40%
-
-10%
-
 10%
 
 
@@ -438,11 +444,11 @@ Cloud Cover
 
 NA
 
-89%
+25%
 
-77%
+64%
 
-85%
+60%
 
 
 
@@ -450,112 +456,1951 @@ Conditions
 
 NA
 
-Chance of Rain
+Clear
+
+Thunderstorm
+
+Mostly","KARNATAKA","KOLAR","MALUR                                             ","2014-10-28 10:41:19.880"
+"RABI","AGRICULTURE","Others","Others","Weather","weather","Humidity
+
+94%
+
+46%
+
+65%
+
+84%
+
+
+
+Chance of Precip.
+
+NA
+
+0%
+
+0%
+
+0%
+
+
+
+Cloud Cover
+
+NA
+
+54%
+
+58%
+
+66%
+
+
+
+Conditions
+
+NA
+
+Partly Cloudy
+
+Partly Cloudy
 
 Mostly Cloudy
 
-Overcast
-
-
-
-Sunrise & Sunset
-
-
-
-6:39 AM
-
-6:01 PM","KARNATAKA","KOLAR","MALUR                                             ","2014-12-29 07:27:02.600"
-"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER","Humidity
-
-100%
-
-77%
-
-78%
-
-92%
-
-
-
-Chance of Precip.
-
-NA
-
-20%
-
-10%
-
-10%
-
-
-
-Cloud Cover
-
-NA
-
-92%
-
-87%
-
-87%
-
-
-
-Conditions
-
-Haze
-
-Overcast
-
-Overcast
-
-Overcast
-
 
 
 Sunrise & Sunset
 
 
 
-6:38 AM","KARNATAKA","KOLAR","KOLAR                                             ","2014-12-29 08:11:59.010"
-"JAYAD","AGRICULTURE","Others","Others","Weather","weather","Humidity
+6:11 AM
 
-93%
+5:51 PM
+ 
 
-71%
-
-71%
-
-89%
+Source: Weather Underground BestForecastView Detailed Hourly Forecast
 
 
 
-Chance of Precip.
-
-NA
-
-40%
-
-10%
-
-10%
 
 
 
-Cloud Cover
-
-NA
-
-89%
-
-74%
-
-83%
 
 
 
-Conditions
 
-NA
 
-Chance of","KARNATAKA","KOLAR","MALUR                                             ","2014-12-29 10:30:42.120"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+View WunderPhotos® in: Malur, India
+ 
+
+
+
+
+
+News
+
+
+
+
+
+
+
+
+
+
+ 
+
+Eric Frein, Suspect in Trooper Ambush, Captured by Pennsylvania State Police After Extensive Manhunt Through Woods
+
+October 30, 2014
+
+The manhunt for Eric Frein in Pennsylvania has ended.
+ 
+
+
+
+
+
+
+
+
+Small Plane Crashes at Wichita's Mid-Continent Airport; 4 Dead
+
+October 30, 2014
+
+A small plane lost an engine and crashed into a building at Wichita's Mid-Continent Airport.
+ 
+
+
+
+
+
+
+
+
+Hawaii Lava Flow Update: Lava Closes in on Pahoa Homes; National Guard Deploys Troops
+
+October 30, 2014
+
+A lava flow is just yards from residences in a Hawaii town, and some residents aren't waiting any longer to leave.
+ 
+
+
+
+
+
+
+
+
+New Jersey Gov. Chris Christie Tells Sandy Recovery Critics to ""Sit Down. Shut Up.""
+
+October 30, 2014
+
+New Jersey's Gov. Christie sounds off over criticism that Superstorm Sandy recovery isn't happening fast enough.
+ 
+
+
+
+
+
+
+
+
+'Shocking' Amounts of Garbage Hauled From Ocean Near Northwestern Hawaiian Islands
+
+October 30, 2014
+
+A team of NOAA divers has just returned from a month-long mission to pull up marine garbage from the ocean floor around Hawaii's Papahnaumokukea Marine National Monument. What they found was 'shocking,' the mission's chief scientist said.
+ 
+
+
+
+
+
+
+
+
+Tropical Update: Tropical Storm Vance and a Fizzling Nilofar
+
+October 30, 2014
+
+The latest expert analysis on the hurricane season from our hurricane experts.
+ 
+
+
+
+
+
+
+
+
+Halloween, Weekend Storm to Bring First Flakes For Some in New England, Great Lakes, Appalachians (FORECAST)
+
+October 30, 2014
+
+As the calendar switches to November, the season's first snow will fall in parts of the Great Lakes and East.
+ 
+
+
+
+
+
+
+
+
+Halloween Forecast: Will The Weather Be A Trick Or A Treat?
+
+October 30, 2014
+
+Halloween is right around the corner. Find out if the weather will impact your plans.","KARNATAKA","KOLAR","MALUR                                             ","2014-10-31 08:48:16.683"
+"KHARIF","HORTICULTURE","Fruits","Guava","	Plant Protection	","GAVUA DISEASE","WETABLE SULPHUR 2GM PER LITER WATER","KARNATAKA","KOLAR","MALUR                                             ","2014-10-31 10:55:18.797"
+"KHARIF","AGRICULTURE","Others","Others","Weather","kisan credit card","rsk","KARNATAKA","KOLAR","BANGARAPET                                        ","2014-10-31 13:43:14.267"

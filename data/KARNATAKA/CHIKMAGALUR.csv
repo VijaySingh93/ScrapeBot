@@ -1,341 +1,11 @@
 "Season","Sector","Category","Crop","QueryType","QueryText","KCCAns","StateName","DistrictName","BlockName","CreatedOn"
-"RABI","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","PADDY DISEASE","MANGNESIUM SULPHATE 20GM PER LITER WATER","KARNATAKA","CHIKMAGALUR","TARIKERE                                          ","2014-11-04 10:47:14.943"
 "KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER","Chance of Precip.
 
 NA
-
-0%
-
-0%
-
-0%
-
-
-
-Cloud Cover
-
-NA
-
-18%
-
-32%
-
-36%
-
-
-
-Conditions
-
-NA
-
-Clear
-
-Partly Cloudy
-
-Partly Cloudy","KARNATAKA","CHIKMAGALUR","TARIKERE                                          ","2014-11-10 08:33:22.760"
-"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER","PARTLY CLOUDY","KARNATAKA","CHIKMAGALUR","TARIKERE                                          ","2014-11-10 10:19:04.087"
-"JAYAD","AGRICULTURE","Others","Others","Weather","weather","Tuesday, 11
-
-
-
-
-29 | 19 °C 
-
-Chance of T-storms 
-
-
-Chance of
-Precipitation
-
-40%
-
-
-
-Wednesday, 12
-
-
-
-
-29 | 19 °C 
-
-Partly Cloudy 
-
-
-Chance of
-Precipitation
-
-20%
-
-
-
-
-
-Thursday, 13
-
-
-
-
-23 | 19 °C 
-
-T-storms 
-
-
-Chance of
-Precipitation
-
-90%
-
-
-
-Friday, 14
-
-
-
-
-26 | 19 °C 
-
-T-storms 
-
-
-Chance of
-Precipitation
-
-90%
-
-
-
-Saturday, 15
-
-
-
-
-28 | 19 °C 
-
-Partly Cloudy 
-
-
-Chance of
-Precipitation","KARNATAKA","CHIKMAGALUR","KADUR                                             ","2014-11-11 13:29:34.430"
-"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","cotton pest","dimethoate 2ml in 1m liter water","KARNATAKA","CHIKMAGALUR","CHICKMAGALUR                                      ","2014-11-12 11:10:14.207"
-"KHARIF","AGRICULTURE","Others","Others","Weather","weather","Chance of Precip.
-
-NA
-
-60%
-
-60%
-
-20%
-
-
-
-Cloud Cover
-
-NA
-
-78%
-
-88%
-
-72%
-
-
-
-Conditions
-
-NA
-
-Thunderstorm
-
-Thunderstorm
-
-Mostly Cloudy","KARNATAKA","CHIKMAGALUR","TARIKERE                                          ","2014-11-14 11:36:38.340"
-"KHARIF","AGRICULTURE","Others","Others","Market Information","copra market","MANGALORE Copra Average 62 Quintal  4600 9800 6200 
-SULYA Other Average 30 Quintal  5200 5200 5200 
-
-COMMODITY: Cotton Seed","KARNATAKA","CHIKMAGALUR","KADUR                                             ","2014-11-19 09:29:57.150"
-"KHARIF","AGRICULTURE","Millets","FingerMillet  (Ragi/Mandika)","	Plant Protection	","finger milliet","chloropyriphos 2ml in 1 liter water","KARNATAKA","CHIKMAGALUR","KADUR                                             ","2014-11-19 10:56:58.020"
-"KHARIF","HORTICULTURE","Fruits","Papaya","Cultural Practices","PAPAYA CULTIVATION","1.8MTR * 1.8MTR","KARNATAKA","CHIKMAGALUR","KADUR                                             ","2014-11-20 10:10:29.830"
-"KHARIF","HORTICULTURE","Plantation Crops","Coconut","Market Information","market messages","registered","KARNATAKA","CHIKMAGALUR","KADUR                                             ","2014-11-20 11:35:02.223"
-"RABI","AGRICULTURE","Others","Others","Weather","weathere","partly cloudy","KARNATAKA","CHIKMAGALUR","KADUR                                             ","2014-11-20 11:44:07.343"
-"KHARIF","AGRICULTURE","Others","Others","Weather","humic acid information","not geeting informatiobn","KARNATAKA","CHIKMAGALUR","CHICKMAGALUR                                      ","2014-11-20 12:24:19.690"
-"KHARIF","AGRICULTURE","Others","Others","Weather","humic acid information","not geeting informatiobn","KARNATAKA","CHIKMAGALUR","CHICKMAGALUR                                      ","2014-11-20 12:24:20.053"
-"JAYAD","HORTICULTURE","Plantation Crops","Coffee","	Plant Protection	","COFFEE  DISEASE","MANCOZEB AND CABENDIZIUM 3GM PER LITER WATER","KARNATAKA","CHIKMAGALUR","CHICKMAGALUR                                      ","2014-11-22 13:08:22.843"
-"RABI","HORTICULTURE","Vegetables","Carrot","Cultural Practices","horti number carrot information","08028466353","KARNATAKA","CHIKMAGALUR","CHICKMAGALUR                                      ","2014-11-23 11:21:59.233"
-"KHARIF","HORTICULTURE","Plantation Crops","Arecanut","Fertilizer Use and Availability","urea fertilizer","urea, phosphos potassh, boron , zinc, gypsum , neemcake ,","KARNATAKA","CHIKMAGALUR","TARIKERE                                          ","2014-11-23 12:07:04.580"
-"KHARIF","AGRICULTURE","Others","Others","Weather","weather","Sunday, 23
-
-
-
-
-30 | 17 °C 
-
-Partly Cloudy 
-
-
-Chance of
-Precipitation
-
-0%
-
-
-
-Monday, 24
-
-
-
-
-29 | 16 °C 
-
-Partly Cloudy 
-
-
-Chance of
-Precipitation
-
-10%
-
-
-
-
-
-Tuesday, 25
-
-
-
-
-29 | 16 °C 
-
-Partly Cloudy 
-
-
-Chance of
-Precipitation
-
-10%
-
-
-
-Wednesday, 26
-
-
-
-
-29 | 16 °C 
-
-Partly Cloudy 
-
-
-Chance of
-Precipitation
-
-10%
-
-
-
-Thursday, 27
-
-
-
-
-29 | 17 °C 
-
-Partly Cloudy 
-
-
-Chance of
-Precipitation
-
-10%","KARNATAKA","CHIKMAGALUR","TARIKERE                                          ","2014-11-23 12:17:56.870"
-"RABI","AGRICULTURE","Others","Others","Weather","weather","Humidity
-
-96%
-
-44%
-
-62%
-
-95%
-
-
-
-Chance of Precip.
-
-NA
-
-0%
-
-0%
-
-10%
-
-
-
-Cloud Cover
-
-NA
-
-41%
-
-34%
-
-43%
-
-
-
-Conditions
-
-NA
-
-Partly Cloudy
-
-Partly Cloudy
-
-Partly Cloudy","KARNATAKA","CHIKMAGALUR","TARIKERE                                          ","2014-11-24 09:19:13.730"
-"JAYAD","ANIMAL HUSBANDRY","Animal","Others","Artificial Insemination","animal husbandary","not available","KARNATAKA","CHIKMAGALUR","NARASIMHARAJAPURA                                 ","2014-11-24 10:50:58.513"
-"JAYAD","ANIMAL HUSBANDRY","Animal","Cat","Animal Nutrition","Poultry farm	080-28466093","Poultry farm	080-28466093","KARNATAKA","CHIKMAGALUR","TARIKERE                                          ","2014-11-24 13:56:23.763"
-"KHARIF","HORTICULTURE","Condiments and Spices","Ginger","	Plant Protection	","GINGER CULTIVATION","Hesraghata No	080-28466421","KARNATAKA","CHIKMAGALUR","KADUR                                             ","2014-11-25 06:36:39.923"
-"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER","Chance of Precip.
-
-NA
-
-0%
-
-0%
-
-0%
-
-
-
-Cloud Cover
-
-NA
-
-28%
-
-16%
 
 30%
 
-
-
-Conditions
-
-NA
-
-Clear
-
-Clear
-
-Partly Cloudy","KARNATAKA","CHIKMAGALUR","CHICKMAGALUR                                      ","2014-11-25 07:49:02.983"
-"KHARIF","HORTICULTURE","Vegetables","Tomato","	Plant Protection	","TOMAYTO  DISEASE","WETABLE SULPHUR 3GM PER LITER WATER","KARNATAKA","CHIKMAGALUR","KADUR                                             ","2014-11-25 07:52:36.373"
-"RABI","AGRICULTURE","Others","Others","Weather","WEATHER","Chance of Precip.
-
-NA
-
-0%
-
-0%
+10%
 
 0%
 
@@ -345,11 +15,11 @@ Cloud Cover
 
 NA
 
-29%
+30%
 
-17%
+19%
 
-22%
+24%
 
 
 
@@ -357,28 +27,21 @@ Conditions
 
 NA
 
-Clear
+Chance of a Thunderstorm
 
 Clear
 
-Clear
-
-
-
-Sunrise & Sunset","KARNATAKA","CHIKMAGALUR","KADUR                                             ","2014-11-25 09:27:38.570"
-"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER","PARTLY CLOUDY","KARNATAKA","CHIKMAGALUR","TARIKERE                                          ","2014-11-26 08:30:58.123"
-"JAYAD","AGRICULTURE","Pulses","Pigeon pea (red gram/arhar/tur)","	Plant Protection	","REDGRAM FLOWER DROPPING","PLANOFIX 1ML IN 4 LITER WATER OR BORON","KARNATAKA","CHIKMAGALUR","TARIKERE                                          ","2014-11-26 09:56:52.077"
-"KHARIF","HORTICULTURE","Plantation Crops","Arecanut","	Plant Protection	","ARECANUT DISEASE","COPPER  OXY CHLORIDE 2GM PER LITER WATER","KARNATAKA","CHIKMAGALUR","TARIKERE                                          ","2014-11-26 12:17:27.637"
-"JAYAD","HORTICULTURE","Vegetables","Cabbage","Cultural Practices","cabbage cultural practices","30*30cm","KARNATAKA","CHIKMAGALUR","TARIKERE                                          ","2014-11-28 09:22:33.570"
-"KHARIF","AGRICULTURE","Others","Others","Weather","weather","Chance of Precip.
+Clear","KARNATAKA","CHIKMAGALUR","KADUR                                             ","2014-10-01 08:31:18.940"
+"RABI","AGRICULTURE","Others","Others","Weather","WEATHER","CHANCE OF RAIN","KARNATAKA","CHIKMAGALUR","TARIKERE                                          ","2014-10-01 08:55:31.317"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weathere","Chance of Precip.
 
 NA
 
-0%
+80%
 
-0%
+40%
 
-0%
+20%
 
 
 
@@ -390,7 +53,7 @@ NA
 
 49%
 
-51%
+75%
 
 
 
@@ -398,73 +61,147 @@ Conditions
 
 NA
 
-Partly Cloudy
+Thunderstorm
 
-Partly Cloudy
+Chance of a Thunderstorm
 
-Partly Cloudy
+Mostly Cloudy","KARNATAKA","CHIKMAGALUR","MUDIGERE                                          ","2014-10-04 08:47:40.317"
+"RABI","AGRICULTURE","Others","Others","Weather","Tarikere Weather at a Glance","Tonight
+ 68 °F Chance of T-storms
+50% chance of precipitation","KARNATAKA","CHIKMAGALUR","TARIKERE                                          ","2014-10-04 12:49:10.653"
+"KHARIF","HORTICULTURE","Condiments and Spices","Ginger","	Plant Protection	","GINGERN DISEASE","08028466353","KARNATAKA","CHIKMAGALUR","CHICKMAGALUR                                      ","2014-10-06 08:28:12.313"
+"RABI","AGRICULTURE","Others","Others","Government Schemes","GOVERNMENT SCHEMES","RSK","KARNATAKA","CHIKMAGALUR","KADUR                                             ","2014-10-06 12:55:25.030"
+"KHARIF","HORTICULTURE","Fruits","Banana","	Plant Protection	","banaNA","SUGGESTED TO REFFER THE HORTI","KARNATAKA","CHIKMAGALUR","MUDIGERE                                          ","2014-10-07 08:07:05.787"
+"KHARIF","HORTICULTURE","Vegetables","Onion","Market Information","market","HASSAN Other Average 4056 Quintal  500 635 800 
+MYSORE Other Average 450 Quintal  500 2000 1250","KARNATAKA","CHIKMAGALUR","KADUR                                             ","2014-10-09 09:51:16.087"
+"RABI","HORTICULTURE","Fruits","Banana","	Plant Protection	","banana","08028466353","KARNATAKA","CHIKMAGALUR","KADUR                                             ","2014-10-09 09:59:06.663"
+"JAYAD","AGRICULTURE","Others","Others","Market Information","copra market","registred","KARNATAKA","CHIKMAGALUR","KADUR                                             ","2014-10-09 11:58:45.837"
+"KHARIF","AGRICULTURE","Millets","Maize (Makka)","Cultural Practices","MAIZE CUTIN G","AFTER HAVESTESING","KARNATAKA","CHIKMAGALUR","TARIKERE                                          ","2014-10-17 08:10:26.380"
+"KHARIF","HORTICULTURE","Plantation Crops","Coconut","Market Information","COPRA MARKET","HULIYAR Copra Medium 15 Quintal  15555 15555 15555 
+MANGALORE Copra Average 55 Quintal  4500 9800 6500","KARNATAKA","CHIKMAGALUR","KADUR                                             ","2014-10-17 08:48:06.637"
+"KHARIF","HORTICULTURE","Fruits","Banana","	Plant Protection	","BANAN PEST","CHLOROPYRIPHOS 5ML PER LITER WATER","KARNATAKA","CHIKMAGALUR","KADUR                                             ","2014-10-17 10:35:59.427"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather","Humidity
 
+%
 
+60%
 
-Sunrise & Sunset
+83%
 
-
-
-6:32 AM
-
-5:56 PM","KARNATAKA","CHIKMAGALUR","TARIKERE                                          ","2014-11-28 09:35:07.960"
-"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER","Chance of Precip.
-
-NA
-
-0%
-
-0%
-
-0%
-
-
-
-Cloud Cover
-
-NA
-
-47%
-
-49%
-
-51%
+97%
 
 
 
-Conditions
+Chance of Precip.
 
 NA
 
-Partly Cloudy
-
-Partly Cloudy
-
-Partly Cloudy","KARNATAKA","CHIKMAGALUR","TARIKERE                                          ","2014-11-28 11:27:39.213"
-"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER","Chance of Precip.
-
-NA
-
-0%
-
-0%
-
-0%
-
-
-
-Cloud Cover
-
-NA
+10%
 
 50%
 
-51%
+40%
+
+
+
+Cloud Cover
+
+NA
+
+44%
+
+45%
+
+75%
+
+
+
+Conditions
+
+NA
+
+Partly Cloudy
+
+Chance of Rain
+
+Chance of","KARNATAKA","CHIKMAGALUR","CHICKMAGALUR                                      ","2014-10-23 08:59:41.690"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER","Humidity
+
+%
+
+70%
+
+97%
+
+100%
+
+
+
+Chance of Precip.
+
+NA
+
+60%
+
+70%
+
+50%
+
+
+
+Cloud Cover
+
+NA
+
+75%
+
+77%
+
+80%
+
+
+
+Conditions
+
+NA
+
+Chance of a Thunderstorm
+
+Thunderstorm
+
+Chance of Rain","KARNATAKA","CHIKMAGALUR","CHICKMAGALUR                                      ","2014-10-27 07:47:50.387"
+"KHARIF","HORTICULTURE","Plantation Crops","Arecanut","Fertilizer Use and Availability","arecanu tfertilizer","boron","KARNATAKA","CHIKMAGALUR","CHICKMAGALUR                                      ","2014-10-27 12:06:32.173"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER","Humidity
+
+%
+
+57%
+
+75%
+
+80%
+
+
+
+Chance of Precip.
+
+NA
+
+0%
+
+0%
+
+0%
+
+
+
+Cloud Cover
+
+NA
+
+65%
+
+71%
 
 53%
 
@@ -474,9 +211,9 @@ Conditions
 
 NA
 
-Partly Cloudy
+Mostly Cloudy
 
-Partly Cloudy
+Mostly Cloudy
 
 Partly Cloudy
 
@@ -486,7 +223,6 @@ Sunrise & Sunset
 
 
 
-6:31 AM
+6:20 AM
 
-5:55 PM","KARNATAKA","CHIKMAGALUR","KADUR                                             ","2014-11-28 12:37:57.947"
-"KHARIF","AGRICULTURE","Pulses","Pigeon pea (red gram/arhar/tur)","	Plant Protection	","REDGRAM PEST","CHLOROPYRIPHOS 2ML IN 1 LIETR WATER","KARNATAKA","CHIKMAGALUR","KOPPA                                             ","2014-11-28 13:18:03.660"
+6:00 PM","KARNATAKA","CHIKMAGALUR","CHICKMAGALUR                                      ","2014-10-31 09:40:43.660"

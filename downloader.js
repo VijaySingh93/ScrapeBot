@@ -18,8 +18,9 @@ var checkUpper = (character) => {
 		return false;
 	}
 }
-
-for(i=20;i<25;i++){
+var myArgs = process.argv.slice(2);
+console.log(5*myArgs[0])
+for(i=78;i<80;i++){
 fileName='./urls/url'+i.toString()+'.json';
 var obj = JSON.parse(fs.readFileSync(fileName, 'utf8')); 
 obj.forEach((i)=>{
@@ -50,7 +51,7 @@ obj.forEach((i)=>{
 	url=i.url;
 	download(url, options, function(err){
     if (err) console.log("Got Error");
-    console.log("meow");
+    else console.log("meow");
 	})
-	sleep(500);
+	// sleep(10);
 })}

@@ -22,7 +22,7 @@ const scrapePage =async (page) => page.evaluate(() => {
     for (var element of elements){ 
         title.push(element.innerText);
     }
-
+    console.log("HEre")
     elements = document.querySelectorAll('.csv'); 
     for (var element of elements){
         url.push(element.href);

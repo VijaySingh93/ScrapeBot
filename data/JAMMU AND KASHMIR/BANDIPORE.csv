@@ -1,389 +1,139 @@
 "Season","Sector","Category","Crop","QueryType","QueryText","KCCAns","StateName","DistrictName","BlockName","CreatedOn"
-"RABI","HORTICULTURE","Fruits","Apple","	Plant Protection	","HOW TO CONTROL ROOT ROT IN APPLE ?","DRENCH THE ROOT WITH MANCOZEB + CARBENDAZIM @ 3GM/LITER OF WATER","JAMMU AND KASHMIR","BANDIPORE","HAJIN                                             ","2014-11-01 10:34:12.247"
-"RABI","HORTICULTURE","Fruits","Apple","	Plant Protection	","control of root rot in apple tree","drench carbendazim @ 2gm /litre of water","JAMMU AND KASHMIR","BANDIPORE","HAJIN                                             ","2014-11-01 13:49:33.953"
-"KHARIF","AGRICULTURE","Others","Others","	Plant Protection	","WEATHER  FORECAST  ?","Increasing cloudiness
- Max UV Index: 5 (Moderate)
-Thunderstorms: 24%
-Precipitation: 0 in
-Rain: 0 in
-Snow: 0 in
-Ice: 0 in
-Hours of Precipitation: 0 hrs
-Hours of Rain: 0 hrs","JAMMU AND KASHMIR","BANDIPORE","BANDIPORA                                         ","2014-11-02 07:53:41.783"
-"RABI","AGRICULTURE","Others","Others","Weather","WEATHER FORECAST?","N
-E
-S
-W
-
-NNE 4 km/h 
-Gusts: 7 km/h 
-Sun and areas of high clouds this morning followed by considerable cloudiness
-
-Max UV Index: 4 (Moderate) 
-Thunderstorms: 0% 
-Precipitation: 0 mm 
-Rain: 0 mm 
-Snow: 0 CM 
-Ice: 0 mm 
-Hours of Precipitation: 0 hrs 
-Hours of Rain: 0 hrs","JAMMU AND KASHMIR","BANDIPORE","SUMBAL                                            ","2014-11-02 10:47:57.933"
-"RABI","AGRICULTURE","Others","Others","Weather","WEATHER","Some sun, then turning cloudy
-Max UV Index: 4 (Moderate)
-Thunderstorms: 0%
-Precipitation: 0 in
-Rain: 0 in
-Snow: 0 in
-Ice: 0 in
-Hours of Precipitation: 0 hrs
-Hours of Rain: 0 hrs","JAMMU AND KASHMIR","BANDIPORE","BANDIPORA                                         ","2014-11-02 12:27:39.817"
-"KHARIF","AGRICULTURE","Others","Others","Weather","weather report?","Increasing cloudiness","JAMMU AND KASHMIR","BANDIPORE","SUMBAL                                            ","2014-11-02 18:37:13.420"
-"KHARIF","AGRICULTURE","Others","Others","Weather","weather report?","Increasing cloudiness","JAMMU AND KASHMIR","BANDIPORE","SUMBAL                                            ","2014-11-02 18:58:50.740"
-"KHARIF","HORTICULTURE","Fruits","Apple","Weather","weather forecast ?","Mostly cloudy with a shower in places
-Max UV Index: 3 (Moderate)
-Thunderstorms: 20%
-Precipitation: 0 mm
-Rain: 0 mm
-Snow: 0 CM
-Ice: 0 mm
-Hours of Precipitation: 1 hrs
-Hours of Rain: 1 hrs","JAMMU AND KASHMIR","BANDIPORE","SUMBAL                                            ","2014-11-04 10:38:39.037"
-"RABI","AGRICULTURE","Others","Others","Varieties","weather forecast?","Cooler; periods of snow and rain this morning followed by a shower in spots this afternoon
-Max UV Index: 3 (Moderate)
-Thunderstorms: 29%
-Precipitation: 0.17 in
-Rain: 0.15 in
-Snow: 0.1 in
-Ice: 0 in
-Hours of Precipitation: 3 hrs
-Hours of Rain: 2.5 hrs","JAMMU AND KASHMIR","BANDIPORE","HAJIN                                             ","2014-11-04 10:58:51.590"
-"KHARIF","HORTICULTURE","Fruits","Apple","Weather","weather forecast ?","Mostly cloudy with a shower in places
-Max UV Index: 3 (Moderate)
-Thunderstorms: 20%
-Precipitation: 0 mm
-Rain: 0 mm
-Snow: 0 CM
-Ice: 0 mm
-Hours of Precipitation: 1 hrs
-Hours of Rain: 1 hrs","JAMMU AND KASHMIR","BANDIPORE","BANDIPORA                                         ","2014-11-04 11:02:08.777"
-"RABI","AGRICULTURE","Others","Others","Weather","WEATHER FORECAST ?","Mostly cloudy
-Max UV Index: 4 (Moderate)
-Thunderstorms: 0%
-Precipitation: 0 in
-Rain: 0 in
-Snow: 0 in
-Ice: 0 in
-Hours of Precipitation: 0 hrs
-Hours of Rain: 0 hrs","JAMMU AND KASHMIR","BANDIPORE","HAJIN                                             ","2014-11-06 07:57:03.840"
-"RABI","HORTICULTURE","Vegetables","Knol-Khol","Cultural Practices","SPACING IN ONION ?","SPACING IN ONION IS 30*15CM","JAMMU AND KASHMIR","BANDIPORE","SUMBAL                                            ","2014-11-06 11:26:06.673"
-"RABI","AGRICULTURE","Cereals","Oats ","Weather","TODAYS WEATHER FORECAST ?","Some sun, then turning cloudy with a passing shower
-
-Max UV Index: 3 (Moderate) 
-Thunderstorms: 20% 
-Precipitation: 1 mm 
-Rain: 1 mm 
-Snow: 0 CM 
-Ice: 0 mm 
-Hours of Precipitation: 1 hrs 
-Hours of Rain: 1 hrs","JAMMU AND KASHMIR","BANDIPORE","SUMBAL                                            ","2014-11-06 16:17:01.407"
-"KHARIF","AGRICULTURE","Others","Others","Weather","weather","Cooler; occasional morning rain and drizzle, then afternoon showers and thunderstorms
- Max UV Index: 3 (Moderate)
-Thunderstorms: 40%
-Precipitation: 0.34 in
-Rain: 0.34 in
-Snow: 0 in
-Ice: 0 in
-Hours of Precipitation: 4.5 hrs
-Hours of Rain: 4.5 hrs","JAMMU AND KASHMIR","BANDIPORE","HAJIN                                             ","2014-11-07 08:17:19.167"
-"KHARIF","AGRICULTURE","Others","Others","Varieties","WEATHER ?","Cloudy and cooler with a little rain
- Max UV Index: 3 (Moderate)
-Thunderstorms: 24%
-Precipitation: 0.12 in
-Rain: 0.12 in
-Snow: 0 in
-Ice: 0 in
-Hours of Precipitation: 2 hrs
-Hours of Rain: 2 hrs","JAMMU AND KASHMIR","BANDIPORE","HAJIN                                             ","2014-11-07 08:45:31.720"
-"RABI","AGRICULTURE","Others","Others","Weather","WEATHER FORECAST","Cooler; occasional morning rain and drizzle, then afternoon showers and thunderstorms
-
-Max UV Index: 2 (Low) 
-Thunderstorms: 43% 
-Precipitation: 4 mm 
-Rain: 4 mm 
-Snow: 0 CM 
-Ice: 0 mm 
-Hours of Precipitation: 4 hrs 
-Hours of Rain: 4 hrs","JAMMU AND KASHMIR","BANDIPORE","BANDIPORA                                         ","2014-11-07 11:15:47.153"
-"RABI","AGRICULTURE","Others","Others","Weather","WEATHER FORECAST","Cooler; occasional morning rain and drizzle, then afternoon showers and thunderstorms
-
-Max UV Index: 2 (Low) 
-Thunderstorms: 43% 
-Precipitation: 4 mm 
-Rain: 4 mm 
-Snow: 0 CM 
-Ice: 0 mm 
-Hours of Precipitation: 4 hrs 
-Hours of Rain: 4 hrs","JAMMU AND KASHMIR","BANDIPORE","SUMBAL                                            ","2014-11-07 12:55:30.797"
-"RABI","AGRICULTURE","Others","Others","Weather","WEATHER FORECAST ?","Partly sunny
-Max UV Index: 4 (Moderate)
-Thunderstorms: 24%
-Precipitation: 0 mm
-Rain: 0 mm
-Snow: 0 CM
-Ice: 0 mm
-Hours of Precipitation: 0 hrs
-Hours of Rain: 0 hrs","JAMMU AND KASHMIR","BANDIPORE","SUMBAL                                            ","2014-11-08 08:39:44.673"
-"RABI","HORTICULTURE","Fruits","Apple","Weather","WEATHER FORECAST ?","Partly sunny
-Max UV Index: 4 (Moderate)
-Thunderstorms: 24%
-Precipitation: 0 mm
-Rain: 0 mm
-Snow: 0 CM
-Ice: 0 mm
-Hours of Precipitation: 0 hrs
-Hours of Rain: 0 hrs","JAMMU AND KASHMIR","BANDIPORE","SUMBAL                                            ","2014-11-08 10:06:51.000"
-"RABI","AGRICULTURE","Oilseeds","Mustard","Weather","WEATHER FORECAST ?","Partly sunny
-Max UV Index: 4 (Moderate)
-Thunderstorms: 24%
-Precipitation: 0 mm
-Rain: 0 mm
-Snow: 0 CM
-Ice: 0 mm
-Hours of Precipitation: 0 hrs
-Hours of Rain: 0 hrs","JAMMU AND KASHMIR","BANDIPORE","SUMBAL                                            ","2014-11-08 10:14:40.777"
-"RABI","AGRICULTURE","Others","Others","Weather","WEATHER FORECAST ?","Partly sunny
-Max UV Index: 4 (Moderate)
-Thunderstorms: 24%
-Precipitation: 0 mm
-Rain: 0 mm
-Snow: 0 CM
-Ice: 0 mm
-Hours of Precipitation: 0 hrs
-Hours of Rain: 0 hrs","JAMMU AND KASHMIR","BANDIPORE","HAJIN                                             ","2014-11-08 10:16:16.243"
-"RABI","HORTICULTURE","Vegetables","Knol-Khol","	Plant Protection	","HOW TO CONTROL APHID IN KNOL KHOL ?","SPRAY WITH CHLOROPYRIPHOS @ 2ML/LITER OF WATER","JAMMU AND KASHMIR","BANDIPORE","BANDIPORA                                         ","2014-11-09 08:11:51.437"
-"RABI","AGRICULTURE","Others","Others","Weather","WEATHER FORECAST ?","A full day of sunshine
-Max UV Index: 5 (Moderate)
-Thunderstorms: 0%
-Precipitation: 0 in
-Rain: 0 in
-Snow: 0 in
-Ice: 0 in
-Hours of Precipitation: 0 hrs
-Hours of Rain: 0 hrs","JAMMU AND KASHMIR","BANDIPORE","BANDIPORA                                         ","2014-11-09 10:53:48.397"
-"KHARIF","AGRICULTURE","Others","Others","Weather","weather forecast ?","A full day of sunshine
- Max UV Index: 5 (Moderate)
-Thunderstorms: 0%
-Precipitation: 0 in
-Rain: 0 in
-Snow: 0 in
-Ice: 0 in
-Hours of Precipitation: 0 hrs
-Hours of Rain: 0 hrs","JAMMU AND KASHMIR","BANDIPORE","BANDIPORA                                         ","2014-11-10 08:34:40.180"
-"RABI","AGRICULTURE","Others","Others","Weather","weather forecast?","full day of sunshine
-Max UV Index: 5 (Moderate)
-Thunderstorms: 0%
-Precipitation: 0 mm
-Rain: 0 mm
-Snow: 0 CM
-Ice: 0 mm
-Hours of Precipitation: 0 hrs
-Hours of Rain: 0 hrs","JAMMU AND KASHMIR","BANDIPORE","BANDIPORA                                         ","2014-11-11 10:51:05.717"
-"RABI","HORTICULTURE","Fruits","Apple","	Plant Protection	","HOW TO CONTROL MITES IN APPLE ?","SPRAY WITH Spiromesifen 240 SC (40 ml)IN 100 LITER OF WATER","JAMMU AND KASHMIR","BANDIPORE","BANDIPORA                                         ","2014-11-12 08:24:45.503"
-"RABI","HORTICULTURE","Fruits","Apple","	Plant Protection	","information regarding market price in apple tree","market price in apple tree is rs. 3800-4300/q","JAMMU AND KASHMIR","BANDIPORE","SUMBAL                                            ","2014-11-15 13:15:55.573"
-"KHARIF","AGRICULTURE","Others","Others","	Field Preparation	","WEATHER  FORECAST   ?","Pleasant with plenty of sunshine
- Max UV Index: 5 (Moderate)
-Thunderstorms: 0%
-Precipitation: 0 in
-Rain: 0 in
-Snow: 0 in
-Ice: 0 in
-Hours of Precipitation: 0 hrs
-Hours of Rain: 0","JAMMU AND KASHMIR","BANDIPORE","BANDIPORA                                         ","2014-11-16 07:22:41.047"
-"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER FORECAST  ?","Pleasant with plenty of sunshine
- Max UV Index: 5 (Moderate)
-Thunderstorms: 0%
-Precipitation: 0 in
-Rain: 0 in
-Snow: 0 in
-Ice: 0 in
-Hours of Precipitation: 0 hrs
-Hours of Rain: 0","JAMMU AND KASHMIR","BANDIPORE","BANDIPORA                                         ","2014-11-16 08:20:51.147"
-"RABI","AGRICULTURE","Others","Others","Weather","WEATHER FORECAST ?","Pleasant with plenty of sunshine
-Max UV Index: 5 (Moderate)
-Thunderstorms: 0%
-Precipitation: 0 mm
-Rain: 0 mm
-Snow: 0 CM
-Ice: 0 mm
-Hours of Precipitation: 0 hrs
-Hours of Rain: 0 hrs","JAMMU AND KASHMIR","BANDIPORE","BANDIPORA                                         ","2014-11-16 08:38:16.290"
-"RABI","AGRICULTURE","Others","Others","Weather","WEATHER FORECAST ?","Nice with plenty of sunshine
-Max UV Index: 4 (Moderate)
-Thunderstorms: 0%
-Precipitation: 0 mm
-Rain: 0 mm
-Snow: 0 CM
-Ice: 0 mm
-Hours of Precipitation: 0 hrs
-Hours of Rain: 0 hrs","JAMMU AND KASHMIR","BANDIPORE","BANDIPORA                                         ","2014-11-16 16:39:14.020"
-"RABI","HORTICULTURE","Fruits","Apple","	Plant Protection	","SEED RATE OF GARLIC PER KANAL ?","SEED RATE OF GARLIC PER KANAL IS 40-50KG","JAMMU AND KASHMIR","BANDIPORE","SUMBAL                                            ","2014-11-18 16:18:00.887"
-"RABI","HORTICULTURE","Vegetables","Knol-Khol","Cultural Practices","SEED RATE OF KNOL KHOL PER KANAL ?","SEED RATE OF KNOL KHOL PER KANAL IS 60-80GM.","JAMMU AND KASHMIR","BANDIPORE","HAJIN                                             ","2014-11-20 15:20:10.830"
-"RABI","HORTICULTURE","Fruits","Apple","Weather","TODAYS WEATHER FORECAST ?","Clear to partly cloudy
-Max UV Index: N/A
-Thunderstorms: 0%
-Precipitation: 0 mm
-Rain: 0 mm
-Snow: 0 CM
-Ice: 0 mm
-Hours of Precipitation: 0 hrs
-Hours of Rain: 0 hrs","JAMMU AND KASHMIR","BANDIPORE","SUMBAL                                            ","2014-11-21 17:16:17.167"
-"RABI","HORTICULTURE","Fruits","Apple","Weather","TODAYS WEATHER FORECAST ?","Clear to partly cloudy
-Max UV Index: N/A
-Thunderstorms: 0%
-Precipitation: 0 mm
-Rain: 0 mm
-Snow: 0 CM
-Ice: 0 mm
-Hours of Precipitation: 0 hrs
-Hours of Rain: 0 hrs","JAMMU AND KASHMIR","BANDIPORE","SUMBAL                                            ","2014-11-21 17:25:10.363"
-"RABI","AGRICULTURE","Others","Others","Varieties","weather forecast ?","Sunny
-Max UV Index: 5 (Moderate)
-Thunderstorms: 24%
-Precipitation: 0 in
-Rain: 0 in
-Snow: 0 in
-Ice: 0 in
-Hours of Precipitation: 0 hrs
-Hours of Rain: 0 hrs","JAMMU AND KASHMIR","BANDIPORE","SUMBAL                                            ","2014-11-22 07:29:12.840"
-"KHARIF","AGRICULTURE","Fodder Crops","White Clover (Shaftal)","Cultural Practices","INFORMATION REGARDING AVAILABILITY OF GRASS SEED IN THE DEPARTMENT ?","FARMER REDIRECTED TO LOCAL AGRICULTURE OFFICE FOR THE AVAILABILITY OF SEED .","JAMMU AND KASHMIR","BANDIPORE","SUMBAL                                            ","2014-11-22 08:02:57.473"
-"RABI","HORTICULTURE","Fruits","Apple","	Plant Protection	","HOW TO CONTROL LICHEN GROWTH IN APPLE ?","SPRAY WITH COPPER OXYCHLORIDE @ 300GM IN 100 LITER OF WATER","JAMMU AND KASHMIR","BANDIPORE","SUMBAL                                            ","2014-11-22 10:50:32.910"
-"RABI","AGRICULTURE","Others","Others","Weather","WEATHER FORECAST","Plenty of sunshine
-
-Max UV Index: 4 (Moderate) 
-Thunderstorms: 0% 
-Precipitation: 0 mm 
-Rain: 0 mm 
-Snow: 0 CM 
-Ice: 0 mm 
-Hours of Precipitation: 0 hrs 
-Hours of Rain: 0 hrs","JAMMU AND KASHMIR","BANDIPORE","HAJIN                                             ","2014-11-23 08:19:36.557"
-"RABI","AGRICULTURE","Others","Others","Weather","WEATHER REPORT","Increasing cloudiness
-Max UV Index: 4 (Moderate)
-Thunderstorms: 0%
-Precipitation: 0 mm
-Rain: 0 mm
-Snow: 0 CM
-Ice: 0 mm
-Hours of Precipitation: 0 hrs
-Hours of Rain: 0 hrs","JAMMU AND KASHMIR","BANDIPORE","BANDIPORA                                         ","2014-11-24 08:04:40.760"
-"RABI","AGRICULTURE","Others","Others","Weather","WEATHER FORECAST","Partly sunny
-
-Max UV Index: 4 (Moderate) 
-Thunderstorms: 0% 
-Precipitation: 0 mm 
-Rain: 0 mm 
-Snow: 0 CM 
-Ice: 0 mm 
-Hours of Precipitation: 0 hrs 
-Hours of Rain: 0 hrs","JAMMU AND KASHMIR","BANDIPORE","SUMBAL                                            ","2014-11-24 08:25:04.180"
-"RABI","AGRICULTURE","Others","Others","Weather","weather forecast?","Increasing cloudiness
-Max UV Index: 4 (Moderate)
-Thunderstorms: 0%
-Precipitation: 0 in
-Rain: 0 in
-Snow: 0 in
-Ice: 0 in
-Hours of Precipitation: 0 hrs
-Hours of Rain: 0 hrs","JAMMU AND KASHMIR","BANDIPORE","HAJIN                                             ","2014-11-24 13:03:23.393"
-"RABI","AGRICULTURE","Others","Others","Weather","WEATHER FORECAST","Partly sunny and nice
-Max UV Index: 3 (Moderate)
-Thunderstorms: 0%
-Precipitation: 0 mm
-Rain: 0 mm
-Snow: 0 CM
-Ice: 0 mm
-Hours of Precipitation: 0 hrs
-Hours of Rain: 0 hrs","JAMMU AND KASHMIR","BANDIPORE","HAJIN                                             ","2014-11-25 09:42:02.697"
-"RABI","AGRICULTURE","Others","Others","Seeds","SEED AVALABILITY","VISIT TO NEAREST AGRICULTURE DEPTT.","JAMMU AND KASHMIR","BANDIPORE","BANDIPORA                                         ","2014-11-25 10:41:32.450"
-"RABI","AGRICULTURE","Others","Others","Weather","weather forecast?","Sunny to partly cloudy and pleasant
-Max UV Index: 4 (Moderate)
-Thunderstorms: 0%
-Precipitation: 0 in
-Rain: 0 in
-Snow: 0 in
-Ice: 0 in
-Hours of Precipitation: 0 hrs
-Hours of Rain: 0 hrs","JAMMU AND KASHMIR","BANDIPORE","SUMBAL                                            ","2014-11-25 11:35:13.300"
-"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER","Mostly cloudy; occasional morning rain and drizzle followed by a passing shower this afternoon
- Max UV Index: 3 (Moderate)
-Thunderstorms: 20%
-Precipitation: 0.07 in
-Rain: 0.07 in
-Snow: 0 in
-Ice: 0 in
-Hours of Precipitation: 2 hrs
-Hours of Rain: 2 hrs","JAMMU AND KASHMIR","BANDIPORE","HAJIN                                             ","2014-11-27 08:02:11.743"
-"RABI","AGRICULTURE","Others","Others","	Plant Protection	","CANKER","FIRST CLEAN INFECTED AREA WITH SHARP KNIFE AND THEN APPLY BORDEAUX PASTE","JAMMU AND KASHMIR","BANDIPORE","BANDIPORA                                         ","2014-11-27 08:13:22.133"
-"RABI","AGRICULTURE","Others","Others","Weather","WEATHER FORECAST","Mostly cloudy and cooler with a couple of showers
-Max UV Index: 2 (Low)
-Thunderstorms: 20%
+"","HORTICULTURE","Fruits","Apple","	Plant Protection	","Fruit
+development-III","Flusilazole 40EC (20 ml)","JAMMU AND KASHMIR","BANDIPORE","HAJIN                                             ","2014-07-01 18:04:22.000"
+"JAYAD","HORTICULTURE","Fruits","Apple","	Plant Protection	","MITES","Propargite 57 EC (88 ml)/100LT WATER","JAMMU AND KASHMIR","BANDIPORE","SUMBAL                                            ","2014-07-03 08:20:53.000"
+"JAYAD","HORTICULTURE","Fruits","Apple","	Plant Protection	","HOW TO CONTROL ROOT ROT IN APPLE ?","DRENCH THE ROOT WITH CARBENDAZIM @ 2GM/LITRE OF WATER","JAMMU AND KASHMIR","BANDIPORE","BANDIPORA                                         ","2014-07-03 10:54:57.000"
+"JAYAD","HORTICULTURE","Fruits","Apple","	Plant Protection	","HOW TO CONTROL ROOT ROT IN APPLE ?","DRENCH THE ROOT WITH CARBENDAZIM @ 2GM/LITRE OF WATER","JAMMU AND KASHMIR","BANDIPORE","BANDIPORA                                         ","2014-07-03 12:49:01.000"
+"JAYAD","HORTICULTURE","Fruits","Apple","Weather","TODAYS WEATHER FORECAST ?","Times of clouds and sun with a shower or thunderstorm around
+Max UV Index: 7 (High)
+Thunderstorms: 46%
 Precipitation: 6 mm
 Rain: 6 mm
 Snow: 0 CM
 Ice: 0 mm
-Hours of Precipitation: 4.5 hrs
-Hours of Rain: 4.5 hrs","JAMMU AND KASHMIR","BANDIPORE","BANDIPORA                                         ","2014-11-27 08:16:10.827"
-"KHARIF","AGRICULTURE","Others","Others","	Plant Protection	","WEATHER  FOREACST   ?","Mostly cloudy; occasional morning rain and drizzle followed by a passing shower this afternoon
- Max UV Index: 3 (Moderate)
-Thunderstorms: 20%
-Precipitation: 0.07 in
-Rain: 0.07 in
-Snow: 0 in
-Ice: 0 in
-Hours of Precipitation: 2 hrs
-Hours of Rain: 2 hrs","JAMMU AND KASHMIR","BANDIPORE","BANDIPORA                                         ","2014-11-27 08:37:21.503"
-"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER  FORECAST  ?","Partly sunny with a passing shower
- Max UV Index: 3 (Moderate)
-Thunderstorms: 20%
-Precipitation: 0.04 in
-Rain: 0.04 in
-Snow: 0 in
-Ice: 0 in
+Hours of Precipitation: 1.5 hrs
+Hours of Rain: 1.5 hrs","JAMMU AND KASHMIR","BANDIPORE","BANDIPORA                                         ","2014-07-03 16:39:31.000"
+"","AGRICULTURE","Others","Others","","weather report","Times of clouds and sun with a shower or thunderstorm around
+Max UV Index: 11 (Extreme)
+Thunderstorms: 40%
+Precipitation: 10 mm
+Rain: 10 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 1.5 hrs
+Hours of Rain: 1.5 hrs","JAMMU AND KASHMIR","BANDIPORE","BANDIPORA                                         ","2014-07-04 15:46:44.000"
+"JAYAD","AGRICULTURE","Others","Others","","INFORMATION REGARDING WEATHER?","Times of clouds and sun with a shower or thunderstorm around this afternoon
+Max UV Index: 10 (Extreme)
+Thunderstorms: 40%
+Precipitation: 3 mm
+Rain: 3 mm
+Snow: 0 CM
+Ice: 0 mm
 Hours of Precipitation: 1 hrs
-Hours of Rain: 1 hrs","JAMMU AND KASHMIR","BANDIPORE","BANDIPORA                                         ","2014-11-27 13:44:52.260"
-"RABI","AGRICULTURE","Others","Others","Weather","weather forecast?","Periods of rain and drizzle late this morning followed by a passing shower this afternoon
-Max UV Index: 2 (Low)
-Thunderstorms: 20%
-Precipitation: 2 mm
-Rain: 2 mm
+Hours of Rain: 1 hrs","JAMMU AND KASHMIR","BANDIPORE","HAJIN                                             ","2014-07-06 11:53:11.000"
+"JAYAD","HORTICULTURE","Fruits","Apple","","INFORMATION REGARDING RUSTING ON APPLE?","SPRAY OF ZIRAM @ 600 ML IN 100 LT OF WATER","JAMMU AND KASHMIR","BANDIPORE","HAJIN                                             ","2014-07-06 11:54:36.000"
+"JAYAD","HORTICULTURE","Fruits","Apple","","information regarding control of leaf curl in apple tree","spray chloropyriphos 20ec @ 2ml /litre of water","JAMMU AND KASHMIR","BANDIPORE","HAJIN                                             ","2014-07-06 11:55:30.000"
+"JAYAD","HORTICULTURE","Fruits","Apple","Weather","TODAYS WEATHER FORECAST ?","Partly sunny with a shower or thunderstorm in spots this afternoon
+
+Max UV Index: 10 (Extreme) 
+Thunderstorms: 40% 
+Precipitation: 1 mm 
+Rain: 1 mm 
+Snow: 0 CM 
+Ice: 0 mm 
+Hours of Precipitation: 0.5 hrs 
+Hours of Rain: 0.5 hrs","JAMMU AND KASHMIR","BANDIPORE","SUMBAL                                            ","2014-07-06 14:19:18.000"
+"JAYAD","HORTICULTURE","Fruits","Apple","	Plant Protection	","ZIRMA  MIXED WITH  INSECTICIDE.","Ziram 80 WP (200 g) + Quinalphos 25 EC (100 ml)
+, Ziram 80 WP (200 g) + Fenazaquin10 EC (40 ml)","JAMMU AND KASHMIR","BANDIPORE","HAJIN                                             ","2014-07-07 15:02:57.000"
+"JAYAD","AGRICULTURE","Others","Others","	Field Preparation	","WEATHER FOREACST  ?","Partly sunny with a brief shower or two
+ Max UV Index: 12 (Extreme)
+Thunderstorms: 24%
+Precipitation: 1 mm
+Rain: 1 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 1.5 hrs
+Hours of Rain: 1.5 hrs","JAMMU AND KASHMIR","BANDIPORE","HAJIN                                             ","2014-07-07 16:44:07.000"
+"JAYAD","HORTICULTURE","Fruits","Apple","","CONTROL OF   CATERPILLER  IN  APPLE  LEAVES  ?","SPRAY   CHLOROPYRIPHOS OR   DIMETHOATE OR QUNILAPHOS.","JAMMU AND KASHMIR","BANDIPORE","BANDIPORA                                         ","2014-07-07 17:42:04.000"
+"JAYAD","HORTICULTURE","Vegetables","Brinjal","Cultural Practices","HOW TO CONTROL WEEDS IN VEGITABLE CROPS ?","SPRAY PEDIMETHALINE @ 1 LITER / ACRE","JAMMU AND KASHMIR","BANDIPORE","SUMBAL                                            ","2014-07-07 20:31:51.000"
+"JAYAD","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","ROOT ROT","CARBENDAZIM 3G/LT WATER","JAMMU AND KASHMIR","BANDIPORE","BANDIPORA                                         ","2014-07-11 07:05:16.000"
+"","AGRICULTURE","Others","Others","","weather report","rain  on 17th july","JAMMU AND KASHMIR","BANDIPORE","SUMBAL                                            ","2014-07-11 15:32:23.000"
+"JAYAD","HORTICULTURE","Fruits","Apple","	Plant Protection	","CONTROL FOR ALTERNARIA IN APPLE ?","SPRAY ZIRAM 27 W/V 600 ML./ 100 LT. WATER","JAMMU AND KASHMIR","BANDIPORE","BANDIPORA                                         ","2014-07-13 11:47:53.000"
+"JAYAD","AGRICULTURE","Others","Others","	Field Preparation	","PROTECTED CULTIVATION","CABBAGE, CAULIFLOWER AND KNOL KNOL","JAMMU AND KASHMIR","BANDIPORE","BANDIPORA                                         ","2014-07-14 10:29:36.000"
+"JAYAD","HORTICULTURE","Vegetables","Knol-Khol","Cultural Practices","HOW TO CONTROL BLACK ROT IN KNOL KHOL ?","SPRAY STREPTOCYCLINE @ 1 GM IN 20 LITERS OF WATER .","JAMMU AND KASHMIR","BANDIPORE","SUMBAL                                            ","2014-07-15 19:08:11.000"
+"JAYAD","HORTICULTURE","Vegetables","Onion","Cultural Practices","HOW TO CONTROL DOWNY MILDEW IN ONION CROP ?","SPRAY RODOMIL MZ @ 2 ML IN 1 LITER OF WATER .","JAMMU AND KASHMIR","BANDIPORE","SUMBAL                                            ","2014-07-15 19:08:55.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","Cultural Practices","HOW TO CONTROL THREAD WORMS IN PADDY FIELD ?","APPLY PHORATE 10 G @ 500 GM / KANAL .","JAMMU AND KASHMIR","BANDIPORE","SUMBAL                                            ","2014-07-15 19:09:43.000"
+"JAYAD","HORTICULTURE","Fruits","Apple","Cultural Practices","HOW TO CONTROL ALTERNARIA LEAF BLIGHT IN APPLE TREES ?","SPRAY FLUSILAZOLE 40 EC @ 20 ML IN 100 LITER OF WATER .","JAMMU AND KASHMIR","BANDIPORE","SUMBAL                                            ","2014-07-15 19:10:28.000"
+"JAYAD","HORTICULTURE","Fruits","Apple","Cultural Practices","HOW TO CONTROL CANCKER IN APPLE TREES ?","CLEAN THE EFFECTED AREA AND APPLY BORDEAUX PASTE  .","JAMMU AND KASHMIR","BANDIPORE","SUMBAL                                            ","2014-07-15 19:11:19.000"
+"JAYAD","HORTICULTURE","Fruits","Apple","Cultural Practices","HOW TO CONTROL PIN HEAD SIZE BLACK SPOTS ON APPLE ?","SPRAY CALCIUM CHLORIDE 3 GM + BORIC ACID 1 GM IN 1 LITER OF WATER .","JAMMU AND KASHMIR","BANDIPORE","SUMBAL                                            ","2014-07-15 19:12:06.000"
+"JAYAD","HORTICULTURE","Fruits","Apple","Cultural Practices","HOW TO CONTROL ROOT ROT IN APPLE TREES ?","DRENCH THE ROOT ZONE OF THE TREE WITH CARBENDAZIM 75 WP @ 2 GM IN 1 LITER OF WATER","JAMMU AND KASHMIR","BANDIPORE","SUMBAL                                            ","2014-07-15 19:12:52.000"
+"JAYAD","HORTICULTURE","Vegetables","Cucumber","Cultural Practices","WHAT SHOULD BE THE SPACING IN CUCUMBER PLANTS ?","SPACING IN CUCUMBER PLANTS SHOULD BE 150 X 60 CM  .","JAMMU AND KASHMIR","BANDIPORE","SUMBAL                                            ","2014-07-15 19:13:42.000"
+"JAYAD","HORTICULTURE","Fruits","Pomegranate","Cultural Practices","HOW TO CONTROL FRUIT BORER IN POMEGRENATE ?","SPRAY METASYSTOX @ 2 ML IN 1 LITER OF WATER  , REPEAT THE SPRAY AT 15 DAYS INTERVAL .","JAMMU AND KASHMIR","BANDIPORE","SUMBAL                                            ","2014-07-15 19:14:40.000"
+"JAYAD","HORTICULTURE","Fruits","Apple","Weather","WEATHER FORECAST ?","Clouds and sun with a couple of showers
+Max UV Index: 10 (Extreme)
+Thunderstorms: 29%
+Precipitation: 5 mm
+Rain: 5 mm
 Snow: 0 CM
 Ice: 0 mm
 Hours of Precipitation: 2 hrs
-Hours of Rain: 2 hrs","JAMMU AND KASHMIR","BANDIPORE","SUMBAL                                            ","2014-11-27 13:45:16.507"
-"RABI","HORTICULTURE","Fruits","Apple","Weather","TODAYS WEATHER FORECAST ?","A touch of rain, some freezing this evening; otherwise, clouds breaking
+Hours of Rain: 2 hrs","JAMMU AND KASHMIR","BANDIPORE","SUMBAL                                            ","2014-07-16 07:54:38.000"
+"JAYAD","HORTICULTURE","Vegetables","Beans ","	Plant Protection	","CONTROL OF SNAIL IN BEANS ?","APPLY PHORATE 10G @ 500GM PER KANAL .","JAMMU AND KASHMIR","BANDIPORE","BANDIPORA                                         ","2014-07-16 16:40:39.000"
+"JAYAD","AGRICULTURE","Others","Others","	Field Preparation	","FERTILIZER APPLE","UREA 750 GM /TREE","JAMMU AND KASHMIR","BANDIPORE","SUMBAL                                            ","2014-07-17 10:00:12.000"
+"JAYAD","HORTICULTURE","Fruits","Apple","","CONTROL OF POWDEREY MILDEW IN APPLE TREE ?","SPRAY WETTABLE SULPHUR @ 3GM/LITRE OF WATER .","JAMMU AND KASHMIR","BANDIPORE","BANDIPORA                                         ","2014-07-18 17:22:26.000"
+"JAYAD","HORTICULTURE","Vegetables","Knol-Khol","Cultural Practices","HOW TO CONTROL BLACK ROT IN KNOL KHOL ?","SPRAY STREPTOCYCLINE @ 1 GM IN 20 LITERS OF WATER .","JAMMU AND KASHMIR","BANDIPORE","SUMBAL                                            ","2014-07-18 18:18:45.000"
+"","HORTICULTURE","Vegetables","Onion","Cultural Practices","HOW TO CONTROL DOWNY MILDEW IN ONION CROP ?","SPRAY RODOMIL MZ @ 2 ML IN 1 LITER OF WATER .","JAMMU AND KASHMIR","BANDIPORE","SUMBAL                                            ","2014-07-18 18:20:24.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","Cultural Practices","HOW TO CONTROL THREAD WORMS IN PADDY FIELD ?","APPLY PHORATE 10 G @ 500 GM / KANAL .","JAMMU AND KASHMIR","BANDIPORE","SUMBAL                                            ","2014-07-18 18:21:42.000"
+"JAYAD","HORTICULTURE","Fruits","Apple","Cultural Practices","HOW TO CONTROL ALTERNARIA LEAF BLIGHT IN APPLE TREES ?","SPRAY FLUSILAZOLE 40 EC @ 20 ML IN 100 LITER OF WATER .","JAMMU AND KASHMIR","BANDIPORE","SUMBAL                                            ","2014-07-18 18:22:44.000"
+"JAYAD","HORTICULTURE","Fruits","Apple","Cultural Practices","HOW TO CONTROL CANCKER IN APPLE TREES ?","CLEAN THE EFFECTED AREA AND APPLY BORDEAUX PASTE  .","JAMMU AND KASHMIR","BANDIPORE","SUMBAL                                            ","2014-07-18 18:23:49.000"
+"JAYAD","HORTICULTURE","Fruits","Pomegranate","Cultural Practices",".HOW TO CONTROL CANCKER IN APPLE TREES ?","CLEAN THE EFFECTED AREA AND APPLY BORDEAUX PASTE  .","JAMMU AND KASHMIR","BANDIPORE","SUMBAL                                            ","2014-07-18 18:25:01.000"
+"JAYAD","HORTICULTURE","Fruits","Apple","Cultural Practices","HOW TO CONTROL PIN HEAD SIZE BLACK SPOTS ON APPLE ?","SPRAY CALCIUM CHLORIDE 3 GM + BORIC ACID 1 GM IN 1 LITER OF WATER .","JAMMU AND KASHMIR","BANDIPORE","SUMBAL                                            ","2014-07-18 18:26:16.000"
+"JAYAD","HORTICULTURE","Fruits","Apple","Cultural Practices","HOW TO CONTROL ROOT ROT IN APPLE TREES ?","DRENCH THE ROOT ZONE OF THE TREE WITH CARBENDAZIM 75 WP @ 2 GM IN 1 LITER OF WATER","JAMMU AND KASHMIR","BANDIPORE","SUMBAL                                            ","2014-07-18 18:27:23.000"
+"JAYAD","HORTICULTURE","Vegetables","Cucumber","Cultural Practices","WHAT SHOULD BE THE SPACING IN CUCUMBER PLANTS ?","SPACING IN CUCUMBER PLANTS SHOULD BE 150 X 60 CM  .","JAMMU AND KASHMIR","BANDIPORE","SUMBAL                                            ","2014-07-18 18:28:24.000"
+"JAYAD","HORTICULTURE","Fruits","Sapota","Cultural Practices","HOW TO CONTROL FRUIT BORER IN POMEGRENATE ?","SPRAY METASYSTOX @ 2 ML IN 1 LITER OF WATER  , REPEAT THE SPRAY AT 15 DAYS INTERVAL .","JAMMU AND KASHMIR","BANDIPORE","SUMBAL                                            ","2014-07-18 18:29:46.000"
+"JAYAD","HORTICULTURE","Vegetables","Tomato","Cultural Practices","HOW TO CONTROL CUT WORMS IN TOMATO ?","APPLY LINDANE @ 1 KG / KANAL BEFORE TRANSPLANTING / SOWING .","JAMMU AND KASHMIR","BANDIPORE","SUMBAL                                            ","2014-07-18 18:31:46.000"
+"JAYAD","ANIMAL HUSBANDRY","Animal","Bovine(Cow,Buffalo)","Animal Nutrition","HOW TO INCREASE MILK PRODUCTION IN COW ?","GIVE OSTOVET + VIMERAL 50 GMS EACH MIXED WITH ANIMAL FEED ONCE IN A DAY FOR 15 DAYS .","JAMMU AND KASHMIR","BANDIPORE","SUMBAL                                            ","2014-07-18 18:32:50.000"
+"JAYAD","HORTICULTURE","Vegetables","Pea (Vegetable)","Cultural Practices","HOW TO CONTROL EARLY BLIGHT IN POTATO ?","SPRAY THE CROP WITH MANCOZEB 75 WP @ 2 GM IN 1 LITER OF WATER .","JAMMU AND KASHMIR","BANDIPORE","SUMBAL                                            ","2014-07-18 18:33:57.000"
+"JAYAD","HORTICULTURE","Vegetables","Chillies","Cultural Practices","HOW TO CONTROL DAMPING OFF IN CHILLIES ?","DRENCH THE CROP WITH CARBENDAZIM 75 WP @ 2 GM IN 1 LITER OF WATER","JAMMU AND KASHMIR","BANDIPORE","SUMBAL                                            ","2014-07-18 18:35:06.000"
+"JAYAD","HORTICULTURE","Vegetables","Cucumber","Cultural Practices","HOW TO CONTROL RED PUMPKIN BEETLE IN CUCUMBER ?","SPRAY SPRAY METASYSTOX 25 EC @ 2 ML IN 1 LITER OF WATER .","JAMMU AND KASHMIR","BANDIPORE","SUMBAL                                            ","2014-07-18 18:36:05.000"
+"JAYAD","AGRICULTURE","Millets","Maize (Makka)","Cultural Practices","HOW TO CONTROL WEEDS IN MAIZE CROP ?","SPRAY THE FIELD WITH ATRAZINE @ 1 KG IN 800-1000 LITERS OF WATER / HA ,ONE DAY AFTER SOWING .","JAMMU AND KASHMIR","BANDIPORE","SUMBAL                                            ","2014-07-18 18:37:29.000"
+"JAYAD","HORTICULTURE","Fruits","Apple","Cultural Practices","WHICH FUNGICIDE SHOULD BE APPLIED ON APPLE TREES AT FRUIT DEVELOPMENT STAGE 2 ?","Spray Hexaconazole 5EC (50 ml) Flusilazole 40EC (20 ml) Diniconazole 25WP (40 g) .","JAMMU AND KASHMIR","BANDIPORE","SUMBAL                                            ","2014-07-18 18:38:37.000"
+"JAYAD","HORTICULTURE","Vegetables","Chillies","Cultural Practices","HOW TO CONTROL WEEDS IN VEGITABLE CROPS ?","SPRAY PEDIMETHALINE @ 1 LITER / ACRE","JAMMU AND KASHMIR","BANDIPORE","SUMBAL                                            ","2014-07-18 18:39:48.000"
+"JAYAD","HORTICULTURE","Vegetables","Tomato","Cultural Practices","WHAT IS THE FERTILISER DOSE FOR TOMATO","APPLY UREA – 11 KG , DAP – 7 KG , MOP  - 11 KG / KANAL .","JAMMU AND KASHMIR","BANDIPORE","SUMBAL                                            ","2014-07-18 18:40:58.000"
+"JAYAD","HORTICULTURE","Vegetables","Tomato","Cultural Practices","HOW TO CONTROL EARLY BLIGHT IN TOMATO ?","SPRAY MANCOZEB 75 WP @ 2.5 GM IN 1 LITER OF WATER .","JAMMU AND KASHMIR","BANDIPORE","SUMBAL                                            ","2014-07-18 18:41:54.000"
+"JAYAD","HORTICULTURE","Fruits","Apple","Cultural Practices","HOW TO CONTROL STEM BORER IN APPLE TREES ?","PUT KEROCINE OIL IN THE HOLES MADE BY THE BORER AND CLOSE THE HOLES WITH MUD .","JAMMU AND KASHMIR","BANDIPORE","SUMBAL                                            ","2014-07-18 18:42:56.000"
+"JAYAD","HORTICULTURE","Vegetables","Tomato","	Plant Protection	","CONTROL FOR DOWNY MILDEW IN ATOMATO ?","SPRAY RODOMIL 2.5 GM. / 1 LT. WATER","JAMMU AND KASHMIR","BANDIPORE","HAJIN                                             ","2014-07-20 08:52:59.000"
+"JAYAD","HORTICULTURE","Vegetables","Chillies","Cultural Practices","HOW TO CONTROL DAMPING OFF IN CHILLIES ?","DRENCH THE CROP WITH CARBENDAZIM 75 WP @ 2 GM IN 1 LITER OF WATER","JAMMU AND KASHMIR","BANDIPORE","BANDIPORA                                         ","2014-07-22 19:05:07.000"
+"JAYAD","AGRICULTURE","Others","Others","	Field Preparation	","WEATHER  FORECST ?","Mainly cloudy with a shower or thunderstorm around
+ Max UV Index: 9 (Very High)
+Thunderstorms: 40%
+Precipitation: 3 mm
+Rain: 3 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 1.5 hrs
+Hours of Rain: 1.5 hrs","JAMMU AND KASHMIR","BANDIPORE","SUMBAL                                            ","2014-07-25 13:19:36.000"
+"JAYAD","HORTICULTURE","Fruits","Apple","Weather","TODAYS WETHER FORECAST ?","Mostly cloudy; occasional evening rain and drizzle followed by a thundershower in spots late
 Max UV Index: N/A
-Thunderstorms: 0%
-Precipitation: 0.04 in
-Rain: 0.02 in
-Snow: 0 in
-Ice: 0.02 in
-Hours of Precipitation: 1 hrs
-Hours of Rain: 0.5 hrs","JAMMU AND KASHMIR","BANDIPORE","SUMBAL                                            ","2014-11-27 15:57:47.517"
-"RABI","AGRICULTURE","Others","Others","Weather","WEATHER FORECAST","Intervals of clouds and sunshine
- Max UV Index: 3 (Moderate)
-Thunderstorms: 1%
-Precipitation: 0 in
-Rain: 0 in
-Snow: 0 in
-Ice: 0 in
-Hours of Precipitation: 0 hrs
-Hours of Rain: 0 hrs","JAMMU AND KASHMIR","BANDIPORE","BANDIPORA                                         ","2014-11-30 08:50:23.293"
-"RABI","HORTICULTURE","Fruits","Apple","Weather","WEATHER REPORT","Intervals of clouds and sunshine
-Max UV Index: 3 (Moderate)
-Thunderstorms: 4%
-Precipitation: 0 mm
-Rain: 0 mm
+Thunderstorms: 31%
+Precipitation: 1 mm
+Rain: 1 mm
 Snow: 0 CM
 Ice: 0 mm
-Hours of Precipitation: 0 hrs
-Hours of Rain: 0 hrs","JAMMU AND KASHMIR","BANDIPORE","SUMBAL                                            ","2014-11-30 09:57:13.523"
-"RABI","AGRICULTURE","Others","Others","Weather","POWDERY MILDEW","COPPER OYYCHLORIDE 100GM/100LT WATER","JAMMU AND KASHMIR","BANDIPORE","BANDIPORA                                         ","2014-11-30 10:22:49.500"
+Hours of Precipitation: 2 hrs
+Hours of Rain: 2 hrs","JAMMU AND KASHMIR","BANDIPORE","SUMBAL                                            ","2014-07-26 12:50:49.000"
+"JAYAD","HORTICULTURE","Fruits","Apple","	Plant Protection	","IRRIGATION TIME IN APPLE ?","4-5 IRRIGATION SHOULD BE GIVEN AT 15 DAYS INTERVAL .","JAMMU AND KASHMIR","BANDIPORE","BANDIPORA                                         ","2014-07-28 10:03:31.000"
+"JAYAD","HORTICULTURE","Vegetables","Tomato","	Plant Protection	","CONTROL FO BLIGHT IN TOMATO ?","SPRAY RIDOMIL MZ @ 2.5GM/LITRE OF WATER .REPEAT THE SPRAY AT 10 DAYS OF INTERVAL .","JAMMU AND KASHMIR","BANDIPORE","BANDIPORA                                         ","2014-07-28 11:37:50.000"
+"JAYAD","HORTICULTURE","Vegetables","Bottle Gourd ","","INFORMATION REGARDING DOSE OF CARBENDAZIM AND MANCOZEB?","DOSE OF CARBENDAZIM 2GM /LT AND MANCOZEB 3 GM /LT","JAMMU AND KASHMIR","BANDIPORE","SUMBAL                                            ","2014-07-30 09:30:45.000"
+"JAYAD","HORTICULTURE","Fruits","Apple","	Plant Protection	","SPRAY AT FRUIT DEVT. STAGE 4 IN APPLE ?","Difenaconazole 25 EC (30 ml)
+or
+Bitertanol 25 WP (50 g)
+or
+Fenarimol 12 EC (40 ml)
+or
+***Ziram 80 WP (200 g)
+or
+***Propineb 75 WP (300 g)/ 100 LT. WATER","JAMMU AND KASHMIR","BANDIPORE","SUMBAL                                            ","2014-07-30 09:52:30.000"
+"JAYAD","HORTICULTURE","Fruits","Apple","","INFORMATION REGARDING DOSE OF ZIRAM","DOSE OF ZIRAM IS 6GM/LITRE OF WATER","JAMMU AND KASHMIR","BANDIPORE","SUMBAL                                            ","2014-07-30 13:39:08.000"
+"JAYAD","HORTICULTURE","Fruits","Apple","","information regarding dose of ziram","dose of ziram is 6ml in 1 litre of water","JAMMU AND KASHMIR","BANDIPORE","HAJIN                                             ","2014-07-31 09:55:46.000"
+"","HORTICULTURE","Vegetables","Tomato","","downy mildew in tomato crop","spray mancozeb @ 2 gm in 1 lt water","JAMMU AND KASHMIR","BANDIPORE","SUMBAL                                            ","2014-07-31 18:55:03.000"

@@ -1,123 +1,304 @@
 "Season","Sector","Category","Crop","QueryType","QueryText","KCCAns","StateName","DistrictName","BlockName","CreatedOn"
-"RABI","AGRICULTURE","Others","Others","Government Schemes","farmer wants to information of government schemes ?","for better information please contact with R.A.E.O.","MADHYA PRADESH","SHEOPUR KALA","VIJAYPUR                                          ","2014-12-01 10:26:33.080"
-"RABI","HORTICULTURE","Vegetables","Peas (field peas/ garden peas/matar)","	Plant Protection	","Farmer want to know information about fungal attack in 	pea ?","Coper oxichloride 300-350gm(35-40gm/pump) + Streptocyclin 12gm(2gm/pump)/acre","MADHYA PRADESH","SHEOPUR KALA","VIJAYPUR                                          ","2014-12-02 13:01:17.877"
-"RABI","HORTICULTURE","Vegetables","Tomato","Fertilizer Use and Availability","Farmer want to know information about fertilizer doses in wheat ?","Tomato-Basal Dose-Urea-50kg,DAP-250kg,MOP-80kg,Top Dressing-Urea-50kg on 30 45 and 60 days","MADHYA PRADESH","SHEOPUR KALA","VIJAYPUR                                          ","2014-12-02 13:14:32.780"
-"RABI","AGRICULTURE","Cereals","Wheat","	Plant Protection	","farmer want to know information about seed treatment of wheat","recommended for   seed treatment of wheat treat the seed with vitavex 3gm/kg of seed","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-02 16:19:49.210"
-"RABI","AGRICULTURE","Others","Others","Market Information","Farmer wants to start mandi rate facility on mobile phone?","Your mandi rate facility registration has been successfully registered at kishan call center.","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-02 17:54:23.307"
-"RABI","HORTICULTURE","Vegetables","Potato","	Plant Protection	","how to control aphids of potato crop ?","Recommended for spray of Dimethoate (Rogar) @ 30-35 ml per 15 litter water .","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-03 12:28:22.250"
-"RABI","AGRICULTURE","Cereals","Wheat","	Plant Protection	","How to control of fungal attack in wheat crop?","Mancozeb 63% + Carbendazim 12% WP 40 gram and steptrocyclin 2 gram at 15 liter of water.","MADHYA PRADESH","SHEOPUR KALA","KARAHAL                                           ","2014-12-03 12:38:31.263"
-"RABI","HORTICULTURE","Vegetables","Potato","	Plant Protection	","how to control fungal disease ?","Spray Daiphenthuran (Pegasas) 10 to 15 gram at per pump.","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-03 12:44:18.220"
-"RABI","AGRICULTURE","Others","Others","Weather","farmer want to weather information of district?","No rainfall chance in your district and weather will some cloudy at next 5 days weather will some cloudy.","MADHYA PRADESH","SHEOPUR KALA","KARAHAL                                           ","2014-12-03 14:54:45.717"
-"RABI","HORTICULTURE","Condiments and Spices","Coriander","Water Management, Micro Irrigation","irrigation stages on coriander crop.","1st irrigation 30-35, second irrigation -50-60 day, third irrigation - 70-80 fourth irrigation- 90-100 and fifth irrigation-105-110 days.","MADHYA PRADESH","SHEOPUR KALA","VIJAYPUR                                          ","2014-12-04 08:09:47.393"
-"RABI","AGRICULTURE","Others","Others","Nutrient Management","What are fertilizer doses in GARLIC crop?","Recommended for Urea = 175 KG., DAP = 108. Kg., Muriate of potash = 50. Kg. and zinc sulphate 25 kg   Use per hectare.","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-05 07:53:46.937"
-"RABI","AGRICULTURE","Cereals","Barley (Jau)","	Plant Protection	","How Can We Control Fungus In Jau ?","You Can Spray Tebuconazole @ 200ml/Acre, Mencozeb + Carbindazim (Saaf or Sixer) @ 40 G /Pump To Control Fungus In  Jau .
-And Steptrocyclin 2 Gram per Pump .","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-05 09:29:50.690"
-"RABI","AGRICULTURE","Oilseeds","Mustard","	Plant Protection	","how to control aphids of mustard crop ?","spray neem oil 1500 ppm @ 5-7 ml per 15 litter water 
-or Recommended for spray Imidacloprid 17.8 % SL (confidor) @ 7 ml /pump .","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-05 13:40:25.000"
-"RABI","HORTICULTURE","Vegetables","Potato","	Plant Protection	","How to control of fungal attack in potato crop?","Recommended for Mancozeb 63% + Carbendazim 12% WP 40 gram and steptrocyclin 2 gram at 15 liter of water.","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-06 10:43:45.940"
-"RABI","HORTICULTURE","Vegetables","Peas (field peas/ garden peas/matar)","	Plant Protection	","how to control wilt of pea crop ?","spray thiophanate methyl 20 gram per pump .
-or captan + hexaconzol @15-20 gram per pump .","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-06 12:36:41.813"
-"RABI","AGRICULTURE","Cereals","Wheat","	Plant Protection	","Farmer want to know information about increasing crop ?","Recommended for NPK-19:19:19 100gm/pump","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-06 17:37:14.320"
-"RABI","AGRICULTURE","Others","Others","Weather","weather information ?","some clouds in your area","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-07 06:46:21.023"
-"RABI","AGRICULTURE","Cereals","Wheat","Nutrient Management","Which fertilizer and nutrient give for better growth in WHEAT crop?","Recommended for spray foliar application of IFFCO 19:19:19 water soluble fertilizer @ 100 gm/pump.","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-07 12:15:58.100"
-"RABI","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","How to control of fungal attack in brinjal  crop?","Mancozeb 63% + Carbendazim 12% WP 40 gram and steptrocyclin 2 gram at 15 liter of water.","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-07 17:18:19.270"
-"RABI","AGRICULTURE","Cereals","Wheat","Fertilizer Use and Availability","farmer want to know information about  Fertilizer dose in wheat crop ?","Urea 210 kg, DAP 130 kg and MOP 67 kg per hac.","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-07 19:03:39.530"
-"RABI","AGRICULTURE","Others","Others","Weather","weather report in sheopur ?","Sheopur 1 – 3 Day Weather Forecast Summary: Mostly dry. Warm (max 27°C on Mon afternoon, min 17°C on Wed morning). Wind will be generally light. Read More","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-07 20:55:13.700"
-"RABI","AGRICULTURE","Cereals","Paddy (Dhan)","Market Information","market rate information in paddy ?","Paddy(Dhan) 4572.5 Tonnes  Other FAQ 1401 2400 2000 Rs/Quintal","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-07 21:02:31.477"
-"RABI","AGRICULTURE","Others","Others","Weather","Farmer want  to know information about  weather forecast  ?","NEXT 5 DAYS  THERE IS NO RAINFALL IN YOUR DISTT NEXT 5 DAYS","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-08 07:53:30.047"
-"RABI","AGRICULTURE","Others","Others","Weather","farmer want to weather information of sheopur district?","light rainfall chance in your district and weather will some cloudy at next 5 days","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-08 09:46:43.097"
-"RABI","AGRICULTURE","Others","Others","Weather","farmer want to weather information of sheopur district?","light rainfall chance in your district and weather will some cloudy at next 5 days","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-08 10:32:25.467"
-"RABI","AGRICULTURE","Others","Others","Weather","farmer want to know information about  weather of sheopur ?","no chance of rainfall for next week for disrtrict sheopur","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-08 13:48:33.250"
-"RABI","AGRICULTURE","Others","Others","Weather","Farmer want to weather information ?","your district light rainfall 12,13 dec.    .","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-08 15:10:29.600"
-"RABI","AGRICULTURE","Cereals","Wheat","Fertilizer Use and Availability","Which Fertilizer And Nutrient Give For Better Growth In wheat Crop?","Spray N: P: K  @ 19:19:19 Grams And Humic Acid 30 Ml At 15 Liter Of Water For Better Growth In Potato Crop","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-08 15:30:52.253"
-"RABI","AGRICULTURE","Others","Others","Government Schemes","farmer want to start rate facility on mobile phone mandi?","your mandi registration complete.","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-08 17:53:25.243"
-"RABI","AGRICULTURE","Others","Others","Weather","Farmer want to know about weather information  ?","Recommended for rainfall 00 mm during 10 days","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-08 18:43:46.347"
-"RABI","AGRICULTURE","Others","Others","Weather","farmer want to know information about weather?","no chance of rainfall for next five days.","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-08 21:03:25.770"
-"RABI","AGRICULTURE","Cereals","Wheat","Weather","weather forcast in shivpur kala?","09/12               10/12               11/12               12/12               13/12
+"KHARIF","AGRICULTURE","Others","Others","	Plant Protection	","HOW TO CONTROL SUCKING PEST","Spray imidaclorprid 17.8%SL 5 to 6 ml per pump.","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-01 07:59:36.780"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","Weather","farmer want to know weather information ? ?","Rainfall (mm)00","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-01 18:17:46.630"
+"RABI","HORTICULTURE","Vegetables","Tomato","	Plant Protection	","How to develop flower in tomato crop?","Spray Plano fix 4 to 5 Ml at 15 liter of water.","MADHYA PRADESH","SHEOPUR KALA","VIJAYPUR                                          ","2014-10-01 18:18:25.390"
+"RABI","AGRICULTURE","Others","Others","Weather","Weather forecast?","???? ???? ????? ???    ????? ???? ?? ??????? ????  ???","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-01 19:53:22.197"
+"RABI","AGRICULTURE","Others","Others","Weather","Weather forecast?","???? ???? ????? ???    ????? ???? ?? ??????? ????  ???","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-01 19:57:10.583"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","Farmer want to know information about    SUCKING PEST IN PADDY ?","Spray imidaclorprid 17.8%SL 5 to 6 ml per pump.","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-01 21:16:44.303"
+"RABI","AGRICULTURE","Others","Others","Weather","Farmer want to know information about    weather forecast  ?","1 – 3 Day Weather Forecast Summary: Mostly dry. Warm (max 33°C on Sun afternoon, min 26°C on Sat night). Wind will be generally light.","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-01 21:21:19.907"
+"KHARIF","AGRICULTURE","Others","Others","Weather","Farmer want to know information about    weather forecast  ?","1 – 3 Day Weather Forecast Summary: Mostly dry. Warm (max 33°C on Sun afternoon, min 26°C on Sat night). Wind will be generally light.","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-01 21:21:32.087"
+"KHARIF","AGRICULTURE","Others","Others","Weather","Farmer want to know information about    weather forecast  ?","1 – 3 Day Weather Forecast Summary: Mostly dry. Warm (max 33°C on Sun afternoon, min 26°C on Sat night). Wind will be generally light.","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-01 21:21:45.567"
+"KHARIF","AGRICULTURE","Oilseeds","Soybean (bhat)","	Plant Protection	","How to control caterpillars in soyabean crop?","Spray of Queenolfos 25 EC 1000 Ml. / hac.","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-01 21:49:46.807"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","How to control Blast disease in paddy crop?","Spray Tricyclazol, hexacorazol, propiconazol 20-25 ml per pump and steptrocyclin 2 to 3 gram per pump.","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-02 07:51:55.100"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","Farmer want to know about how to control rice gall madige in paddy crop?","Recommended for Spray of Profenofos 40% + Cypermethrin 4% EC 1000 Ml. / hac.","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-02 09:25:23.157"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","Farmer want to know about how to control rice gall madige in paddy crop?","Recommended for Spray of Profenofos 40% + Cypermethrin 4% EC 1000 Ml. / hac.","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-02 09:25:27.153"
+"KHARIF","AGRICULTURE","Others","Others","Government Schemes","Farmer wants to start mandi rate facility on mobile phone?","Mandi rate facility has been successfully activated on your mobile phone.","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-02 09:30:02.990"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","How to control Blast disease in paddy crop?","Spray Tricyclazol, hexacorazol, propiconazol 20-25 ml per pump and steptrocyclin 2 to 3 gram per pump.","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-02 12:43:42.007"
+"KHARIF","AGRICULTURE","Others","Others","Weather","farmer  want to know information about  weather forecast ?","No chance of rainful youer diist.","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-02 15:28:53.487"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report in sheopur ?","Sheopur 1 – 3 Day Weather Forecast Summary: Mostly dry. Warm (max 36°C on Sat afternoon, min 28°C on Thu night). Wind will be generally light.","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-02 16:50:40.210"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","Howcan I Control Mili Bug In Paddy Crop ?","Management :-
+Remove the grasses and trim the bunds during the main field preparation before transplanting.
+Remove and destroy the affected plants.
+Spraying of Buprofezin (25 SC) @ 200 ml/ 200 lit of water for 1 acre (or)
+Spraying of Thiomethoxum (20 WDG) @ 100 g/ 200 lit of water for 1 acre (or)
+Spraying of Dimethoate (30 EC ) 400 ml along with Azardiractin 1000PPM
+can be used for controlling mealy bug infestation","MADHYA PRADESH","SHEOPUR KALA","VIJAYPUR                                          ","2014-10-03 07:07:24.840"
+"KHARIF","AGRICULTURE","Others","Others","Weather","Sheopur Weather Forecast – 10 Day (Madhya Pradesh, India)?","Sheopur 1 – 3 Day Weather Forecast Summary: Mostly dry. Warm (max 36°C on Sat afternoon, min 28°C on Fri night). Wind will be generally light.","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-03 08:58:28.257"
+"RABI","ANIMAL HUSBANDRY","Animal","Bovine(Cow,Buffalo)","Market Information","About animal purchasing marketing ?","Pls contact 18001801199 for more information","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-03 10:46:30.963"
+"RABI","AGRICULTURE","Cereals","Wheat","	Field Preparation	","farmer want to know information about varieties of Wheat crop?","Irrigated within time - Lok-1, MP 1142, HI 1077 (Mangala), DL803-3 (kanchan), GW 190, GW 273, GW 322, MP 1142, GW 366, HI 8381 (Malavshree), HI 8498 (Malav shakti).","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-03 11:29:50.917"
+"KHARIF","AGRICULTURE","Cereals","Wheat","	Plant Protection	","farmer want to know information about Seed treatment in wheat crop.","Use bavastim 3 gm per kg of seed","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-03 12:25:14.453"
+"RABI","AGRICULTURE","Others","Others","	Field Preparation	","FARMER INFORMATION MORE PROFIT CROP","VAGETAVALE PEA,TOMATO,CABBAGE,COLIFLOWER,POTATO,RADISH","MADHYA PRADESH","SHEOPUR KALA","KARAHAL                                           ","2014-10-03 21:23:18.853"
+"KHARIF","HORTICULTURE","Vegetables","Tomato","	Plant Protection	","How to control caterpillars in tomato crop?","Spray of Troijofos 40 EC 1000 Ml. / hac.
+Spray of Queenolfos 25 EC 1000 Ml. / hac","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-04 10:32:25.223"
+"KHARIF","HORTICULTURE","Vegetables","Cauliflower","	Plant Protection	","Farmer want to know about how to control catterpillers in cauliflower crop?","Recommended for Spray emamectin benjoate or corajan or fem 10 ml at 15 liter of water or indoxa carb 10 ml at 15 liter of water.","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-04 10:59:11.640"
+"KHARIF","HORTICULTURE","Vegetables","Cauliflower","	Plant Protection	","Farmer want to know about how to control catterpillers in cauliflower crop?","Recommended for Spray emamectin benjoate or corajan or fem 10 ml at 15 liter of water or indoxa carb 10 ml at 15 liter of water.","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-04 10:59:13.433"
+"KHARIF","AGRICULTURE","Others","Others","Weather","farmer want to weather information at sheopur district?","Current conditions
++34 °C
+ 3 m/s
+Clear
+Feels Like: +34°
+Barometer: 1011.2 hPa 
+Dewpoint: +18°
+Humidity: 37.4%
+Visibility: 4 km
+As of 04/10 11:30 am
+Observed at Kota Aerodrome","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-04 12:30:47.570"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","how to control chillies crop pest ?","rogor or fipronil or metasistox 30-35ml/pump spray","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-04 13:10:18.213"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","how to control fungal attack in paddy ?","recommended for spray to hexaconazol 15 gram/pump","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-04 16:29:44.927"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","How Can We Control Fungus In paddy ?","You Can Spray Tebuconazole @ 200ml/Acre, Mencozeb + Carbindazim (Saaf Or  Sixer)@ 40 G /Pump To Control Fungus In paddy.
+And Steptrocyclin 2  Gram Per Pump.","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-05 07:24:48.483"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","How can I Control Mili Bug In Paddy Crop ?","Management :-
+Remove the grasses and trim the bunds during the main field preparation before transplanting.
+Remove and destroy the affected plants.
+Spraying of Buprofezin (25 SC) @ 200 ml/ 200 lit of water for 1 acre (or)
+Spraying of Thiomethoxum (20 WDG) @ 100 g/ 200 lit of water for 1 acre (or)
+Spraying of Dimethoate (30 EC ) 400 ml along with Azardiractin 1000PPM
+can be used for controlling mealy bug infestation.","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-05 07:28:51.567"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","farmer want to know about control of aphids in paddy ?","Spray imidaclorprid 17.8%SL 5 to 6 ml per pump.","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-05 09:02:17.943"
+"KHARIF","AGRICULTURE","Others","Others","Sowing Time and Weather","Farmer want to know about inofrmation mandi regestration ?","mandi regestration completed","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-05 12:09:10.513"
+"KHARIF","AGRICULTURE","Oilseeds","Mustard","Seeds","farmer want to know information about Varieties of mustard?","recommended for Varieties of mustard JM-1 ,Swarn jyoti, basundhra,RGL-73,Pusa bold are the popular varieties under cultivation.","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-05 15:12:11.190"
+"KHARIF","AGRICULTURE","Oilseeds","Mustard","Seeds","farmer want to know information about Varieties of mustard?","recommended for Varieties of mustard JM-1 ,Swarn jyoti, basundhra,RGL-73,Pusa bold are the popular varieties under cultivation.","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-05 15:33:07.873"
+"KHARIF","AGRICULTURE","Others","Others","Weather","farmer want to know information about  weather of Sheopur  ?","no chance of rainfall for next week for disrtrict sheopur","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-05 20:04:59.400"
+"KHARIF","AGRICULTURE","Others","Others","Weather","farmer want to know information about weather forecast ?","DAY-1               DAY-2               DAY-3               DAY-4               DAY-5
+                              06/10               07/10               08/10               09/10               10/10
 ------------------- ------------------- ------------------- ------------------- ------------------- -------------------
-Rainfall (mm)                   0                   0                   0                   0                   0","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-08 21:28:36.597"
-"RABI","AGRICULTURE","Cereals","Wheat","	Plant Protection	","farmer want to know information about How to control white fly in crop?","Spray Dimethoate 30 EC (Rogar) or Triazophos 30 ml per pump.","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-08 21:36:39.687"
-"RABI","AGRICULTURE","Others","Others","Market Information","Farmer want to know information about to activate sms advisory scheme ?","To activate sms advisory scheme on your mobile number","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-09 07:33:00.140"
-"RABI","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Market Information","Farmer wants to know about mandi rate of cotton at bhikangawan mandi of Madhya Pradesh?","Dear in your's bhikangawan mandi the rate of cotton crop is 3840 Rs. minimum/quintal 4225 Rs. maximum/quintal 4085 Rs. average/quintal.","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-09 08:29:56.260"
-"RABI","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Market Information","Farmer wants to know about mandi rate of cotton at bhikangawan mandi of Madhya Pradesh?","Dear in your's bhikangawan mandi the rate of cotton crop is 3840 Rs. minimum/quintal 4225 Rs. maximum/quintal 4085 Rs. average/quintal.","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-09 08:30:58.810"
-"RABI","AGRICULTURE","Cereals","Wheat","Varieties","farmer want to know information about LATE varieties of Wheat crop?","MP-4010,HD-2864","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-09 19:26:40.433"
-"RABI","AGRICULTURE","Cereals","Wheat","Varieties","farmer want to know information about varieties of irrigated wheat?","recommended for   varieties of irrigated wheat M.P. 1142, H.I. 1077, G.W. 273, G.W. 322, G. W. 190, Raj 1555, H.D. 4530, H.I. 8498, H.I 8381, J.W. 1106, Sudha, j.w 3211,j.w. 3288,j.w 3173 are the popular varieties under cultivation","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-10 09:07:33.820"
-"RABI","AGRICULTURE","Cereals","Wheat","Fertilizer Use and Availability","Fertilizer dose in wheat crop?","Urea 210 kg, DAP 130 kg and MOP 67 kg per hac.","MADHYA PRADESH","SHEOPUR KALA","KARAHAL                                           ","2014-12-10 16:41:30.927"
-"RABI","AGRICULTURE","Cereals","Wheat","	Plant Protection	","farmaer want to information abut to increase growth of  wheat crop ?","Ans:- recommended for foliar application of IFFCO 19:19:19 water soluble fertilizer @ 100 gm/pump.","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-10 18:10:06.700"
-"RABI","AGRICULTURE","Others","Others","Government Schemes","Agriculture government schemes information?","Recommended for Please contact your RHEO","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-11 07:41:32.977"
-"RABI","HORTICULTURE","Condiments and Spices","Coriander","	Plant Protection	","Farmer want to know about how to control nerrow leaves weeds in onion crop?","Recommended for Propaquizafop 10% EC 200 ml at per acer.","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-11 07:59:00.940"
-"RABI","HORTICULTURE","Fruits","Pomegranate","	Plant Protection	","Farmer wants to know about how to control fruit fly in  pomeganetame  ?","Recommended for control of fruit fly spray deltamethrin 30 ml at 15 liter of water.","MADHYA PRADESH","SHEOPUR KALA","KARAHAL                                           ","2014-12-11 11:02:09.177"
-"RABI","AGRICULTURE","Others","Others","Weather","Farmer want to know information about  weather  farecast  in sheopur district?","Chance of low rainfall for 12-13 decembar in  sheopur district.","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-11 19:55:42.373"
-"RABI","AGRICULTURE","Others","Others","Weather","Farmer want to know information about  weather  farecast  in sheopur district?","Chance of low rainfall for 12-13 decembar in  sheopur district.","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-11 19:57:33.380"
-"RABI","AGRICULTURE","Others","Others","Weather","Weather forecasting for Sheopur district of Madhya Pradesh?","13/12               14/12               15/12               16/12               17/12
+Rainfall (mm)                   0                   0                   0                   0                   0","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-06 06:50:48.730"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","farmer want to know information about blast attack of paddy?","Ans.- spray tricyclazole 75% wp 200gm. per acre","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-06 06:59:00.960"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","Farmer want to know information about fungal attack in paddy ?","Use copper oxy chloride 45 gram and steptrocyclin 2 gram at 15 liter of water.
+Mancozeb 63% + Carbendazim 12% WP 40 gram and steptrocyclin 2 gram at 15 liter of water","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-06 15:46:53.737"
+"KHARIF","AGRICULTURE","Oilseeds","Sesame (Gingelly/Til)/Sesamum","Market Information","farmer want to know information about  market rate of wheat crop In kota mandi  ?","Minimum Price(Rs-7800/Quintal) ,  Maximum Price(Rs-7800./Quintal)-, Modal Price
+(Rs -7800/Quintal","MADHYA PRADESH","SHEOPUR KALA","VIJAYPUR                                          ","2014-10-06 16:08:24.527"
+"KHARIF","AGRICULTURE","Others","Others","Weather","farmer want to weather information of district?","No rainfall chance in your district and weather will some cloudy at next 5 days weather will some cloudy.","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-07 06:54:55.137"
+"KHARIF","AGRICULTURE","Oilseeds","Mustard","	Plant Protection	","farmer want to know information about Varieties of mustard?","recommended for Varieties of mustard JM-1 ,Swarn jyoti, basundhra,RGL-73,Pusa bold are the popular varieties under cultivation.","MADHYA PRADESH","SHEOPUR KALA","VIJAYPUR                                          ","2014-10-07 06:56:22.933"
+"KHARIF","HORTICULTURE","Vegetables","Tomato","	Plant Protection	","How to reduce effect of herbicide in tomato crop?","Spray glucose 100 to 150 gram per pump.","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-07 08:53:56.160"
+"RABI","AGRICULTURE","Cereals","Wheat","Market Information","information about mandi regestration ?","regesteration completed","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-07 16:33:32.840"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","How to control white fly in tomato crop?","Spray imidaclorprid 17.8%SL 5 to 6 ml per pump.","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-08 06:48:04.403"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","Farmer want to know information about fungal attack in","Coper oxichloride 300-350gm(35-40gm/pump) + Streptocyclin 12gm(2gm/pump)/acre","MADHYA PRADESH","SHEOPUR KALA","VIJAYPUR                                          ","2014-10-08 08:29:31.983"
+"KHARIF","AGRICULTURE","Others","Others","Crop Insurance","farmer want to know information about agriculture insurance.","Recommended for to know information about agriculture insurance contact to your nearest bank  & dial 0755-4218901,4218902,4218903","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-08 11:43:02.483"
+"KHARIF","AGRICULTURE","Others","Others","Weather","Farmer want to know about weather information  ?","DAY-1               DAY-2               DAY-3               DAY-4               DAY-5
+                              09/10               10/10               11/10               12/10               13/10
+Rainfall (mm)                   0                   0                   0                   0                   0","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-08 16:40:57.867"
+"RABI","AGRICULTURE","Others","Others","Weather","Farmer want to information about weather forecast ?","----------------------------------------------------------------------------------------------------
+                              DAY-1               DAY-2               DAY-3               DAY-4               DAY-5
+                              09/10               10/10               11/10               12/10               13/10
 ------------------- ------------------- ------------------- ------------------- ------------------- -------------------
-Rainfall (mm)                   3                  17                   0                   0                   0","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-12 10:18:25.967"
-"RABI","AGRICULTURE","Others","Others","Weather","Farmer want to know information about weather forecasting ?","DAY-1               DAY-2               DAY-3               DAY-4               DAY-5
-                              13/12               14/12               15/12               16/12               17/12
+Rainfall (mm)                   0                   0                   0                   0                   0","MADHYA PRADESH","SHEOPUR KALA","VIJAYPUR                                          ","2014-10-08 21:07:25.590"
+"RABI","AGRICULTURE","Others","Others","Market Information","Farmer want to information about mandi  registration?","Now your number is registered hear for manndi  rate","MADHYA PRADESH","SHEOPUR KALA","VIJAYPUR                                          ","2014-10-08 21:10:14.270"
+"KHARIF","AGRICULTURE","Others","Others","Weather","farmer want to know information about weather in sheopur district?","no chance of rainfall for next week for sheopur dist.","MADHYA PRADESH","SHEOPUR KALA","VIJAYPUR                                          ","2014-10-08 21:21:24.160"
+"KHARIF","AGRICULTURE","Others","Others","	Plant Protection	","HOW TO CONTROL OF CATTERPILAR","Profenofos 30% + Cypermethrin 4% EC 1000 Ml. / hac. Rate of spray.","MADHYA PRADESH","SHEOPUR KALA","KARAHAL                                           ","2014-10-09 11:16:13.330"
+"RABI","HORTICULTURE","Vegetables","Tomato","Seeds and Planting Material","varieties of  tomato ?","namdhari 501, namdhari shaktiman","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-09 11:47:51.083"
+"KHARIF","AGRICULTURE","Cereals","Wheat","Varieties","Varieties of Wheat crop?","Unirrigated – sujata, MP 3020, HW 2004 (amar), JWS 17, HI 1500, HI 1531, HI 4672 (Malavratna), HI 8627, HI 7483 (Meghdut)
+Irrigated within time - Lok-1, MP 1142, HI 1077 (Mangala), DL803-3 (kanchan), GW 190, GW 273, GW 322, MP 1142, GW 366, HI 8381 (Malavshree), HI 8498 (Malav shakti).
+Irrigated Late sown- Lok-1, GW 173, DL 788-2 (vidisha), HI 1454 (Abha), MP 4010, HI 1418 (Naveen Chandusi), HD 2402, HD 2932 (Pust wheat-111)","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-09 16:24:18.270"
+"KHARIF","AGRICULTURE","Others","Others","Market Information","farmer want to know information about registration of market information?","You have been registered for market information from kisaan call center","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-09 20:02:18.903"
+"KHARIF","AGRICULTURE","Others","Others","Market Information","Farmer want to information about mandi  registration?","Now your number is registered hear for manndi  rate","MADHYA PRADESH","SHEOPUR KALA","KARAHAL                                           ","2014-10-10 14:28:25.127"
+"KHARIF","AGRICULTURE","Others","Others","Market Information","farmer wants to information of weather of sheopur district?","??????? ????????????
+????? ???? +33 ???.
+E 1 ??/??.
+????? ????
+???? ??: +33°
+????????: 1010.4 ???????????? 
+?????: +17°
+???: 39.5%
+????????????: 4 ????????
+???? ?? 10.10. 11:30 am
+?? ???? ??? Kota Aerodrome
+????? ????????, Kota Aerodrome > 3 ?????? ?????????
+?? 
+????? ????
+??????: +36°
+???????: +21°
+?? 
+????? ????
+??????: +37°
+???????: +21°
+?????? 
+????? ????
+??????: +37°
+???????: +20°
+10 ?????? ??????????? >","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-10 15:02:42.070"
+"RABI","AGRICULTURE","Cereals","Paddy (Dhan)","Market Information","Mandi rate of Paddy ?","Dabra mandi 09/10/2014	27.6	Other	1882	2627	2260","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-11 06:44:53.870"
+"KHARIF","HORTICULTURE","Condiments and Spices","Coriander","Seeds and Planting Material","variety of coriander ?","Simpo S-33, JD-1, RCR 41,   RCR 437, RG 41, Kumbha Raj,","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-11 08:49:07.537"
+"RABI","AGRICULTURE","Others","Others","Sowing Time and Weather","Farmer want to know information about weather forecast ?","Sheopur 1 – 3 Day Weather Forecast Summary: Light rain (total 4mm), mostly falling on Mon night. Warm (max 34°C on Sun afternoon, min 23°C on Mon night). Winds increasing (light winds from the ENE on Sun morning, fresh winds from the NE by Tue morning).","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-12 06:40:30.557"
+"KHARIF","AGRICULTURE","Others","Others","Sowing Time and Weather","Farmer want to know information about weather forecast ?","Sheopur 1 – 3 Day Weather Forecast Summary: Light rain (total 4mm), mostly falling on Mon night. Warm (max 34°C on Sun afternoon, min 23°C on Mon night). Winds increasing (light winds from the ENE on Sun morning, fresh winds from the NE by Tue morning).","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-12 07:18:45.757"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","How to control neck Blast disease in paddy crop?","Spray Tricyclazol, hexaconazol, propiconazol 20-25 gram per pump and steptrocyclin 2 to 3 gram per pump.","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-13 11:21:23.550"
+"KHARIF","AGRICULTURE","Others","Others","Weather","FARMER WANTS TO INFORMATION OF WEATHER OF SHEOPUR DISTRICT?","??????? ????????????
+????? ???? +25 ???.
+N 1 ??/??.
+????? ????
+???? ??: +25°
+????????: 1009.8 ???????????? 
+?????: +13°
+???: 49.4%
+????????????: 4 ????????
+???? ?? 13.10. 08:30 am
+?? ???? ??? Kota Aerodrome
+????? ????????, Kota Aerodrome > 3 ?????? ?????????
+?? 
+????? ????, ???? ?? ??? ????? ?? ???????
+??????: +34°
+???????: +24°
+?? 
+????? ???? ?? ???? ?????
+??????: +32°
+???????: +20°
+?????? 
+??????? ????
+??????: +34°
+???????: +21°
+10 ?????? ??????????? >","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-13 11:25:03.050"
+"RABI","AGRICULTURE","Others","Others","Weather","weather report ?","Sheopur 1 – 3 Day Weather Forecast Summary: Mostly dry. Warm (max 32°C on Thu afternoon, min 23°C on Tue night). Wind will be generally light.","MADHYA PRADESH","SHEOPUR KALA","VIJAYPUR                                          ","2014-10-14 10:08:57.663"
+"KHARIF","AGRICULTURE","Others","Others","Market Information","I WANT NUMBER RESISTER IN MANDI RATE  ?","YOUR NUMBER IS  RESISTER IN MANDI RATE","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-14 18:59:03.420"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","How to control stem borer in paddy crop?","Apply cartap hydro chloride 7 to 10 kg at per Acer.","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-15 09:00:11.447"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","Farmer want to know information about fungal attack in 	paddy ?","Hexaconazole 5%SC 200-250ml/acre or 20-25ml/pump","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-15 09:45:07.110"
+"KHARIF","AGRICULTURE","Millets","Pearl Millet (Bajra/Bulrush Millet/Spiked Millet)","Nutrient Management","Farmer want to know information about better growth of bajra ?","Planofix-5ml/pump","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-15 09:47:11.240"
+"KHARIF","AGRICULTURE","Others","Others","Weather","Farmer  want to  weather forecasting  information of District sheopurkala","DAY-1               DAY-2               DAY-3               DAY-4               DAY-5
+                              16/10               17/10               18/10               19/10               20/10
 ------------------- ------------------- ------------------- ------------------- ------------------- -------------------
-Rainfall (mm)                   3                  17                   0                   0                   0","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-12 11:56:05.057"
-"RABI","AGRICULTURE","Others","Others","Weather","farmer want to know information about weather?","no chance of rainfall for next week for shivpuri  dist","MADHYA PRADESH","SHEOPUR KALA","KARAHAL                                           ","2014-12-12 13:17:16.433"
-"RABI","AGRICULTURE","Others","Others","Weather","farmer want to know information about weather?","chance of light rainfall for  13-14 december for dist Sheopur","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-12 15:07:09.387"
-"RABI","AGRICULTURE","Others","Others","Weather","Weather information ?","chance of no  rainfall next five days.","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-12 19:52:14.013"
-"RABI","AGRICULTURE","Others","Others","Weather","weather report in sheopur ?","Sheopur 1 – 3 Day Weather Forecast Summary: Moderate rain (total 10mm), heaviest on Sat afternoon. Warm (max 25°C on Fri afternoon, min 16°C on Fri night). Wind will be generally light.","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-12 21:46:28.753"
-"RABI","AGRICULTURE","Cereals","Wheat","Weather","weather information ?","DAY-1               DAY-2               DAY-3               DAY-4               DAY-5
-                              13/12               14/12               15/12               16/12               17/12
+Rainfall (mm)                   0                   0                   0                   0                   0","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-15 13:43:59.030"
+"RABI","AGRICULTURE","Others","Others","Market Information","farmer wants to registration for sms alert .","your mobile number has been registerd .","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-15 15:11:04.180"
+"KHARIF","AGRICULTURE","Others","Others","Weather","farmer want to weather information of district?","No rainfall chance in your district and weather will some cloudy at next 5 days weather will some cloudy.","MADHYA PRADESH","SHEOPUR KALA","KARAHAL                                           ","2014-10-15 21:35:52.750"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","How to control stem borer in paddy crop?","Apply cartap hydro chloride 7 to 10 kg at per Acer.","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-16 08:52:57.300"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","how to control of seeth blight in paddy crop?","????? ????? ?? ????????????? ( ?????) 1 ???? /?? ?? ?????? 2 ????/?? ?? ?? ?? 15 ??? ?? ?????? ?? ?????? ?????","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-16 15:49:14.043"
+"KHARIF","HORTICULTURE","Vegetables","Tomato","	Plant Protection	","how to control flower drop in tomato ?","Foliar application of Planofix 5ml/pump.","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-17 08:52:21.603"
+"RABI","AGRICULTURE","Others","Others","Weather","Farmer want to know information about   weather forecast ?","THERE IN NO RAINFALL IN YOUR   DISTT, NEXT 5 DAYS","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-17 19:00:42.280"
+"RABI","AGRICULTURE","Oilseeds","Soybean (bhat)","	Plant Protection	","how to control white rust on musterd crop.","rodomil MZ 72 wp or mencojeb 40 gram/pump and steptrocyclin 2 to 3 gram per pump.","MADHYA PRADESH","SHEOPUR KALA","VIJAYPUR                                          ","2014-10-18 11:23:23.087"
+"RABI","AGRICULTURE","Others","Others","Weather","farmer  want to know information about mandi price  has activate ?","your mobile no. mandi price  has activated within some time  start .","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-18 14:48:40.957"
+"KHARIF","HORTICULTURE","Condiments and Spices","Garlic","Nutrient Management","Fertilizer dose in garlic crop?","Urea 175 kg, DAP 109 kg and MOP 86 kg per hac.","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-19 19:02:07.433"
+"KHARIF","HORTICULTURE","Condiments and Spices","Garlic","	Plant Protection	","FARMER WANT TO HOW KNOW TO CONTROL FUNGAL INFECTION IN garlic CROP ?","Recommended for spray  Tricoderma  viride 2.5 kg/ha mix in 50 kg FYM/acre , sprinkered with water and cover with polythein and apply after 2 days when proper moisture in field","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-19 19:05:52.023"
+"RABI","AGRICULTURE","Cereals","Wheat","Fertilizer Use and Availability","Farmer wants to know about fertilizer dose in wheat crop?","Recommended for Urea 175 kg, DAP 109 kg and MOP 50 kg per hac.","MADHYA PRADESH","SHEOPUR KALA","VIJAYPUR                                          ","2014-10-20 08:51:51.997"
+"RABI","AGRICULTURE","Cereals","Wheat","Fertilizer Use and Availability","Farmer wants to know about fertilizer dose in wheat crop?","Recommended for Urea 175 kg, DAP 109 kg and MOP 50 kg per hac.","MADHYA PRADESH","SHEOPUR KALA","VIJAYPUR                                          ","2014-10-20 08:52:21.590"
+"RABI","AGRICULTURE","Cereals","Wheat","Fertilizer Use and Availability","Farmer wants to know about fertilizer dose in wheat crop?","Recommended for Urea 175 kg, DAP 109 kg and MOP 50 kg per hac.","MADHYA PRADESH","SHEOPUR KALA","VIJAYPUR                                          ","2014-10-20 08:53:15.883"
+"RABI","AGRICULTURE","Cereals","Wheat","Fertilizer Use and Availability","Farmer wants to know about fertilizer dose in wheat crop?","Recommended for Urea 175 kg, DAP 109 kg and MOP 50 kg per hac.","MADHYA PRADESH","SHEOPUR KALA","VIJAYPUR                                          ","2014-10-20 08:53:40.407"
+"RABI","AGRICULTURE","Oilseeds","Mustard","	Plant Protection	","Farmer want to know information about control of pest in mustard ?","Profenofos 40% + Cypermrthrin 4%(35-40ml/pump)300-350ml/acre","MADHYA PRADESH","SHEOPUR KALA","KARAHAL                                           ","2014-10-20 12:59:30.100"
+"RABI","AGRICULTURE","Others","Others","Market Information","farmer  want to know information about mandi price  has activate ?","in  your mobile mandi price  has activated within some time  start  on your mobile.","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-20 14:34:21.650"
+"RABI","AGRICULTURE","Others","Others","Weather","Farmer want to know information about weather forecast ?","STATE :  MADHYA-PRADESH   
 ------------------- ------------------- ------------------- ------------------- ------------------- -------------------
-Rainfall (mm)                   3                  17                   0                   0                   0","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-13 08:06:12.790"
-"RABI","AGRICULTURE","Cereals","Wheat","Fertilizer Use and Availability","farmer want to know information about  how to increase growth of  wheat ?","foliar application of IFFCO 19:19:19 water soluble fertilizer @ 100 gm/pump","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-13 08:18:37.213"
-"RABI","AGRICULTURE","Cereals","Wheat","	Plant Protection	","how to control nematode in wheat crop ?","RECOMMENDED FOR APPLY TO CARBOFURAN 10 KILOGRAM PER ACRE.","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-13 10:37:40.940"
-"RABI","AGRICULTURE","Others","Others","Weather","farmer want to know information about weather forecast ?","1 – 3 Day Weather Forecast Summary: Mostly dry. Warm (max 23°C on Sun afternoon, min 13°C on Mon night). Wind will be generally light","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-14 06:52:12.840"
-"RABI","AGRICULTURE","Others","Others","Weather","Farmer want to know information about weather forecasting?","DAY-1               DAY-2               DAY-3               DAY-4               DAY-5
-                              14/12               15/12               16/12               17/12               18/12
+    PARAMETERS                                            ENSEMBLE FCST   
+                   ----------------------------------------------------------------------------------------------------
+                              DAY-1               DAY-2               DAY-3               DAY-4               DAY-5
+                              21/10               22/10               23/10               24/10               25/10
 ------------------- ------------------- ------------------- ------------------- ------------------- -------------------
-Rainfall (mm)                  13                   0                   0                   0                   0","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-14 06:59:11.073"
-"RABI","AGRICULTURE","Others","Others","Weather","farmer want to know information about weather sheorpur ?","chance of light rainfall for  14 december for dist sheorpur","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-14 07:27:56.043"
-"RABI","AGRICULTURE","Others","Others","Weather","farmer want to weather information of SHEOPUR
-district?","No rainfall chance in your district and weather will some cloudy at next 5 days weather will some cloudy.","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-14 07:32:57.310"
-"RABI","AGRICULTURE","Others","Others","Weather","Farmer want to know information about     weather forecast ?","14/12               15/12               16/12               17/12               18/12
+Rainfall (mm)                   0                   0                   0                   0                   0
+Max Temperature ( deg C)       33                  34                  33                  34                  34","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-20 16:25:17.107"
+"RABI","AGRICULTURE","Cereals","Wheat","Varieties","farmar want know what are the variety of wheat?","Rain Fed- Amrta (HI-1500) C-306, Sujata
+Semi Irrigated - JW-3211. JW-3020. JW-3173, JW-17
+Irrigated - GW-322, GW-273, GW-366, WH-147, JW-1106(D), JW-3288, JW-1215(D), HI 8498, HI-1544, WH-147","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-20 20:19:01.600"
+"RABI","HORTICULTURE","Vegetables","Tomato","	Plant Protection	","farmer want to know information about How to control flower drop problem in tomato crop?","Spray Plano fix 4 to 5 Ml at 15 liter of water.","MADHYA PRADESH","SHEOPUR KALA","VIJAYPUR                                          ","2014-10-21 09:38:07.180"
+"KHARIF","AGRICULTURE","Others","Others","Government Schemes","FARMER WANT TO KNOW ABOUT govt. schemes of agriculture ?","Please contact your R.A.E.O officer or agriculture officer of block office or farmer welfare and agriculture development office of your district.","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-21 12:01:27.487"
+"RABI","AGRICULTURE","Pulses","Bengal Gram (Gram/Chick Pea/Kabuli/Chana)","Seeds","Gram varieties ?","Gram varieties are JG-11, 74, Vishvas, Gorav , Radhe, Avarodhi..","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-21 13:12:32.113"
+"RABI","AGRICULTURE","Pulses","Bengal Gram (Gram/Chick Pea/Kabuli/Chana)","Seeds","Wilt disease in gram ?","seed treatment by Thirum @ 2.5 gm./1 kg seed and Trichoderma viride powder @ 450-500 gm./1 Quintal seeds..","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-21 13:17:21.267"
+"RABI","AGRICULTURE","Others","Others","Government Schemes","farmer want to camplain no. ?","please contact 155343 .","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-21 14:27:42.587"
+"RABI","AGRICULTURE","Others","Others","Weather","other information for toll free no. ?","other information for toll free no. ->181","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-21 14:27:57.473"
+"RABI","AGRICULTURE","Others","Others","Government Schemes","farmer want to camplain no. ?","please contact 155343 .","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-21 14:37:26.043"
+"RABI","HORTICULTURE","Condiments and Spices","Fenugreek","Cultural Practices","Varieties of fenugreek crop?","Lam selection 1,Pusa Early Bunching,Rajendra Kranti,Hissar sonali,Co.1,RMt-  1,RMt- 143","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-21 16:52:19.807"
+"RABI","AGRICULTURE","Cereals","Wheat","Fertilizer Use and Availability","What is the recommended dose of fertilizer of Wheat ?","Ans:-  basal dose of fertilizer is 40kg DAP, 20kg Urea , 25kg MOP/acer. Apply remaining half dose of N at crown root initiation stage (15- 20 DAS) by top dressing of Urea @ 35kg/acer.","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-21 19:09:30.697"
+"RABI","HORTICULTURE","Condiments and Spices","Coriander","	Plant Protection	","Farmer wants to know information about seed treatment of coriander ?","recommended for  seed treatment of coriander treat the seed with thiram or captan or mancozab or monosan @2-2.5gram/kg of  seed.","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-22 09:41:04.467"
+"RABI","AGRICULTURE","Others","Others","Market Information","I want number resister in mandi rate ?","your number has been update registered for mandi rate .","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-22 10:14:47.757"
+"RABI","AGRICULTURE","Others","Others","Market Information","Farmer mandi rate facility wants to start on mobile phone?","Mandi rate facility has been successfully activated on your mobile phone.","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-22 13:56:16.243"
+"RABI","AGRICULTURE","Others","Others","Government Schemes","farmer want to know information about market information ?","you are registered for mandi information from kisaan call center","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-22 14:34:24.947"
+"KHARIF","AGRICULTURE","Others","Others","Weather","MNDI RATE INFORMATION OF SOYBEAN ?","Soyabean - Yellow 2600 2892 2791 Rs/Quintal","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-22 14:50:36.153"
+"RABI","AGRICULTURE","Others","Others","Weather","farmer want to know information about weather?","---------------------------------------------------------------------------------------------
+                              DAY-1               DAY-2               DAY-3               DAY-4               DAY-5
+                              23/10               24/10               25/10               26/10               27/10
 ------------------- ------------------- ------------------- ------------------- ------------------- -------------------
-Rainfall (mm)                  13                   0                   0                   0                   0","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-14 07:41:31.267"
-"RABI","AGRICULTURE","Others","Others","Weather","farmer want to know information about weather forecast in sheopur?","chance of low rainfall for  14 october in your district.","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-14 07:44:54.793"
-"RABI","AGRICULTURE","Others","Others","Weather","farmer want to know information about  weather forecast ?","1 – 3 Day Weather Forecast Summary: Light rain (total 7mm), mostly falling on Sun afternoon. Warm (max 24°C on Sun afternoon, min 13°C on Mon night). Wind will be generally light.","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-14 11:52:45.090"
-"RABI","AGRICULTURE","Cereals","Wheat","Fertilizer Use and Availability","Farmer want to know information about fertilizer doses in wheat ?","Wheat-Urea-100kg,DAP-50kg,MOP-25kg/acre","MADHYA PRADESH","SHEOPUR KALA","KARAHAL                                           ","2014-12-15 07:15:58.393"
-"RABI","HORTICULTURE","Vegetables","Potato","	Plant Protection	","Farmer want to know information about control of sucking pest ?","Imidachlopride 17.8% SL 50-80ml/acre or 5-7ml/pump for control of sucking pest","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-15 14:20:42.550"
-"RABI","HORTICULTURE","Vegetables","Potato","	Plant Protection	","How to control sucking pest in potato crop?","Spray Dimethoate 30%EC (Rogar) 40 ml per pump.","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-15 14:34:01.353"
-"RABI","AGRICULTURE","Cereals","Wheat","	Water Management	","farmer want to know information about WATER MANAGEMENT in wheat?","recommended for The crop requires 4 - 6 irrigations depending on the soil type and rainfall. Wheat crop requires minimum of 5 irrigations at the following critical stages.
-I – Immediately after sowing
-II – Crown root intiation : 15-20 DAS 
-III- Active tillering stage : 35-40 DAS
-IV- Flowering stage : 50-55 DAS
-V- Grain filling stage : 70-75 DAS
-Crown root initiation and flowering are the most critical stages. Water stagnation should be voided at the time of germination.","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-15 15:30:15.910"
-"RABI","AGRICULTURE","Others","Others","Market Information","Farmer want to know information about  number resister in mandi rate and agriculture crops S.M.S. facilitiese ?","your number has been update registered for mandi rate and agriculture crops S.M.S. facilitiese. |","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-15 19:16:28.327"
-"RABI","AGRICULTURE","Others","Others","Market Information","Farmer want to know information about mandi rate ?","In your mobile mandi rate started after some time it will come in your mobile","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-15 21:16:17.787"
-"RABI","HORTICULTURE","Vegetables","Potato","	Plant Protection	","Farmer want to know information about control of sucking pest ?","Imidachloropide-17.8% SL 50-70ml/acre","MADHYA PRADESH","SHEOPUR KALA","VIJAYPUR                                          ","2014-12-16 10:18:14.570"
-"RABI","HORTICULTURE","Vegetables","Potato","	Plant Protection	","Farmer want to know information about control of fungal attack in","Carbendazim 12% + Mencozeb 63% 250-300gm/acre or 25-30gm/pump","MADHYA PRADESH","SHEOPUR KALA","VIJAYPUR                                          ","2014-12-16 10:19:31.457"
-"RABI","HORTICULTURE","Vegetables","Potato","Nutrient Management","Farmer want to know information about better growth of potato ?","NPK-19:19:19 100gm/pump for better growth","MADHYA PRADESH","SHEOPUR KALA","VIJAYPUR                                          ","2014-12-16 10:21:06.983"
-"RABI","HORTICULTURE","Flowers","Marigold","Seeds and Planting Material","variety of marigold crop.","Local types (orange & yellow), Pusa Narangi Gainda, Pusa Basanthi Gainda and MDU 1 can be cultivated.","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-16 11:53:48.760"
-"RABI","HORTICULTURE","Condiments and Spices","Coriander","	Plant Protection	","how to control weed in coriander crop ?","apply hand weeding only ?","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-17 17:45:20.203"
-"RABI","AGRICULTURE","Cereals","Wheat","	Plant Protection	","farmer want to know information about How to control of rodents attack in wheat  crop?","to control of rodents attack in wheat  crop apply zinc phosphide in field.","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-18 16:00:40.043"
-"RABI","AGRICULTURE","Cereals","Wheat","Fertilizer Use and Availability","Which fertilizer and nutrient give for better growth in wheat crop?","Recommended for Spray N: P: K 19:19:19 100 grams and humic acid 30 ml at 15 liter of water.","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-18 17:31:31.070"
-"RABI","AGRICULTURE","Others","Others","Weather","weather report in sheopur ?","Sheopur 1 – 3 Day Weather Forecast Summary: Mostly dry. Warm (max 24°C on Sat afternoon, min 16°C on Thu night). Wind will be generally light","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-18 20:06:57.990"
-"RABI","HORTICULTURE","Condiments and Spices","Coriander","	Plant Protection	","farmer want to know information about How to control of fungal attack in  crop?","use copper oxy chloride 40 gram and streptocyclin 2 gram at 15 liter of water","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-20 08:50:36.993"
-"RABI","HORTICULTURE","Drug and Narcotics","Tobacco","	Plant Protection	","farmer want to know information about Which fertilizer and nutrient give for better growth ?","Spray N: P: K 19:19:19 100 grams 15 liter of water.","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-20 12:47:00.177"
-"RABI","AGRICULTURE","Cereals","Wheat","	Plant Protection	","farmer want to know information about  how to increase growth of  wheat ?","Ans:- foliar application of IFFCO 19:19:19 water soluble fertilizer @ 100 gm/pump.","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-20 15:54:44.393"
-"RABI","AGRICULTURE","Cereals","Wheat","	Plant Protection	","How to control Termite Attack  in wheat crop ?","Apply Chlorpyriphos 4% Dust 15 kg per Hactare.","MADHYA PRADESH","SHEOPUR KALA","VIJAYPUR                                          ","2014-12-20 17:12:34.423"
-"RABI","HORTICULTURE","Condiments and Spices","Coriander","	Plant Protection	","how to control root rot of coriander crop ?","Recommended for spray  Mencozeb + Carbindazim (Saaf or  sixer)@ 30 g /pump .","MADHYA PRADESH","SHEOPUR KALA","VIJAYPUR                                          ","2014-12-21 07:46:45.170"
-"RABI","HORTICULTURE","Condiments and Spices","Coriander","	Plant Protection	","how to control rot root of coriender crop ?","Recommended for spray  Mencozeb + Carbindazim (Saaf or  sixer)@ 30 g /pump .","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-22 08:58:18.447"
-"RABI","HORTICULTURE","Condiments and Spices","Coriander","	Plant Protection	","how to control wilt of coriender crop ?","spray thiophanate methyl 20 gram per pump .","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-22 09:08:32.187"
-"RABI","AGRICULTURE","Others","Others","	Plant Protection	","How to control white fly in soyabean crop?","Spray Dimethoate 30%EC (Rogar) 40 ml per pump.","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-23 16:40:01.343"
-"RABI","HORTICULTURE","Vegetables","Pea (Vegetable)","	Plant Protection	","How to control flower drop problem in PEA crop?","Spray Plano fix 4 to 5 Ml at 15 liter of water.","MADHYA PRADESH","SHEOPUR KALA","VIJAYPUR                                          ","2014-12-23 21:44:43.650"
-"RABI","AGRICULTURE","Others","Others","Government Schemes","Farmer  want number activate in sms facility ?","your number is resistard in sms facility","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-24 13:19:36.890"
-"RABI","AGRICULTURE","Others","Others","Market Information","Farmer want to know information about to activate sms advisory scheme for mandi rate ?","To activate will sms advisory scheme for mandi rate on your mobile","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-24 13:34:17.197"
-"RABI","AGRICULTURE","Others","Others","Market Information","farmer want to known mandi rate facility ?","your mobile number mandi rate update","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-25 15:24:26.380"
-"RABI","HORTICULTURE","Vegetables","Potato","	Plant Protection	","Farmer wants to know information about How to control of fungal attack in potato  crop?","Recommended for to control of fungal attack use copper oxy chloride 40 gram and streptocyclin 2 gram at 15 liter of water","MADHYA PRADESH","SHEOPUR KALA","VIJAYPUR                                          ","2014-12-25 15:52:44.913"
-"RABI","HORTICULTURE","Condiments and Spices","Coriander","Nutrient Management","farmer want to know information about  how to increase growth of coriander crop.","recommended for foliar application of IFFCO 19:19:19 water soluble fertilizer @ 100 gm/pump.","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-26 10:25:46.497"
-"RABI","AGRICULTURE","Others","Others","Market Information","farmer want to know information about number activate in sms facility ?","your number is resistard in sms facility","MADHYA PRADESH","SHEOPUR KALA","VIJAYPUR                                          ","2014-12-26 20:52:35.003"
-"RABI","HORTICULTURE","Condiments and Spices","Coriander","	Plant Protection	","FARMER WANT TO HOW KNOW TO CONTROL FUNGAL INFECTION IN coriandar CROP ?","Recommended for spray Metalaxyl + Mencozeb @ 30 g/pump.","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-27 14:34:22.867"
-"RABI","AGRICULTURE","Others","Others","Weather","Farmer want to know information about weather forecast  ?","your district no rainfall 3 day but next 4 days some cloudy weather.","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-28 15:09:58.877"
-"RABI","AGRICULTURE","Others","Others","Weather","farmer want to know information about weather?","31/12               01/01               02/01               03/01               04/01
-Rainfall (mm)                   0                   0                   0                   0                   0","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-31 07:27:30.860"
-"RABI","AGRICULTURE","Others","Others","	Plant Protection	","farmer want to know information about  how to increase growth of  coriandar?","Ans:- recommended for foliar application of NPK 19:19:19 water soluble fertilizer @ 100 gm/pump.","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-31 08:14:56.340"
-"RABI","AGRICULTURE","Others","Others","Weather","farmer want to know information about weather?","chance of low rainfall for next 4 days in your dist |","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-31 10:01:54.913"
-"RABI","AGRICULTURE","Others","Others","Weather","farmer want to know information about weather shivpuri ?","no chance of rainfall for next week for shivpuri  dist","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-12-31 20:45:32.603"
+Rainfall (mm)                   0                   0                   0                   0                   0","MADHYA PRADESH","SHEOPUR KALA","VIJAYPUR                                          ","2014-10-22 15:34:36.740"
+"RABI","AGRICULTURE","Others","Others","Weather","farmer want to know information about weather?","---------------------------------------------------------------------------------------------
+                              DAY-1               DAY-2               DAY-3               DAY-4               DAY-5
+                              23/10               24/10               25/10               26/10               27/10
+------------------- ------------------- ------------------- ------------------- ------------------- -------------------
+Rainfall (mm)                   0                   0                   0                   0                   0","MADHYA PRADESH","SHEOPUR KALA","VIJAYPUR                                          ","2014-10-22 15:47:36.033"
+"RABI","AGRICULTURE","Others","Others","Market Information","Farmer wants to start mandi rate facility on mobile phone?","Mandi rate facility has been successfully activated on your mobile phone.","MADHYA PRADESH","SHEOPUR KALA","VIJAYPUR                                          ","2014-10-22 16:36:23.563"
+"RABI","AGRICULTURE","Others","Others","Weather","Farmer  want to  weather forecasting  information of District  sheopur","DAY-1               DAY-2               DAY-3               DAY-4               DAY-5
+                              23/10               24/10               25/10               26/10               27/10
+------------------- ------------------- ------------------- ------------------- ------------------- -------------------
+Rainfall (mm)                   0                   0                   0                   0                   0","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-23 06:49:11.127"
+"RABI","AGRICULTURE","Others","Others","Weather","Farmer  want to  weather forecasting  information of District dewas","DAY-1               DAY-2               DAY-3               DAY-4               DAY-5
+                              24/10               25/10               26/10               27/10               28/10
+------------------- ------------------- ------------------- ------------------- ------------------- -------------------
+Rainfall (mm)                   0                   0                   0                   0                   0","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-24 06:43:33.060"
+"RABI","AGRICULTURE","Others","Others","Weather","farmer want to know information about weather","-------------------------------------------------------------------------------------------
+                              DAY-1               DAY-2               DAY-3               DAY-4               DAY-5
+                              24/10               25/10               26/10               27/10               28/10
+------------------- ------------------- ------------------- ------------------- ------------------- -------------------
+Rainfall (mm)                   0                   0                   0                   0                   0","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-24 08:42:54.820"
+"RABI","AGRICULTURE","Others","Others","Weather","Farmer  want to  weather forecasting  information of District seopur kala?","DAY-1               DAY-2               DAY-3               DAY-4               DAY-5
+                              25/10               26/10               27/10               28/10               29/10
+------------------- ------------------- ------------------- ------------------- ------------------- -------------------
+Rainfall (mm)                   0                   0                   0                   0                   0","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-24 16:47:43.957"
+"RABI","AGRICULTURE","Others","Others","Weather","Want to know about Weather forecast information of my District?","26/10               27/10               28/10               29/10               30/10
+Rainfall (mm)                   0                   0                   0                   0                   0","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-25 14:32:58.643"
+"RABI","AGRICULTURE","Others","Others","Weather","farmer want to know information about weather forecast ?","26/10               27/10               28/10               29/10               30/10
+------------------- ------------------- ------------------- ------------------- ------------------- -------------------
+Rainfall (mm)                   0                   0                   0                   0                   0","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-25 16:42:31.460"
+"RABI","AGRICULTURE","Others","Others","Market Information","I want to resister my number for mandi rate ?","your number has been registered for mandi rate","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-26 14:21:23.813"
+"RABI","AGRICULTURE","Others","Others","Weather","farmer want to know information about weather forecast ?","27/10               28/10               29/10               30/10               31/10
+------------------- ------------------- ------------------- ------------------- ------------------- -------------------
+Rainfall (mm)                   0                   0                   0                   0                   0","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-27 09:12:45.400"
+"RABI","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","How to control flower drop problem in cotton  crop?","Spray Plano fix 4 to 5 Ml at 15 liter of water.","MADHYA PRADESH","SHEOPUR KALA","KARAHAL                                           ","2014-10-27 11:54:23.430"
+"KHARIF","AGRICULTURE","Cereals","Wheat","Nutrient Management","Fertilizer dose in mustard crop?","Urea 130kg, SSP 250 kg and MOP 66 kg per hac.","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-27 20:20:59.717"
+"RABI","AGRICULTURE","Others","Others","Weather","farmer want to know information about weather?","-------------------------------------------------------------------------------------------
+                              DAY-1               DAY-2               DAY-3               DAY-4               DAY-5
+                              28/10               29/10               30/10               31/10               01/11
+------------------- ------------------- ------------------- ------------------- ------------------- -------------------
+Rainfall (mm)                   0                   0                   0                   0","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-27 21:01:50.733"
+"RABI","AGRICULTURE","Cereals","Paddy (Dhan)","Market Information","want to know about mandi rate of Paddy ?","22/10/2014	27.3	Other	2000	2546	2330","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-28 10:36:38.207"
+"RABI","AGRICULTURE","Cereals","Wheat","Varieties","Varieties of Wheat crop?","Unirrigated – sujata, MP 3020, HW 2004 (amar), JWS 17, HI 1500, HI 1531, HI 4672 (Malavratna), HI 8627, HI 7483 (Meghdut)
+Irrigated within time - Lok-1, MP 1142, HI 1077 (Mangala), DL803-3 (kanchan), GW 190, GW 273, GW 322, MP 1142, GW 366, HI 8381 (Malavshree), HI 8498 (Malav shakti).
+Irrigated Late sown- Lok-1, GW 173, DL 788-2 (vidisha), HI 1454 (Abha), MP 4010, HI 1418 (Naveen Chandusi), HD 2402, HD 2932 (Pust wheat-111)","MADHYA PRADESH","SHEOPUR KALA","VIJAYPUR                                          ","2014-10-28 15:20:42.093"
+"RABI","AGRICULTURE","Others","Others","Weather","Weather forecast?","ENSEMBLE FCST   
+                   ----------------------------------------------------------------------------------------------------
+                              DAY-1               DAY-2               DAY-3               DAY-4               DAY-5
+                              30/10               31/10               01/11               02/11               03/11
+------------------- ------------------- ------------------- ------------------- ------------------- -------------------
+Rainfall (mm)                   0                   0                   0                   0                   0","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-30 07:05:58.277"
+"RABI","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","How to control caterpillars ?","Monocrotoph  36 s. L. 800 ml. / hac. Rate of spray.","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-30 07:25:24.673"
+"KHARIF","AGRICULTURE","Others","Others","Market Information","Farmer wants to start mandi rate facility on mobile phone?","Your mandi rate facility registration has been successfully registered at kishan call center.","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-30 08:15:10.347"
+"KHARIF","AGRICULTURE","Others","Others","Market Information","Farmer wants to start mandi rate facility on mobile phone?","Your mandi rate facility registration has been successfully registered at kishan call center.","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-30 08:15:10.770"
+"RABI","AGRICULTURE","Cereals","Paddy (Dhan)","Nutrient Management","Farmer want to know information about better growth for paddy ?","NPK-0:52:34 100gm/pump for better growth","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-30 09:34:44.013"
+"RABI","AGRICULTURE","Cereals","Paddy (Dhan)","Nutrient Management","Farmer want to know information about better growth for paddy ?","NPK-0:52:34 100gm/pump for better growth","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-30 09:34:44.803"
+"RABI","AGRICULTURE","Cereals","Wheat","Varieties","farmer want to know information about varieties of Wheat crop?","Irrigated within time - Lok-1, MP 1142, HI 1077 (Mangala), DL803-3 (kanchan), GW 190, GW 273, GW 322, MP 1142, GW 366, HI 8381 (Malavshree), HI 8498 (Malav shakti).","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-30 11:03:53.880"
+"RABI","AGRICULTURE","Pulses","Bengal Gram (Gram/Chick Pea/Kabuli/Chana)","Weather","weather forcast in shivpur kala?","31/10               01/11               02/11               03/11               04/11
+------------------- ------------------- ------------------- ------------------- ------------------- -------------------
+Rainfall (mm)                   0                   0                   0                   0                   0","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-31 06:23:56.363"
+"RABI","AGRICULTURE","Cereals","Wheat","	Plant Protection	","farmer want to know information about  Fertilizer dose in wheat crop ?","Urea 175 kg, DAP 109 kg and MOP 50 kg per hac.","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-31 06:46:42.600"
+"RABI","AGRICULTURE","Others","Others","Weather","farmer want to know information about weather forecast ?","31/10               01/11               02/11               03/11               04/11
+------------------- ------------------- ------------------- ------------------- ------------------- -------------------
+Rainfall (mm)                   0                   0                   0                   0                   0","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-31 07:38:55.810"
+"RABI","AGRICULTURE","Others","Others","Weather","farmer want to know information about weather forecast ?","31/10               01/11               02/11               03/11               04/11
+------------------- ------------------- ------------------- ------------------- ------------------- -------------------
+Rainfall (mm)                   0                   0                   0                   0                   0","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-31 07:46:16.853"
+"RABI","AGRICULTURE","Others","Others","Weather","Farmer want to know information about weather forecast ?","----------------------------------------------------------------------------------------------------
+                              DAY-1               DAY-2               DAY-3               DAY-4               DAY-5
+                              31/10               01/11               02/11               03/11               04/11
+------------------- ------------------- ------------------- ------------------- ------------------- -------------------
+Rainfall (mm)                   0                   0                   0                   0                   0
+Max Temperature ( deg C)       32                  32                  31                  32                  33","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-31 08:22:15.320"
+"RABI","AGRICULTURE","Others","Others","Market Information","Farmer wants to start mandi rate facility on mobile phone?","Mandi rate facility has been successfully activated on your mobile phone.","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-31 10:58:26.173"
+"RABI","AGRICULTURE","Others","Others","Nutrient Management","Varieties of wheat crop?","Irrigated within time - Lok-1, MP 1142, HI 1077 (Mangala), DL803-3 (kanchan), GW 190, GW 273, GW 322, MP 1142, GW 366, HI 8381 (Malavshree), HI 8498 (Malav shakti).","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-31 15:44:21.853"
+"RABI","AGRICULTURE","Others","Others","Market Information","Farmer mandi rate facility wants to start on mobile phone?","Mandi rate facility has been successfully activated on your mobile phone.","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-31 15:46:34.237"
+"RABI","AGRICULTURE","Others","Others","Weather","farmer wants to information of weather of sheopur district?","??????? ????????????
+??? ???? +28 ???.
+N 2 ??/??.
+??? ????
+???? ??: +28°
+????????: 1011.1 ???????????? 
+?????: +13°
+???: 40.4%
+????????????: 4 ????????
+???? ?? 31.10. 14:30
+?? ???? ??? Kota Aerodrome
+????? ????????, Kota Aerodrome > 3 ?????? ?????????
+?? 
+??? ????
+??????: +29°
+???????: +21°
+?? 
+????? ??? ?? ????
+??????: +32°
+???????: +17°
+?????? 
+????? ????
+??????: +32°
+???????: +18°
+10 ?????? ??????????? >","MADHYA PRADESH","SHEOPUR KALA","SHEOPUR                                           ","2014-10-31 17:46:19.333"

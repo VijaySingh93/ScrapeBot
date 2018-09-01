@@ -1,61 +1,36 @@
 "Season","Sector","Category","Crop","QueryType","QueryText","KCCAns","StateName","DistrictName","BlockName","CreatedOn"
-"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","How to control Blast disease in paddy crop?","Spray Tricyclazol, hexacorazol, propiconazol 20-25 ml per pump and steptrocyclin 2 to 3 gram per pump.","CHHATTISGARH","Surajpur","BHAIYATHAN","2014-11-02 13:22:22.843"
-"RABI","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","how to control insect in chilli ?","use emmamectin benjoate","CHHATTISGARH","Surajpur","PRATAPPUR","2014-11-03 10:32:32.010"
-"RABI","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","??? ???? ??? ?? ??? ???? ??, ?? ??? ?? ????? ??? ?? ???? ?????? ??? ???????? ?? ? ???? ?????? ??? ??????? ?? ????? ??? ??? ???? ???? ???? ?","????????????? 20 ??????? 2500 ??.??. ?? ?????????????? 80 ??????? 600 ??.??.","CHHATTISGARH","Surajpur","PREMNAGAR","2014-11-04 08:28:10.553"
-"RABI","HORTICULTURE","Condiments and Spices","Coriander","	Plant Protection	","how to control weeds ?","Pre-emergence spray of herbicide Fluchloralin 700 ml in 500 lit/ha.  Thinning is done 30 days after sowing. Subsequent weeding is done as and when necessary.","CHHATTISGARH","Surajpur","RAMANUJNAGAR","2014-11-04 15:14:59.630"
-"RABI","HORTICULTURE","Vegetables","Mushroom","	Plant Protection	","mushroom seed production ?","conntact to igkv , raipur  kvk , training centre","CHHATTISGARH","Surajpur","BHAIYATHAN","2014-11-05 18:27:51.220"
-"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","Farmer want to information about Fungal attack in paddy crop ?","Use copper oxy chloride 45 gram and steptrocyclin 2 gram at 15 liter of watr.","CHHATTISGARH","Surajpur","PRATAPPUR","2014-11-06 08:05:18.860"
-"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","which fertilizer and nutrient give for better growth in PADDY crop?","Spray N: P: K 19:19:19 100 grams and humic acid 30 ml at 15 liter of water.","CHHATTISGARH","Surajpur","BHAIYATHAN","2014-11-06 11:12:13.057"
-"RABI","HORTICULTURE","Vegetables","Peas (field peas/ garden peas/matar)","	Plant Protection	","weeds control in pea ?","apply metribuzin @ 250 gram / acre","CHHATTISGARH","Surajpur","RAMANUJNAGAR","2014-11-06 17:26:29.413"
-"KHARIF","HORTICULTURE","Vegetables","Potato","Seeds and Planting Material","How to control white fly in potato crop?","Spray of imidaclorprid 17.8%SL 5 to 6 ml per pump.","CHHATTISGARH","Surajpur","SURAJPUR","2014-11-08 10:27:27.720"
-"RABI","AGRICULTURE","Cereals","Wheat","	Field Preparation	","farmer want to know information about Seed treatment in  crop.","Use bavastim 3 gm per kg of seed","CHHATTISGARH","Surajpur","SURAJPUR","2014-11-08 11:09:27.843"
-"RABI","AGRICULTURE","Pulses","Bengal Gram (Gram/Chick Pea/Kabuli/Chana)","	Plant Protection	","How to control of fungal attack ?","Use copper oxy chloride 45 gram and steptrocyclin 2 gram at 15 liter of water.","CHHATTISGARH","Surajpur","RAMANUJNAGAR","2014-11-09 10:32:22.510"
-"KHARIF","HORTICULTURE","Vegetables","Tomato","	Plant Protection	","which fertilizer and nutrient give for better growth in tomato crop?","Spray N: P: K 19:19:19 100 grams and humic acid 30 ml at 15 liter of water","CHHATTISGARH","Surajpur","PREMNAGAR","2014-11-09 10:37:01.263"
-"JAYAD","AGRICULTURE","Cereals","Wheat","	Field Preparation	","Farmer wants to start mandi rate facility on mobile phone?","Mandi rate facility has been successfully activated on your mobile phone.","CHHATTISGARH","Surajpur","RAMANUJNAGAR","2014-11-09 11:59:47.503"
-"RABI","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","??? ???? ??? ?? ??? ???? ??, ?? ??? ?? ????? ??? ?? ???? ?????? ??? ???????? ?? ? ???? ?????? ??? ??????? ?? ????? ??? ??? ???? ???? ???? ?","????????????? 20 ??????? 2500 ??.??. ?? ?????????????? 80 ??????? 600 ??.??","CHHATTISGARH","Surajpur","BHAIYATHAN","2014-11-09 14:36:52.073"
-"RABI","AGRICULTURE","Cereals","Paddy (Dhan)","Fertilizer Use and Availability","dos of N:P:K","?????? ????? ???? ???? ??????? ?? ??? ?????? ?????
-... 80-120 ?? ????????? ????? ???????? ?? ?? ?? ????
-... 60 ?? ???????? ????? ???????? ?? ?? ?? ????
-... 30 ?? ????? ????? ???????? ?? ?? ?? ?????","CHHATTISGARH","Surajpur","SURAJPUR","2014-11-10 15:02:10.217"
-"KHARIF","AGRICULTURE","Cereals","Wheat","	Plant Protection	","Seed treatment in soybean crop?","Recommended for Use bavastim 3 gm per kg of seed.","CHHATTISGARH","Surajpur","BHAIYATHAN","2014-11-12 08:46:06.413"
-"RABI","HORTICULTURE","Vegetables","Bitter Gourd","	Plant Protection	","How to control of fungal attack in bittergaurd crop?","Recommended for Use copper oxy chloride 45 gram and steptrocyclin 2 gram at 15 liter of water.
-Recommended for Mancozeb 63% + Carbendazim 12% WP 40 gram and steptrocyclin 2 gram at 15 liter of water.","CHHATTISGARH","Surajpur","PRATAPPUR","2014-11-12 10:44:37.163"
-"RABI","HORTICULTURE","Vegetables","Cauliflower","	Plant Protection	","Wire stem: Rhizoctonia solani","Sterilized soil and seedbed drenches with Copper oxychloride 0.25% will give good disease control","CHHATTISGARH","Surajpur","BHAIYATHAN","2014-11-13 17:12:19.007"
-"RABI","HORTICULTURE","Vegetables","Cauliflower","	Plant Protection	","Wire stem: Rhizoctonia solani","Sterilized soil and seedbed drenches with Copper oxychloride 0.25% will give good disease control","CHHATTISGARH","Surajpur","BHAIYATHAN","2014-11-13 17:22:42.180"
-"RABI","AGRICULTURE","Cereals","Wheat","Varieties","dos of N:P:K in wheat","recommended dos of N:P:K  120:60:40 kg/hacr.(uria 260,SSP 375 or DAP 130 and MOP 67kg/hact)","CHHATTISGARH","Surajpur","BHAIYATHAN","2014-11-13 18:07:04.760"
-"RABI","HORTICULTURE","Vegetables","Tomato","	Plant Protection	","How to control of sucking pest","midacloprid 17.8 % SL 3.0 ml/10 lit., Dimethoate 30 % EC 1.0 ml/lit., Emamectin benzoate 5 % SG 4 g/10 lit,. Ethion 50 % EC 2.0 2.0 ml/lit. ,Fipronil 5 % SC 1.5 ml/lit. ,Thiacloprid 21.7 % SC 6.0 ml/10 lit. , Spinosad 45 % SC Spinosad 45 % SC.","CHHATTISGARH","Surajpur","BHAIYATHAN","2014-11-15 16:25:09.150"
-"RABI","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","How to control white fly in chilli crop?","Recommended for Spray Dimethoate 30%EC (Rogar) 40 ml per pump.","CHHATTISGARH","Surajpur","SURAJPUR","2014-11-16 07:24:24.727"
-"RABI","HORTICULTURE","Vegetables","Potato","	Plant Protection	","How to control of fungal attack in potato crop?","Recommended for Use copper oxy chloride 45 gram and steptrocyclin 2 gram at 15 liter of water.","CHHATTISGARH","Surajpur","ODGI","2014-11-16 09:12:43.577"
-"RABI","HORTICULTURE","Fruits","Mango","	Plant Protection	","Anthracnose and stalk end-rot","Pre-harvest spraying of Mancozeb 2g/lit or Carbendazim 1g/lit or Thiophanate methyl 1g/lit or Chlorothalonil 2 g/lit, 3 times at 15 days interval will control anthracnose and stalk end-rot.","CHHATTISGARH","Surajpur","SURAJPUR","2014-11-17 14:50:18.000"
-"KHARIF","HORTICULTURE","Condiments and Spices","Ginger","	Plant Protection	","how to control Soft rot or rhizome rot ?","Once the disease is located in the field, removal of affected clumps and drenching the affected and surrounding beds with mancozeb 2gm/litre of water checks the spread of the disease.","CHHATTISGARH","Surajpur","SURAJPUR","2014-11-17 16:57:26.400"
-"RABI","AGRICULTURE","Cereals","Paddy (Dhan)","Fertilizer Use and Availability","Fertilizer dose in wheat crop?","Urea 175 kg, DAP109 kg and MOP 50 kg per hac.","CHHATTISGARH","Surajpur","SURAJPUR","2014-11-17 18:31:27.750"
-"RABI","AGRICULTURE","Cereals","Wheat","Fertilizer Use and Availability","Fertilizer dose in wheat crop?","Urea 175 kg, DAP109 kg and MOP 50 kg per hac.","CHHATTISGARH","Surajpur","SURAJPUR","2014-11-17 18:36:06.543"
-"RABI","AGRICULTURE","Others","Others","Weather","weather information ?","some clouds in your area","CHHATTISGARH","Surajpur","SURAJPUR","2014-11-20 09:02:08.540"
-"RABI","HORTICULTURE","Vegetables","Potato","	Plant Protection	","Farmer want to know information about How to control of fungal attack in soyabean crop?","Mancozeb 63% + Carbendazim 12% WP 40 gram and steptrocyclin 2 gram at 15 liter of water.","CHHATTISGARH","Surajpur","SURAJPUR","2014-11-20 11:40:48.933"
-"RABI","AGRICULTURE","Cereals","Paddy (Dhan)","	Field Preparation	","How to control aphids in paddy crop?","Spray imidaclorprid 17.8%SL 5 to 6 ml per pump.","CHHATTISGARH","Surajpur","SURAJPUR","2014-11-20 11:50:19.150"
-"RABI","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","Farmer  want number activate in sms facility ?","your number is resistard in sms facility","CHHATTISGARH","Surajpur","SURAJPUR","2014-11-22 06:26:25.343"
-"RABI","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","How to control of fungal attack in brinjal crop?","Recommended for Use copper oxy chloride 45 gram and steptrocyclin 2 gram at 15 liter of water.","CHHATTISGARH","Surajpur","SURAJPUR","2014-11-22 15:05:05.220"
-"RABI","HORTICULTURE","Condiments and Spices","Coriander","Cultural Practices","how to control weeds in coriander ?","Pre-emergence spray of herbicide Fluchloralin 700 ml in 500 lit/ha.  Thinning is done 30 days after sowing. Subsequent weeding is done as and when necessary.","CHHATTISGARH","Surajpur","PRATAPPUR","2014-11-23 20:09:49.490"
-"RABI","AGRICULTURE","Cereals","Paddy (Dhan)","	Field Preparation	","Farmer want to know about Varieties of Wheat crop?","GW-322, GW-273, GW-366, WH-147, JW-1106(D), JW-3288, JW-1215(D),
- HI 8498, HI-1544, WH-147","CHHATTISGARH","Surajpur","SURAJPUR","2014-11-26 20:45:03.227"
-"RABI","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","Varieties of paddy","sambleshwari,karma masuri,chandra hasani,jaldubi,rajeshawi","CHHATTISGARH","Surajpur","SURAJPUR","2014-11-27 15:09:33.560"
-"RABI","HORTICULTURE","Vegetables","Chillies","Vegetative Propagation and Tissue Culture","varieties of cilli","US Agriseeds 	US 611,US 720
-Seminis	Sitara
-VNR Seeds	VNR 109,VNR 332, VNR 277
-Nunhems India Ltd.	Ujala,Aditi,Preeti,Indu
-Syngenta India Ltd.	No. 1900, No.2024, No. 12
-Nirmal Seeds Pvt. Ltd.	Maina
-Rasi Seeds	Saniya, Shreya
-Bejo Sheetal	Garima,Disha
-Namdhari	No. 1701
-Indo American	No. 67 ( Greenish black )
-Mahyco	Tanya,MHCP 321,MHCP 484,Teja 4,Tejaswini","CHHATTISGARH","Surajpur","PRATAPPUR","2014-11-27 16:57:32.737"
-"RABI","AGRICULTURE","Cereals","Paddy (Dhan)","Fertilizer Use and Availability","farmer want to know information about What are fertilizer doses in WHEAT crop?","Urea = 210. KG., DAP = 130. Kg., Muriate of potash = 65. Kg. and zinc sulphate 25 kg   Use per hectare.","CHHATTISGARH","Surajpur","SURAJPUR","2014-11-28 12:16:36.913"
-"RABI","HORTICULTURE","Vegetables","Potato","	Plant Protection	","Early blight of potato","spraying of Copper Oxychloride (0.30%) and Bordeaux mixture (1.0%), is recommended for control of early blight disease.
-Solanaceous crops,","CHHATTISGARH","Surajpur","SURAJPUR","2014-11-28 14:43:45.653"
-"RABI","HORTICULTURE","Vegetables","Potato","Fertilizer Use and Availability","DOS OF N:P:K in potato","Recommended for N:P:K 150:100:100 kg/hact.","CHHATTISGARH","Surajpur","BHAIYATHAN","2014-11-28 17:59:14.753"
-"RABI","HORTICULTURE","Vegetables","Potato","	Plant Protection	","The disease mainly infects leaves and tubers. Initially the symptoms occur on the lower and older leaves in the form of small (1-2 mm) circular to oval brown spots.","In the hilly regions, spraying of Copper Oxychloride (0.30%) and Bordeaux mixture (1.0%), is recommended for control of early blight disease.","CHHATTISGARH","Surajpur","PRATAPPUR","2014-11-29 16:38:16.357"
-"RABI","HORTICULTURE","Vegetables","Potato","	Plant Protection	","what is fertilizer dose of wheat crop ?","Recommended for spray Imidacloprid 17.8 % SL (confidor) @ 7 ml /pump . ????????????","CHHATTISGARH","Surajpur","SURAJPUR","2014-11-29 17:23:01.237"
-"RABI","HORTICULTURE","Vegetables","Potato","	Plant Protection	","what is fertilizer dose of wheat crop ?","Recommended for spray Imidacloprid 17.8 % SL (confidor) @ 7 ml /pump . ????????????","CHHATTISGARH","Surajpur","SURAJPUR","2014-11-29 17:36:35.570"
-"RABI","HORTICULTURE","Vegetables","Potato","	Plant Protection	","HOW TO CONTROL EARLY BLIGHT IN POTATO ?","spraying of Copper Oxychloride 3GM/litre  oF is recommended for control of early blight disease.","CHHATTISGARH","Surajpur","ODGI","2014-11-29 17:47:05.440"
-"RABI","AGRICULTURE","Cereals","Wheat","Varieties","Suitable Wheat variety?","Period for late sown irrigated (95-110) (15-16 qu yield/acre):-MP 1203, DL 788-2(vidisa), Lok-1, G. W. 173, MP 4010, HD 2864 (urja),HD 2932,","CHHATTISGARH","Surajpur","SURAJPUR","2014-11-30 09:19:21.220"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","Weather","weather in formation","??????? ????
+???? ??: +39°
+????????: 1005.1 ???????????? 
+?????: +22°
+???: 38.5%
+????????????: 4 ????????
+???? ?? 19.8. 02:30 pm
+?? ???? ??? Hissar
+????? ????????, Hissar >","CHHATTISGARH","Surajpur","PRATAPPUR","2014-08-19 17:11:54.673"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","How to control caterpillars in paddy crop?","Troijofos 40 EC 1000 Ml. / hac. Rate of spray.","CHHATTISGARH","Surajpur","PRATAPPUR","2014-08-20 07:12:15.253"
+"KHARIF","HORTICULTURE","Vegetables","Bhindi(Okra/Ladysfinger)","	Plant Protection	","thrips problem in bhinndi","Insecticide	Dose
+Imidacloprid 17.8 % SL	3.0 ml/10 lit.
+Dimethoate 30 % EC	1.0 ml/lit.
+Emamectin benzoate 5 % SG	4 g/10 lit.
+Ethion 50 % EC	2.0 ml/lit.
+Fipronil 5 % SC	1.5 ml/lit.
+Oxydemeton –Methyl 25 % EC	1.0 ml/lit.
+Phosalone 35 % EC	2.0 ml/lit.
+Spinosad 45 % SC	3.2 ml/10 lit.
+Thiacloprid 21.7 % SC	6.0 ml/10 lit.","CHHATTISGARH","Surajpur","BHAIYATHAN","2014-08-20 07:43:51.150"
+"KHARIF","HORTICULTURE","Vegetables","Cowpea (Vegetable)","	Plant Protection	","farmer want to know information about How to control white fly in cowpea crop?","Spray Dimethoate (Rogar) per pump.","CHHATTISGARH","Surajpur","PRATAPPUR","2014-08-21 16:19:08.037"
+"KHARIF","AGRICULTURE","Others","Others","Weather","farmer want to know information about   weather information ?","20/08               21/08               22/08               23/08               24/08
+------------------- ------------------- ------------------- ------------------- ------------------- -------------------
+Rainfall (mm)                   4                   6                   6                  12                  16
+Max Temperature ( deg C)       32                  33                  32                  29                  29","CHHATTISGARH","Surajpur","PRATAPPUR","2014-08-21 16:48:48.610"
+"KHARIF","HORTICULTURE","Vegetables","Cowpea (Vegetable)","	Plant Protection	","To know about the control of sucking pest","?????? ??? ????- ????, ???? ?????, ??????? ??? ?? ???? ????????????? 25 ???.??. ?? 750 ??.??. ????? ???????? ?? ?? ??????? ????","CHHATTISGARH","Surajpur","ODGI","2014-08-23 14:41:36.450"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","How to control weeds in paddy crop?","Spray Nomini gold (Bispayriback sodium) 80 gram per acar.","CHHATTISGARH","Surajpur","PRATAPPUR","2014-08-24 13:58:35.070"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","To know about the control of blast in paddy crop ?","???????? ????????? ???? ??????????????? (??? ?? ???) - 6 ????.10 ??. ????, ??????????????? (????????- 1 ????./??. ????) ?? ??????????? (?????????-1.5 ????/??. ????) ?? ??????? ???? ??????? ??? ?? ??????? ?? ?????? 12-15 ??? ??? ??????? ?????? ???? ???????","CHHATTISGARH","Surajpur","SURAJPUR","2014-08-24 16:25:27.997"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","Leaf Blast
+•Severe cases of infection - entire crop give a blasted or burnt appearance- hence the name ""BLAST""","???????? ????????? ???? ??????????????? (??? ?? ???) - 6 ????.10 ??. ????, ??????????????? (????????- 1 ????./??. ????) ?? ??????????? (?????????-1.5 ????/??. ????) ?? ??????? ???? ??????? ??? ?? ??????? ?? ?????? 12-15 ??? ??? ??????? ?????? ???? ???????","CHHATTISGARH","Surajpur","SURAJPUR","2014-08-24 18:56:27.130"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","farmer want to know information about blast attack of paddy?","spray tricyclazole 75% wp 200gm. per acre","CHHATTISGARH","Surajpur","BHAIYATHAN","2014-08-25 14:41:42.483"
+"KHARIF","HORTICULTURE","Vegetables","Tomato","	Plant Protection	","Control  of   Sucking Pests  of  Cotton, Rice and Vegetables ?","Spray of  Imidacloprid 17.8 % SL(confidor)  @ 7 ml/pump","CHHATTISGARH","Surajpur","PREMNAGAR","2014-08-26 06:50:10.763"
+"KHARIF","HORTICULTURE","Vegetables","Brinjal","Fertilizer Use and Availability","How to increase the growth & flowering of ?","???? ???  ??????? ?????? ???? ?? ?? ?? 0:52:34 @ 100 ????? / ??? +?????????????  @ 30 ??.?? / ??? ?? ?????? ????","CHHATTISGARH","Surajpur","SURAJPUR","2014-08-26 12:30:03.270"
+"KHARIF","HORTICULTURE","Plantation Crops","Coconut","	Plant Protection	","FRUIT DROP IN COCONUT","APPLY PLANOFIX @ 7 ML/PUMP","CHHATTISGARH","Surajpur","BHAIYATHAN","2014-08-28 15:54:51.723"
+"KHARIF","AGRICULTURE","Pulses","Black Gram (urd bean)","	Plant Protection	","To know about the control of sucking pest","?????? ??? ????- ????, ???? ?????, ??????? ??? ?? ???? ????????????? 25 ???.??. ?? 750 ??.??. ????? ???????? ?? ?? ??????? ?????","CHHATTISGARH","Surajpur","BHAIYATHAN","2014-08-28 18:14:37.490"
