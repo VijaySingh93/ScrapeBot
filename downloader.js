@@ -20,7 +20,8 @@ var checkUpper = (character) => {
 }
 var myArgs = process.argv.slice(2);
 console.log(5*myArgs[0])
-for(i=78;i<80;i++){
+x=myArgs;
+for(i=x*5;i<5+x*5;i++){
 fileName='./urls/url'+i.toString()+'.json';
 var obj = JSON.parse(fs.readFileSync(fileName, 'utf8')); 
 obj.forEach((i)=>{
@@ -43,15 +44,19 @@ obj.forEach((i)=>{
 	else break;
 
 	state=state.join(" ");district=district.join(" ");
+	month=i.title[i.title.length-2];
+	// console.log(i.title,month)
+	file=district+" "+month;
 	// console.log("state=",state,"district=",district);
 	options = {
-    directory: "./data/"+state+"/",
-    filename: district+".csv"
+    directory: "./MonthwiseData/"+state+"/",
+    filename: file+".csv",
+    timeout: 2000000
 	};
 	url=i.url;
 	download(url, options, function(err){
-    if (err) console.log("Got Error");
-    else console.log("meow");
+	    if (err) console.log("Got Error",err.message);
+	    else console.log("meow");
 	})
 	// sleep(10);
 })}
