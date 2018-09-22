@@ -1,6 +1,6 @@
 // import scrape from "./scrapeForDistrict"
 // import states from "./States.json"
-var forEach = require('async-foreach').forEach;
+// var forEach = require('async-foreach').forEach;
 var states = require('./States.json'); //with path
 const scrape=require('./scrapeForDistrict')
 // console.log(states)
